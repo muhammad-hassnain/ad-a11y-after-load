@@ -1,0 +1,36 @@
+Numbers behind the RQ1-rules, RQ2-size and RQ3-host figures
+==============================================================================
+
+RQ1 newly failing rules (2298 sites; 936 with any):
+  frame-title            wcag sites  292 (12.7%)  frames only  190  recurs on both visits 74/269 (27.5%)
+  aria-command-name      wcag sites  281 (12.2%)  frames only  280  recurs on both visits 64/260 (24.6%)
+  image-alt              wcag sites  236 (10.3%)  frames only  189  recurs on both visits 63/215 (29.3%)
+  aria-hidden-focus      wcag sites  205 (8.9%)  frames only  177  recurs on both visits 35/191 (18.3%)
+  link-name              wcag sites  133 (5.8%)  frames only  113  recurs on both visits 39/122 (32.0%)
+  button-name            wcag sites  109 (4.7%)  frames only   57  recurs on both visits 39/99 (39.4%)
+  color-contrast         wcag sites   97 (4.2%)  frames only   55  recurs on both visits 36/87 (41.4%)
+  aria-allowed-role      bp   sites   53 (2.3%)  frames only   11  recurs on both visits 19/43 (44.2%)
+  aria-prohibited-attr   wcag sites   51 (2.2%)  frames only   45  recurs on both visits 31/45 (68.9%)
+  role-img-alt           wcag sites   50 (2.2%)  frames only   50  recurs on both visits 4/45 (8.9%)
+  label                  wcag sites   46 (2.0%)  frames only   29  recurs on both visits 10/41 (24.4%)
+  aria-allowed-attr      wcag sites   38 (1.7%)  frames only   34  recurs on both visits 26/35 (74.3%)
+  region: {'rule': 'region', 'wcag': False, 'sites': 35, 'pct': 1.5, 'top_doc_sites': 16, 'frames_only_sites': 19, 'recur_both': 11, 'recur_either': 33, 'recur_pct': 33.3}
+
+RQ2 size of the difference in new violating nodes (1980 chance-check sites, first paired round):
+  t=1   ads-blocked >=t 45.2% [43.0, 47.4]  <=-t 8.2% [7.1, 9.5]   |   identical earlier-later >=t 29.9% [28.0, 32.0]  <=-t 22.9% [21.1, 24.8]
+  t=5   ads-blocked >=t 32.7% [30.7, 34.8]  <=-t 3.0% [2.3, 3.8]   |   identical earlier-later >=t 19.7% [18.1, 21.6]  <=-t 12.7% [11.3, 14.3]
+  t=10  ads-blocked >=t 24.0% [22.2, 26.0]  <=-t 1.8% [1.3, 2.4]   |   identical earlier-later >=t 14.3% [12.9, 16.0]  <=-t 7.7% [6.6, 9.0]
+  t=25  ads-blocked >=t 12.7% [11.3, 14.2]  <=-t 0.7% [0.4, 1.2]   |   identical earlier-later >=t 7.4% [6.4, 8.7]  <=-t 2.6% [2.0, 3.4]
+  t=50  ads-blocked >=t 6.6% [5.6, 7.8]  <=-t 0.6% [0.3, 1.0]   |   identical earlier-later >=t 3.6% [2.9, 4.5]  <=-t 1.3% [0.9, 1.9]
+  t=100 ads-blocked >=t 2.8% [2.2, 3.7]  <=-t 0.3% [0.1, 0.6]   |   identical earlier-later >=t 1.2% [0.8, 1.8]  <=-t 0.5% [0.3, 0.9]
+
+RQ3 organisations serving visible frames on >= 30 of 2273 sites (818 sites with a failing visible frame):
+  Google GPT/DoubleClick           listed reach  492  failing  445 = 90.4% [87.5, 92.7]
+  youtube.com                      other  reach  134  failing  126 = 94.0% [88.7, 96.9]
+  google.com                       other  reach  113  failing    2 = 1.8% [0.5, 6.2]
+  Google IMA SDK (ads in video)    listed reach  112  failing   10 = 8.9% [4.9, 15.7]
+  Piano                            listed reach  108  failing   31 = 28.7% [21.0, 37.9]
+  2mdn.net                         other  reach   89  failing   67 = 75.3% [65.4, 83.1]
+  Criteo                           listed reach   33  failing   33 = 100.0% [89.6, 100.0]
+  privacy-mgmt.com                 other  reach   33  failing   12 = 36.4% [22.2, 53.4]
+  facebook.com                     other  reach   30  failing   30 = 100.0% [88.6, 100.0]

@@ -1,0 +1,1164 @@
+{
+  "definition": "new(normal,k) - new(blocked,k), median over rounds; both arms included; new = violating nodes whose (rule, canonical selector) is absent at baseline",
+  "main": {
+    "pairs": 4113,
+    "sites": 2254,
+    "shares": {
+      "n": 2254,
+      "pos": 50.5,
+      "neg": 9.2,
+      "zero": 40.3
+    },
+    "pos_ci": [
+      50.5,
+      48.4,
+      52.5
+    ],
+    "hl": 3.5,
+    "hl_ci": [
+      3.0,
+      4.0
+    ],
+    "mean": 12.0,
+    "mean_ci": [
+      10.48,
+      13.57
+    ],
+    "median": 0.5,
+    "cohen_d": 0.31,
+    "noise": {
+      "sites": 1980,
+      "aa": {
+        "n": 1980,
+        "pos": 29.9,
+        "neg": 22.9,
+        "zero": 47.2
+      },
+      "ab": {
+        "n": 1980,
+        "pos": 45.2,
+        "neg": 8.2,
+        "zero": 46.6
+      },
+      "aa_net": 7.1,
+      "ab_net": 37.0,
+      "ab_net_ci": [
+        34.2,
+        39.7
+      ],
+      "excess_minus_aa": 29.9,
+      "excess_minus_aa_ci": [
+        26.2,
+        33.7
+      ],
+      "aa_disagree": 52.8
+    },
+    "per_rule": {
+      "role-img-alt": {
+        "normal": 615,
+        "blocked": 34,
+        "share": 94.5
+      },
+      "frame-title": {
+        "normal": 6328,
+        "blocked": 820,
+        "share": 87.0
+      },
+      "aria-command-name": {
+        "normal": 2526,
+        "blocked": 264,
+        "share": 89.5
+      },
+      "image-alt": {
+        "normal": 13034,
+        "blocked": 4191,
+        "share": 67.8
+      },
+      "link-name": {
+        "normal": 10409,
+        "blocked": 4511,
+        "share": 56.7
+      },
+      "button-name": {
+        "normal": 1432,
+        "blocked": 1172,
+        "share": 18.2
+      },
+      "region": {
+        "normal": 40979,
+        "blocked": 23042,
+        "share": 43.8
+      },
+      "color-contrast": {
+        "normal": 12950,
+        "blocked": 8586,
+        "share": 33.7
+      }
+    },
+    "family": {
+      "naming": 67.1,
+      "layout": 40.1
+    },
+    "sample": {
+      "sites_sampled": 2500,
+      "platform_domains": 35,
+      "sites_analysed": 2465,
+      "platform_domains_dropped": true,
+      "platform_domains_included": 0
+    },
+    "rq1_any_visit": [
+      66.8,
+      64.8,
+      68.7,
+      2298
+    ],
+    "rq1_majority": [
+      57.1,
+      55.1,
+      59.1,
+      2298
+    ],
+    "rq1_selector_ad": [
+      45.7,
+      43.7,
+      47.7,
+      2298
+    ],
+    "rq1_selector_ad_majority": [
+      34.5,
+      32.6,
+      36.5,
+      2298
+    ],
+    "rq1_selector_ad_or_sponsored": [
+      46.1,
+      44.1,
+      48.2,
+      2298
+    ],
+    "net_count": {
+      "sites": 2254,
+      "shares": {
+        "n": 2254,
+        "pos": 45.7,
+        "neg": 16.0,
+        "zero": 38.3
+      },
+      "mean": 10.01,
+      "mean_ci": [
+        7.99,
+        12.08
+      ]
+    },
+    "rq1_new_rule_any": [
+      40.7,
+      38.7,
+      42.8,
+      2298
+    ],
+    "rq1_new_rule_majority": [
+      24.4,
+      22.7,
+      26.2,
+      2298
+    ],
+    "rq1_new_rule_wcag": [
+      37.6,
+      35.6,
+      39.6,
+      2298
+    ],
+    "baseline_facts": {
+      "visits": 4304,
+      "visits_failing_at_load_pct": 99.3,
+      "sites_failing_at_load_every_visit_pct": 99.2,
+      "median_baseline_nodes": 61.0,
+      "median_new_nodes": 3.0,
+      "median_new_over_baseline_pct": 4.0
+    },
+    "records": {
+      "normal": 4927,
+      "blocked": 4921
+    },
+    "platform_records_dropped": {
+      "normal": 105,
+      "blocked": 105
+    },
+    "rounds_analysed": [
+      1,
+      3
+    ],
+    "round_records_skipped": {
+      "normal": 2465,
+      "blocked": 2458
+    },
+    "included_visits": {
+      "normal": 4304,
+      "blocked": 4400
+    },
+    "included_with_axe_error": {
+      "normal": 62,
+      "blocked": 64
+    },
+    "exclusions_normal": {
+      "included": 4304,
+      "fewer than 10 Tab presses": 243,
+      "no HTTP status": 102,
+      "HTTP status >= 400": 121,
+      "bot or hard consent wall": 157,
+      "wall flag with HTTP status >= 400": 151
+    },
+    "exclusions_blocked": {
+      "included": 4400,
+      "fewer than 10 Tab presses": 171,
+      "no HTTP status": 75,
+      "bot or hard consent wall": 161,
+      "wall flag with HTTP status >= 400": 155,
+      "HTTP status >= 400": 114
+    },
+    "dns_failures_by_visit": {
+      "1": 3,
+      "3": 4
+    },
+    "inclusion_by_region": {
+      "eu": 85.0,
+      "row": 88.3,
+      "us-en": 88.1
+    },
+    "google_ad_frame_in_inventory": {
+      "normal": [
+        58.7,
+        57.3,
+        60.2
+      ],
+      "blocked": [
+        2.8,
+        2.3,
+        3.3
+      ]
+    },
+    "google_ad_frame_blocked_sites": 62,
+    "pair_timing": {
+      "pairs": 4113,
+      "median_h": 15.3,
+      "p10_h": 11.8,
+      "p90_h": 16.8,
+      "over_12h_pct": 89.9,
+      "blocked_first": 3
+    },
+    "aa_timing": {
+      "sites": 1980,
+      "median_h": 50.5,
+      "under_24h_pct": 0.1
+    },
+    "order_check": {
+      "reverse_pairs": 1996,
+      "reverse_gap_median_h": 35.3,
+      "forward": {
+        "sites": 2254,
+        "pos": 50.5,
+        "neg": 9.2,
+        "net": 41.3,
+        "hl": 3.5,
+        "mean": 12.0
+      },
+      "reverse": {
+        "sites": 1996,
+        "pos": 43.1,
+        "neg": 10.3,
+        "net": 32.8,
+        "hl": 2.0,
+        "mean": 9.0
+      },
+      "forward_common": {
+        "sites": 1994,
+        "pos": 49.6,
+        "neg": 9.7,
+        "net": 40.0,
+        "hl": 3.0,
+        "mean": 10.47
+      },
+      "reverse_common": {
+        "sites": 1994,
+        "pos": 43.1,
+        "neg": 10.3,
+        "net": 32.8,
+        "hl": 2.0,
+        "mean": 9.01
+      },
+      "crossover": {
+        "sites": 1994,
+        "pos": 49.8,
+        "neg": 11.2,
+        "net": 38.6,
+        "hl": 2.88,
+        "mean": 9.74
+      },
+      "reverse_failed_audits_dropped": {
+        "sites": 1941,
+        "pos": 44.3,
+        "neg": 9.1,
+        "net": 35.1,
+        "hl": 2.5,
+        "mean": 9.6
+      }
+    },
+    "order_check_churn_filtered": {
+      "reverse_pairs": 1996,
+      "reverse_gap_median_h": 35.3,
+      "forward": {
+        "sites": 2254,
+        "pos": 44.0,
+        "neg": 8.9,
+        "net": 35.1,
+        "hl": 1.25,
+        "mean": 6.51
+      },
+      "reverse": {
+        "sites": 1996,
+        "pos": 36.4,
+        "neg": 9.8,
+        "net": 26.6,
+        "hl": 1.0,
+        "mean": 5.19
+      },
+      "forward_common": {
+        "sites": 1994,
+        "pos": 43.8,
+        "neg": 9.2,
+        "net": 34.6,
+        "hl": 1.25,
+        "mean": 6.01
+      },
+      "reverse_common": {
+        "sites": 1994,
+        "pos": 36.4,
+        "neg": 9.8,
+        "net": 26.6,
+        "hl": 1.0,
+        "mean": 5.19
+      },
+      "crossover": {
+        "sites": 1994,
+        "pos": 44.2,
+        "neg": 10.9,
+        "net": 33.3,
+        "hl": 1.12,
+        "mean": 5.6
+      },
+      "reverse_failed_audits_dropped": {
+        "sites": 1941,
+        "pos": 37.4,
+        "neg": 8.9,
+        "net": 28.5,
+        "hl": 1.0,
+        "mean": 5.45
+      }
+    },
+    "scroll_check": {
+      "pairs": 4113,
+      "normal_more_pct": 15.2,
+      "normal_fewer_pct": 4.1,
+      "equal_pairs": 3317,
+      "equal_scroll_delta": {
+        "n": 1932,
+        "pos": 45.2,
+        "neg": 9.4,
+        "zero": 45.4
+      }
+    },
+    "crawl_dates": [
+      "2026-10-08",
+      "2026-10-11"
+    ],
+    "sponsored_structure_native_pct": 97.0,
+    "hovers_per_visit": {
+      "normal": 6.9,
+      "blocked": 2.8
+    },
+    "request_log_truncated": {
+      "normal": 532,
+      "blocked": 37
+    },
+    "new_nodes_normal": {
+      "total": 103416,
+      "non_wcag": 48920,
+      "region": 43513
+    },
+    "selector_table_paired": {
+      "visits": 4113,
+      "per_rule": {
+        "role-img-alt": {
+          "new": 615,
+          "ad": 83.1,
+          "ad_or_sponsored": 83.1
+        },
+        "frame-title": {
+          "new": 6328,
+          "ad": 70.3,
+          "ad_or_sponsored": 70.3
+        },
+        "aria-command-name": {
+          "new": 2526,
+          "ad": 74.4,
+          "ad_or_sponsored": 74.4
+        },
+        "image-alt": {
+          "new": 13034,
+          "ad": 61.8,
+          "ad_or_sponsored": 62.1
+        },
+        "link-name": {
+          "new": 10409,
+          "ad": 53.7,
+          "ad_or_sponsored": 55.4
+        },
+        "button-name": {
+          "new": 1432,
+          "ad": 17.5,
+          "ad_or_sponsored": 17.5
+        },
+        "region": {
+          "new": 40979,
+          "ad": 12.7,
+          "ad_or_sponsored": 40.2
+        },
+        "color-contrast": {
+          "new": 12950,
+          "ad": 5.3,
+          "ad_or_sponsored": 33.0
+        }
+      },
+      "family": {
+        "naming": {
+          "new": 35045,
+          "ad": 59.5,
+          "ad_or_sponsored": 60.1
+        },
+        "layout": {
+          "new": 55887,
+          "ad": 11.0,
+          "ad_or_sponsored": 37.6
+        }
+      }
+    },
+    "selector_table_all_normal": {
+      "visits": 4304,
+      "per_rule": {
+        "role-img-alt": {
+          "new": 639,
+          "ad": 81.7,
+          "ad_or_sponsored": 81.7
+        },
+        "frame-title": {
+          "new": 6906,
+          "ad": 69.6,
+          "ad_or_sponsored": 69.6
+        },
+        "aria-command-name": {
+          "new": 2723,
+          "ad": 72.3,
+          "ad_or_sponsored": 72.3
+        },
+        "image-alt": {
+          "new": 14068,
+          "ad": 61.2,
+          "ad_or_sponsored": 61.4
+        },
+        "link-name": {
+          "new": 11077,
+          "ad": 53.2,
+          "ad_or_sponsored": 55.2
+        },
+        "button-name": {
+          "new": 1659,
+          "ad": 15.9,
+          "ad_or_sponsored": 15.9
+        },
+        "region": {
+          "new": 43513,
+          "ad": 12.8,
+          "ad_or_sponsored": 39.6
+        },
+        "color-contrast": {
+          "new": 13827,
+          "ad": 5.2,
+          "ad_or_sponsored": 32.5
+        }
+      },
+      "family": {
+        "naming": {
+          "new": 37783,
+          "ad": 58.7,
+          "ad_or_sponsored": 59.4
+        },
+        "layout": {
+          "new": 59454,
+          "ad": 11.0,
+          "ad_or_sponsored": 37.0
+        }
+      }
+    },
+    "selector_table_paired_blocked": {
+      "visits": 4113,
+      "per_rule": {
+        "role-img-alt": {
+          "new": 34,
+          "ad": 0.0,
+          "ad_or_sponsored": 0.0
+        },
+        "frame-title": {
+          "new": 820,
+          "ad": 22.6,
+          "ad_or_sponsored": 22.6
+        },
+        "aria-command-name": {
+          "new": 264,
+          "ad": 0.0,
+          "ad_or_sponsored": 0.0
+        },
+        "image-alt": {
+          "new": 4191,
+          "ad": 7.7,
+          "ad_or_sponsored": 7.9
+        },
+        "link-name": {
+          "new": 4511,
+          "ad": 9.3,
+          "ad_or_sponsored": 9.6
+        },
+        "button-name": {
+          "new": 1172,
+          "ad": 0.1,
+          "ad_or_sponsored": 0.1
+        },
+        "region": {
+          "new": 23042,
+          "ad": 2.8,
+          "ad_or_sponsored": 7.2
+        },
+        "color-contrast": {
+          "new": 8586,
+          "ad": 1.4,
+          "ad_or_sponsored": 7.0
+        }
+      },
+      "family": {
+        "naming": {
+          "new": 11528,
+          "ad": 8.0,
+          "ad_or_sponsored": 8.2
+        },
+        "layout": {
+          "new": 33477,
+          "ad": 2.3,
+          "ad_or_sponsored": 6.8
+        }
+      }
+    },
+    "selector_table_reverse_normal": {
+      "visits": 1996,
+      "per_rule": {
+        "role-img-alt": {
+          "new": 354,
+          "ad": 91.8,
+          "ad_or_sponsored": 91.8
+        },
+        "frame-title": {
+          "new": 2175,
+          "ad": 60.9,
+          "ad_or_sponsored": 60.9
+        },
+        "aria-command-name": {
+          "new": 1198,
+          "ad": 69.7,
+          "ad_or_sponsored": 69.7
+        },
+        "image-alt": {
+          "new": 4586,
+          "ad": 50.0,
+          "ad_or_sponsored": 50.3
+        },
+        "link-name": {
+          "new": 5127,
+          "ad": 55.9,
+          "ad_or_sponsored": 58.0
+        },
+        "button-name": {
+          "new": 802,
+          "ad": 10.7,
+          "ad_or_sponsored": 10.7
+        },
+        "region": {
+          "new": 18621,
+          "ad": 12.7,
+          "ad_or_sponsored": 37.4
+        },
+        "color-contrast": {
+          "new": 5795,
+          "ad": 5.5,
+          "ad_or_sponsored": 27.5
+        }
+      },
+      "family": {
+        "naming": {
+          "new": 14548,
+          "ad": 53.4,
+          "ad_or_sponsored": 54.2
+        },
+        "layout": {
+          "new": 25352,
+          "ad": 11.1,
+          "ad_or_sponsored": 34.4
+        }
+      }
+    },
+    "table1_counterfactual": {
+      "forward": {
+        "pairs": 4113,
+        "sites": 2254,
+        "per_rule": {
+          "role-img-alt": 94.5,
+          "frame-title": 87.0,
+          "aria-command-name": 89.5,
+          "image-alt": 67.8,
+          "link-name": 56.7,
+          "button-name": 18.2,
+          "region": 43.8,
+          "color-contrast": 33.7
+        },
+        "family": {
+          "naming": 67.1,
+          "layout": 40.1
+        },
+        "layout_wcag": 32.7,
+        "layout_wcag_rules": 6,
+        "family_ci": {
+          "naming": [
+            62.1,
+            71.7
+          ],
+          "layout": [
+            33.3,
+            46.8
+          ]
+        },
+        "layout_without_region": 30.0,
+        "region_share_of_layout_new": 73.3
+      },
+      "reverse": {
+        "pairs": 1996,
+        "sites": 1996,
+        "per_rule": {
+          "role-img-alt": 92.9,
+          "frame-title": 80.4,
+          "aria-command-name": 86.1,
+          "image-alt": 55.2,
+          "link-name": 57.6,
+          "button-name": 7.5,
+          "region": 39.3,
+          "color-contrast": 23.4
+        },
+        "family": {
+          "naming": 59.7,
+          "layout": 34.3
+        },
+        "layout_wcag": 22.2,
+        "layout_wcag_rules": 6,
+        "family_ci": {
+          "naming": [
+            53.9,
+            65.6
+          ],
+          "layout": [
+            26.3,
+            43.2
+          ]
+        },
+        "layout_without_region": 20.5,
+        "region_share_of_layout_new": 73.4
+      },
+      "identical_visits": {
+        "pairs": 1980,
+        "sites": 1980,
+        "per_rule": {
+          "role-img-alt": 0.0,
+          "frame-title": 43.4,
+          "aria-command-name": 6.9,
+          "image-alt": 41.2,
+          "link-name": 0.0,
+          "button-name": 8.9,
+          "region": 7.2,
+          "color-contrast": 9.2
+        },
+        "family": {
+          "naming": 25.0,
+          "layout": 7.4
+        },
+        "layout_wcag": 9.3,
+        "layout_wcag_rules": 6,
+        "family_ci": {
+          "naming": [
+            19.2,
+            30.6
+          ],
+          "layout": [
+            1.0,
+            13.9
+          ]
+        },
+        "layout_without_region": 8.1,
+        "region_share_of_layout_new": 73.6
+      }
+    },
+    "table1_concentration": {
+      "layout": {
+        "sites": 2254,
+        "total_excess": 22410.0,
+        "native_pct_all_sites": 7.8,
+        "top1": {
+          "sites": 23,
+          "excess_share": 45.6,
+          "share_without": 27.8,
+          "native_pct": 95.7
+        },
+        "top5": {
+          "sites": 113,
+          "excess_share": 91.7,
+          "share_without": 6.9,
+          "native_pct": 65.5
+        }
+      },
+      "naming": {
+        "sites": 2254,
+        "total_excess": 23517.0,
+        "native_pct_all_sites": 7.8,
+        "top1": {
+          "sites": 23,
+          "excess_share": 16.1,
+          "share_without": 63.7,
+          "native_pct": 17.4
+        },
+        "top5": {
+          "sites": 113,
+          "excess_share": 44.3,
+          "share_without": 55.4,
+          "native_pct": 27.4
+        }
+      }
+    },
+    "structure_split": {
+      "top5": {
+        "sites": 113,
+        "cf_normal_first": 70.8,
+        "cf_blocked_first": 69.8,
+        "selector_ad": 11.7,
+        "selector_ad_or_sponsored": 59.2
+      },
+      "rest": {
+        "sites": 2141,
+        "cf_normal_first": 6.9,
+        "cf_blocked_first": 2.4,
+        "selector_ad": 10.3,
+        "selector_ad_or_sponsored": 14.2
+      }
+    },
+    "placebo_dose": {
+      "0": {
+        "n": 255,
+        "pos": 10.2,
+        "neg": 11.0,
+        "zero": 78.8,
+        "net": -0.8
+      },
+      "1-2": {
+        "n": 430,
+        "pos": 24.4,
+        "neg": 11.9,
+        "zero": 63.7,
+        "net": 12.5
+      },
+      "3-5": {
+        "n": 282,
+        "pos": 30.5,
+        "neg": 8.2,
+        "zero": 61.3,
+        "net": 22.3
+      },
+      "6-10": {
+        "n": 224,
+        "pos": 51.3,
+        "neg": 10.7,
+        "zero": 37.9,
+        "net": 40.6
+      },
+      ">10": {
+        "n": 1063,
+        "pos": 75.8,
+        "neg": 7.7,
+        "zero": 16.5,
+        "net": 68.1
+      }
+    },
+    "pass_then_fail": {
+      "wcag": {
+        "visits_clean_at_load": 224,
+        "of_which_fail_later": 32,
+        "sites_fail_later": 24,
+        "sites_fail_later_pct": 1.0
+      },
+      "all": {
+        "visits_clean_at_load": 29,
+        "of_which_fail_later": 2,
+        "sites_fail_later": 2,
+        "sites_fail_later_pct": 0.1
+      }
+    },
+    "new_rule_frames": {
+      "sites_new_rule": 936,
+      "sites_frames_only": 486,
+      "frames_only_pct": 51.9
+    },
+    "time_of_day": {
+      "normal": {
+        "visits": 4304,
+        "h00_06_pct": 60.5,
+        "h12_24_pct": 31.2,
+        "weekdays": {
+          "Sat": 1692,
+          "Thu": 1669,
+          "Wed": 573,
+          "Fri": 368,
+          "Sun": 2
+        }
+      },
+      "blocked": {
+        "visits": 4400,
+        "h00_06_pct": 9.1,
+        "h12_24_pct": 90.6,
+        "weekdays": {
+          "Thu": 2211,
+          "Sat": 1774,
+          "Sun": 399,
+          "Fri": 16
+        }
+      }
+    },
+    "tracker_cost": {
+      "sites": 2298,
+      "mean": 12.54,
+      "mean_ci": [
+        10.64,
+        14.36
+      ],
+      "median": 0.0
+    },
+    "by_region": {
+      "eu": {
+        "sites": 583,
+        "any_new": [
+          45.8,
+          41.8,
+          49.9
+        ],
+        "selector_ad": [
+          26.1,
+          22.7,
+          29.8
+        ],
+        "delta_sites": 570,
+        "delta_pos": 34.2
+      },
+      "eu_member_states": {
+        "sites": 476,
+        "any_new": [
+          44.5,
+          40.1,
+          49.0
+        ],
+        "selector_ad": [
+          23.9,
+          20.3,
+          28.0
+        ],
+        "delta_sites": 466,
+        "delta_pos": 31.5
+      },
+      "europe_non_eu": {
+        "sites": 107,
+        "any_new": [
+          51.4,
+          42.0,
+          60.7
+        ],
+        "selector_ad": [
+          35.5,
+          27.1,
+          44.9
+        ],
+        "delta_sites": 104,
+        "delta_pos": 46.2
+      },
+      "row": {
+        "sites": 575,
+        "any_new": [
+          72.5,
+          68.7,
+          76.0
+        ],
+        "selector_ad": [
+          44.9,
+          40.9,
+          49.0
+        ],
+        "delta_sites": 564,
+        "delta_pos": 50.9
+      },
+      "us-en": {
+        "sites": 1140,
+        "any_new": [
+          74.6,
+          72.0,
+          77.0
+        ],
+        "selector_ad": [
+          56.1,
+          53.2,
+          59.0
+        ],
+        "delta_sites": 1120,
+        "delta_pos": 58.6
+      },
+      "europe_tlds": [
+        "at",
+        "be",
+        "bg",
+        "ch",
+        "cz",
+        "de",
+        "dk",
+        "es",
+        "eu",
+        "fi",
+        "fr",
+        "gr",
+        "hu",
+        "ie",
+        "it",
+        "nl",
+        "no",
+        "pl",
+        "pt",
+        "ro",
+        "se",
+        "uk"
+      ]
+    },
+    "wcag_only": {
+      "rq1_any_visit": [
+        61.9,
+        59.9,
+        63.8,
+        2298
+      ],
+      "sites": 2254,
+      "shares": {
+        "n": 2254,
+        "pos": 49.6,
+        "neg": 7.2,
+        "zero": 43.2
+      },
+      "hl": 2.75
+    }
+  },
+  "sensitivity": {
+    "failed_audits_dropped": {
+      "sites": 2239,
+      "shares": {
+        "n": 2239,
+        "pos": 50.5,
+        "neg": 8.8,
+        "zero": 40.7
+      },
+      "hl": 3.5,
+      "mean": 12.26,
+      "rq1_any_visit": [
+        66.9,
+        64.9,
+        68.8,
+        2293
+      ],
+      "noise": {
+        "sites": 1919,
+        "aa": {
+          "n": 1919,
+          "pos": 28.9,
+          "neg": 23.4,
+          "zero": 47.7
+        },
+        "ab": {
+          "n": 1919,
+          "pos": 45.0,
+          "neg": 7.8,
+          "zero": 47.2
+        },
+        "aa_net": 5.5,
+        "ab_net": 37.2,
+        "ab_net_ci": [
+          34.5,
+          40.0
+        ],
+        "excess_minus_aa": 31.7,
+        "excess_minus_aa_ci": [
+          28.2,
+          35.1
+        ],
+        "aa_disagree": 52.3
+      }
+    },
+    "churn_filtered": {
+      "sites": 2254,
+      "shares": {
+        "n": 2254,
+        "pos": 44.0,
+        "neg": 8.9,
+        "zero": 47.1
+      },
+      "hl": 1.25,
+      "mean": 6.51,
+      "rq1_any_visit": [
+        59.8,
+        57.8,
+        61.8,
+        2298
+      ],
+      "noise": {
+        "sites": 1980,
+        "aa": {
+          "n": 1980,
+          "pos": 26.2,
+          "neg": 20.6,
+          "zero": 53.2
+        },
+        "ab": {
+          "n": 1980,
+          "pos": 38.6,
+          "neg": 8.5,
+          "zero": 52.8
+        },
+        "aa_net": 5.6,
+        "ab_net": 30.1,
+        "ab_net_ci": [
+          27.2,
+          32.8
+        ],
+        "excess_minus_aa": 24.5,
+        "excess_minus_aa_ci": [
+          21.2,
+          28.2
+        ],
+        "aa_disagree": 46.8
+      },
+      "layout_counterfactual": 37.2,
+      "naming_counterfactual": 66.4,
+      "new_nodes_normal": 59226,
+      "share_looking_rerendered": 42.7
+    },
+    "without_non_ad_ui_vendors": {
+      "sites": 1267,
+      "shares": {
+        "n": 1267,
+        "pos": 45.1,
+        "neg": 9.8,
+        "zero": 45.1
+      },
+      "hl": 2.5,
+      "mean": 8.86,
+      "rq1_any_visit": [
+        61.7,
+        59.0,
+        64.3,
+        1285
+      ],
+      "vendors": [
+        "Branch",
+        "Google Custom Search / GSA",
+        "JW Player",
+        "Meta Pixel / Audience Network",
+        "Piano",
+        "TikTok Pixel / Pangle"
+      ],
+      "sites_dropped": 1013,
+      "paired_sites_with_them": 987,
+      "delta_pos_on_sites_with_them": 57.3
+    },
+    "walls_dropped": {
+      "sites": 2231,
+      "shares": {
+        "n": 2231,
+        "pos": 51.0,
+        "neg": 9.2,
+        "zero": 39.8
+      },
+      "hl": 3.5,
+      "mean": 12.13,
+      "rq1_any_visit": [
+        67.3,
+        65.4,
+        69.2,
+        2275
+      ],
+      "sites_with_a_wall_visit": [
+        "ad.nl",
+        "advance.lexis.com",
+        "baijiahao.baidu.com",
+        "bd.nl",
+        "bndestem.nl",
+        "demorgen.be",
+        "derstandard.de",
+        "destentor.nl",
+        "ed.nl",
+        "gelderlander.nl",
+        "hln.be",
+        "infoweb.newsbank.com",
+        "iopscience.iop.org",
+        "nu.nl",
+        "parool.nl",
+        "pzc.nl",
+        "the-sun.com",
+        "thescottishsun.co.uk",
+        "thesun.co.uk",
+        "thetimes.com",
+        "trouw.nl",
+        "tubantia.nl",
+        "volkskrant.nl"
+      ],
+      "sites_all_visits_walls": [
+        "ad.nl",
+        "advance.lexis.com",
+        "baijiahao.baidu.com",
+        "bd.nl",
+        "bndestem.nl",
+        "demorgen.be",
+        "derstandard.de",
+        "destentor.nl",
+        "ed.nl",
+        "gelderlander.nl",
+        "hln.be",
+        "infoweb.newsbank.com",
+        "iopscience.iop.org",
+        "nu.nl",
+        "parool.nl",
+        "pzc.nl",
+        "the-sun.com",
+        "thescottishsun.co.uk",
+        "thesun.co.uk",
+        "thetimes.com",
+        "trouw.nl",
+        "tubantia.nl",
+        "volkskrant.nl"
+      ],
+      "dpg_media_gate_sites": 14
+    }
+  }
+}

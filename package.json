@@ -1,0 +1,17 @@
+{
+  "name": "a11y-load-time-checks",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Harness and crawlers for the paper 'What Load-Time Accessibility Checks Miss on Ad-Supported News Sites'",
+  "type": "module",
+  "scripts": {
+    "crawl:main": "bash scripts/crawl_main.sh",
+    "crawl:inframe": "bash scripts/crawl_inframe.sh"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.10.0",
+    "axe-core": "^4.10.0",
+    "p-limit": "^6.1.0",
+    "playwright": "^1.48.0"
+  }
+}

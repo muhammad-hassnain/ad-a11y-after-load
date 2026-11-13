@@ -1,0 +1,22 @@
+Data license
+
+Copyright (c) 2026 Muhammad Hassnain
+
+The data in this repository and in its release assets -- the block list
+(data/ad-vendors.json), the site lists and their provenance (data/), the
+annotator labels and hand labels (data/labels/), the result summaries and
+figures (results/), and the crawl records (release assets) -- are licensed
+under the Creative Commons Attribution 4.0 International License (CC BY 4.0):
+
+    https://creativecommons.org/licenses/by/4.0/
+
+When you use them, please cite the paper "What Load-Time Accessibility Checks
+Miss on Ad-Supported News Sites".
+
+Third-party content is not covered by this license. The crawl records contain
+excerpts of the crawled pages (for example, HTML snippets that axe-core
+reports for failing elements, and request URLs); this content remains the
+property of its owners. The GDELT- and Wikidata-derived domain lists are
+subject to the terms of those sources.
+
+The code is licensed separately under the MIT License (see LICENSE).

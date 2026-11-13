@@ -1,0 +1,12 @@
+{
+  "source": "Wikidata SPARQL",
+  "endpoint": "https://query.wikidata.org/sparql",
+  "sparqlText": "SELECT DISTINCT ?outlet ?website ?country WHERE {\n  { ?outlet wdt:P31 wd:Q11032 } UNION\n  { ?outlet wdt:P31 wd:Q1110794 } UNION\n  { ?outlet wdt:P31 wd:Q1153191 } UNION\n  { ?outlet wdt:P31 wd:Q1156234 } UNION\n  { ?outlet wdt:P31 wd:Q1954461 } UNION\n  { ?outlet wdt:P31 wd:Q1931658 } UNION\n  { ?outlet wdt:P31 wd:Q871232 }\n  ?outlet wdt:P856 ?website .\n  OPTIONAL { ?outlet wdt:P17 ?country . }\n}",
+  "sparqlSha256": "887dc57b0ead916c382c3e05b68c30ba33749da28cd802b25077a45394d1a505",
+  "responseSha256": "bb49283da16c279d6383ac25cce8b5c57ef5d879aa8f18215653c41d00370b52",
+  "responseDateHeader": null,
+  "generatedAt": "2026-10-08T04:29:31Z",
+  "bindings": 14119,
+  "uniqueHostnames": 10930,
+  "outputSha256": "53b70ff19de4659bd8422fc17899f710ebb4937c2ff011bf7659b92e3c8da6fc"
+}

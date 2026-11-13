@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-10-08T04:29:37Z",
+  "mergeOf": [
+    {
+      "path": "data/news-domains-gdelt-7day.txt",
+      "sha256": "7551fe1ec74b72ded763b1f6f4f3172e7663fb2e0d347ae13f5a7f9200077cf6",
+      "domains": 9523,
+      "upstream": null,
+      "date": null,
+      "gdeltFiles": []
+    },
+    {
+      "path": "data/news-domains-wikidata.txt",
+      "sha256": "91ea212b55e14563b1433fa7e612c23931c0ca58ceb3e079b75f8f81a6d6629a",
+      "domains": 10929,
+      "upstream": "Wikidata SPARQL",
+      "date": null,
+      "gdeltFiles": []
+    }
+  ],
+  "mergedDomainCount": 18902,
+  "outputSha256": "726b60559ba0113446637df06f0e8647d447d26e320c884bb2dacade8f664ca3"
+}

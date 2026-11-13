@@ -1,0 +1,56 @@
+{
+  "labelled": {
+    "A": 2465,
+    "B": 395,
+    "C": 2500
+  },
+  "three_category": {
+    "AB": {
+      "kappa": 0.265,
+      "observed_agreement": 0.565,
+      "n": 395
+    },
+    "AC": {
+      "kappa": 0.047,
+      "observed_agreement": 0.382,
+      "n": 395
+    },
+    "BC": {
+      "kappa": 0.019,
+      "observed_agreement": 0.451,
+      "n": 395
+    },
+    "fleiss": {
+      "kappa": 0.062,
+      "n": 395
+    }
+  },
+  "binary": {
+    "AB": {
+      "kappa": 0.336,
+      "observed_agreement": 0.641,
+      "n": 395
+    },
+    "AC": {
+      "kappa": 0.049,
+      "observed_agreement": 0.524,
+      "n": 395
+    },
+    "BC": {
+      "kappa": -0.027,
+      "observed_agreement": 0.489,
+      "n": 395
+    },
+    "fleiss": {
+      "kappa": 0.09,
+      "n": 395
+    }
+  },
+  "full_AC": {
+    "kappa": 0.008,
+    "observed_agreement": 0.366,
+    "n": 2465,
+    "binary_kappa": 0.008,
+    "binary_observed_agreement": 0.496
+  }
+}

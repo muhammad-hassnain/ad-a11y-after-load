@@ -1,0 +1,202 @@
+{
+  "525.az": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:30:52Z"
+  },
+  "abcnews.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:30:59Z"
+  },
+  "abendzeitung-muenchen.de": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:31:48Z"
+  },
+  "afaqs.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:32:17Z"
+  },
+  "altapress.ru": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:32:26Z"
+  },
+  "americanthinker.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:32:34Z"
+  },
+  "arynews.tv": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:32:50Z"
+  },
+  "aviationweek.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:33:01Z"
+  },
+  "bravotv.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-21T03:33:35Z"
+  },
+  "buzzfeed.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-21T03:34:05Z"
+  },
+  "caravanmagazine.in": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:34:18Z"
+  },
+  "channel4.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:34:32Z"
+  },
+  "cosmopolitan.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-21T03:35:01Z"
+  },
+  "deshabhimani.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:35:34Z"
+  },
+  "diariocordoba.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:35:44Z"
+  },
+  "drf.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:36:00Z"
+  },
+  "dv.is": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:36:11Z"
+  },
+  "elancasti.com.ar": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:36:26Z"
+  },
+  "elidealgallego.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:36:41Z"
+  },
+  "en.dailypakistan.com.pk": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:36:56Z"
+  },
+  "evrensel.net": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:37:10Z"
+  },
+  "femina.hu": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:37:46Z"
+  },
+  "fox6now.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:38:10Z"
+  },
+  "hardcoregamer.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:38:25Z"
+  },
+  "highlandradio.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:38:45Z"
+  },
+  "hk01.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:38:56Z"
+  },
+  "hnnoticias.com.br": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:39:08Z"
+  },
+  "hrw.org": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-21T03:39:40Z"
+  },
+  "humanite.fr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:39:57Z"
+  },
+  "ilsole24ore.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:40:17Z"
+  },
+  "kcrg.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:40:26Z"
+  },
+  "lastampa.it": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:42:53Z"
+  },
+  "lesnumeriques.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:43:06Z"
+  },
+  "maaleht.delfi.ee": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:44:08Z"
+  },
+  "makeuseof.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:44:27Z"
+  },
+  "mashable.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:44:44Z"
+  },
+  "mentalfloss.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-21T03:44:54Z"
+  },
+  "meteored.cl": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:45:07Z"
+  },
+  "motorcyclenews.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:46:01Z"
+  },
+  "nerdwallet.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-21T03:46:14Z"
+  },
+  "punemirror.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:46:25Z"
+  },
+  "riazor.org": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-21T03:47:01Z"
+  },
+  "sundayworld.co.za": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:47:17Z"
+  },
+  "tbsnews.net": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:47:40Z"
+  },
+  "thedailymeal.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-21T03:47:53Z"
+  },
+  "theguardian.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:47:56Z"
+  },
+  "tijd.be": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:48:08Z"
+  },
+  "tmz.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:48:19Z"
+  },
+  "vijesti.me": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-21T03:48:33Z"
+  },
+  "yardbarker.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-21T03:48:45Z"
+  }
+}

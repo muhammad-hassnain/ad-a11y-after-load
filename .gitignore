@@ -1,0 +1,7 @@
+# crawl data: download the release assets and extract them here (README)
+crawl/
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

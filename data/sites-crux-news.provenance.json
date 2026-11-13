@@ -1,0 +1,10026 @@
+{
+  "generatedAt": "2026-10-08T04:29:37Z",
+  "frame": "crux",
+  "nRequested": 2500,
+  "cruxMonth": "202608",
+  "cruxTopUsed": 1000000,
+  "classification": {
+    "kind": "local-file",
+    "path": "data/news-domains-combined.txt",
+    "sha256": "f0749c393a114b639ad379bd04b12c37ef651c8466c930dacb913631fefa6c05",
+    "domainCount": 18902
+  },
+  "strata_filled": {
+    "us-en": 1250,
+    "eu": 625,
+    "row": 625
+  },
+  "strata_quotas": {
+    "us-en": 1250,
+    "eu": 625,
+    "row": 625
+  },
+  "emittedCount": 2500,
+  "sites": [
+    {
+      "rank": 1000,
+      "domain": "apps.apple.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "archive.org"
+    },
+    {
+      "rank": 1000,
+      "domain": "docs.google.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "elpais.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "en.wikipedia.org"
+    },
+    {
+      "rank": 1000,
+      "domain": "finance.yahoo.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "fr.wikipedia.org"
+    },
+    {
+      "rank": 1000,
+      "domain": "g1.globo.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "genius.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "github.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "news.google.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "open.spotify.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "sites.google.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "timesofindia.indiatimes.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "vnexpress.net"
+    },
+    {
+      "rank": 1000,
+      "domain": "weather.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "amazon.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "bbc.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "clarin.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "cnn.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "cronista.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "dailymail.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "eenadu.net"
+    },
+    {
+      "rank": 1000,
+      "domain": "elconfidencial.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "foxnews.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "globo.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "google.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "hola.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "infobae.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "jagran.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "linkedin.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "marca.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "mlb.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "moneycontrol.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "nikkansports.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "nikkei.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "nytimes.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "property24.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "theguardian.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "yahoo.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "x.com"
+    },
+    {
+      "rank": 1000,
+      "domain": "actu.fr"
+    },
+    {
+      "rank": 1000,
+      "domain": "ekstrabladet.dk"
+    },
+    {
+      "rank": 1000,
+      "domain": "ad.nl"
+    },
+    {
+      "rank": 1000,
+      "domain": "aftonbladet.se"
+    },
+    {
+      "rank": 1000,
+      "domain": "bbc.co.uk"
+    },
+    {
+      "rank": 1000,
+      "domain": "bt.dk"
+    },
+    {
+      "rank": 1000,
+      "domain": "corriere.it"
+    },
+    {
+      "rank": 1000,
+      "domain": "dagbladet.no"
+    },
+    {
+      "rank": 1000,
+      "domain": "elmundo.es"
+    },
+    {
+      "rank": 1000,
+      "domain": "gazzetta.it"
+    },
+    {
+      "rank": 1000,
+      "domain": "gov.uk"
+    },
+    {
+      "rank": 1000,
+      "domain": "hln.be"
+    },
+    {
+      "rank": 1000,
+      "domain": "ilfattoquotidiano.it"
+    },
+    {
+      "rank": 1000,
+      "domain": "iltalehti.fi"
+    },
+    {
+      "rank": 1000,
+      "domain": "ladepeche.fr"
+    },
+    {
+      "rank": 1000,
+      "domain": "lefigaro.fr"
+    },
+    {
+      "rank": 1000,
+      "domain": "lemonde.fr"
+    },
+    {
+      "rank": 1000,
+      "domain": "merkur.de"
+    },
+    {
+      "rank": 1000,
+      "domain": "novinky.cz"
+    },
+    {
+      "rank": 1000,
+      "domain": "nu.nl"
+    },
+    {
+      "rank": 1000,
+      "domain": "ouest-france.fr"
+    },
+    {
+      "rank": 1000,
+      "domain": "protothema.gr"
+    },
+    {
+      "rank": 1000,
+      "domain": "repubblica.it"
+    },
+    {
+      "rank": 1000,
+      "domain": "sport.es"
+    },
+    {
+      "rank": 1000,
+      "domain": "t-online.de"
+    },
+    {
+      "rank": 1000,
+      "domain": "vg.no"
+    },
+    {
+      "rank": 1000,
+      "domain": "welt.de"
+    },
+    {
+      "rank": 1000,
+      "domain": "dantri.com.vn"
+    },
+    {
+      "rank": 1000,
+      "domain": "newsdig.tbs.co.jp"
+    },
+    {
+      "rank": 1000,
+      "domain": "t.me"
+    },
+    {
+      "rank": 1000,
+      "domain": "blic.rs"
+    },
+    {
+      "rank": 1000,
+      "domain": "jutarnji.hr"
+    },
+    {
+      "rank": 1000,
+      "domain": "lanacion.com.ar"
+    },
+    {
+      "rank": 1000,
+      "domain": "sozcu.com.tr"
+    },
+    {
+      "rank": 1000,
+      "domain": "terra.com.br"
+    },
+    {
+      "rank": 1000,
+      "domain": "uol.com.br"
+    },
+    {
+      "rank": 5000,
+      "domain": "collider.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "donya-e-eqtesad.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "epaper.lokmat.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "extra.globo.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "gaana.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "gamerant.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "indianexpress.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "link.springer.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "m.rediff.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "medium.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "movieweb.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "navbharattimes.indiatimes.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "nypost.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "screenrant.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "tv.apple.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "udn.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "web.archive.org"
+    },
+    {
+      "rank": 5000,
+      "domain": "aljazeera.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "aljazeera.net"
+    },
+    {
+      "rank": 5000,
+      "domain": "almasryalyoum.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "amarujala.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "anandabazar.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "andhrajyothy.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "aol.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "asahi.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "baidu.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "bhaskar.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "businessinsider.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "buzzfeed.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "cardekho.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "cbsnews.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "chinatimes.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "chosun.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "cnbc.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "contextotucuman.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "cosmopolitan.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "deccanherald.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "dinamalar.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "donga.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "dw.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "ecoportal.net"
+    },
+    {
+      "rank": 5000,
+      "domain": "elcorreo.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "eldebate.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "elespanol.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "elle.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "eltiempo.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "emol.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "ensonhaber.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "esquire.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "faz.net"
+    },
+    {
+      "rank": 5000,
+      "domain": "filgoal.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "footmercato.net"
+    },
+    {
+      "rank": 5000,
+      "domain": "forbes.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "gettyimages.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "goodhousekeeping.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "haberturk.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "hankyung.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "healthline.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "hindustantimes.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "hk01.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "huffpost.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "ign.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "irishtimes.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "journaldemontreal.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "lavanguardia.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "ledauphine.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "linternaute.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "liputan6.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "livehindustan.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "lokmat.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "magicbricks.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "manoramaonline.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "masrawy.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "mathrubhumi.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "maxpreps.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "menshealth.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "metropoles.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "nbcnews.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "nicematin.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "npr.org"
+    },
+    {
+      "rank": 5000,
+      "domain": "obozrevatel.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "odatv.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "onlinekhabar.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "parismatch.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "prajavani.net"
+    },
+    {
+      "rank": 5000,
+      "domain": "prokerala.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "prothomalo.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "realtor.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "reuters.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "rfa.org"
+    },
+    {
+      "rank": 5000,
+      "domain": "sakshi.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "sankei.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "sanspo.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "tameteo.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "thehindu.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "thetimes.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "theweathernetwork.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "tiempo.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "tmz.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "tuttosport.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "usatoday.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "washingtonpost.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "wsj.com"
+    },
+    {
+      "rank": 5000,
+      "domain": "24.hu"
+    },
+    {
+      "rank": 5000,
+      "domain": "adevarul.ro"
+    },
+    {
+      "rank": 5000,
+      "domain": "hotnews.ro"
+    },
+    {
+      "rank": 5000,
+      "domain": "hvg.hu"
+    },
+    {
+      "rank": 5000,
+      "domain": "index.hu"
+    },
+    {
+      "rank": 5000,
+      "domain": "nyheder.tv2.dk"
+    },
+    {
+      "rank": 5000,
+      "domain": "telex.hu"
+    },
+    {
+      "rank": 5000,
+      "domain": "20min.ch"
+    },
+    {
+      "rank": 5000,
+      "domain": "20minutes.fr"
+    },
+    {
+      "rank": 5000,
+      "domain": "20minutos.es"
+    },
+    {
+      "rank": 5000,
+      "domain": "abc.es"
+    },
+    {
+      "rank": 5000,
+      "domain": "alfavita.gr"
+    },
+    {
+      "rank": 5000,
+      "domain": "ansa.it"
+    },
+    {
+      "rank": 5000,
+      "domain": "bankier.pl"
+    },
+    {
+      "rank": 5000,
+      "domain": "bild.de"
+    },
+    {
+      "rank": 5000,
+      "domain": "blesk.cz"
+    },
+    {
+      "rank": 5000,
+      "domain": "blick.ch"
+    },
+    {
+      "rank": 5000,
+      "domain": "blikk.hu"
+    },
+    {
+      "rank": 5000,
+      "domain": "borsaitaliana.it"
+    },
+    {
+      "rank": 5000,
+      "domain": "derstandard.at"
+    },
+    {
+      "rank": 5000,
+      "domain": "destentor.nl"
+    },
+    {
+      "rank": 5000,
+      "domain": "dhnet.be"
+    },
+    {
+      "rank": 5000,
+      "domain": "di.se"
+    },
+    {
+      "rank": 5000,
+      "domain": "dn.se"
+    },
+    {
+      "rank": 5000,
+      "domain": "dnews.gr"
+    },
+    {
+      "rank": 5000,
+      "domain": "dr.dk"
+    },
+    {
+      "rank": 5000,
+      "domain": "efsyn.gr"
+    },
+    {
+      "rank": 5000,
+      "domain": "eldiario.es"
+    },
+    {
+      "rank": 5000,
+      "domain": "eleconomista.es"
+    },
+    {
+      "rank": 5000,
+      "domain": "express.co.uk"
+    },
+    {
+      "rank": 5000,
+      "domain": "expressen.se"
+    },
+    {
+      "rank": 5000,
+      "domain": "fakt.pl"
+    },
+    {
+      "rank": 5000,
+      "domain": "fanpage.it"
+    },
+    {
+      "rank": 5000,
+      "domain": "fr.de"
+    },
+    {
+      "rank": 5000,
+      "domain": "gelderlander.nl"
+    },
+    {
+      "rank": 5000,
+      "domain": "gsp.ro"
+    },
+    {
+      "rank": 5000,
+      "domain": "heraldo.es"
+    },
+    {
+      "rank": 5000,
+      "domain": "ici.fr"
+    },
+    {
+      "rank": 5000,
+      "domain": "idnes.cz"
+    },
+    {
+      "rank": 5000,
+      "domain": "iefimerida.gr"
+    },
+    {
+      "rank": 5000,
+      "domain": "ilgiornale.it"
+    },
+    {
+      "rank": 5000,
+      "domain": "ilmattino.it"
+    },
+    {
+      "rank": 5000,
+      "domain": "ilmessaggero.it"
+    },
+    {
+      "rank": 5000,
+      "domain": "ilpost.it"
+    },
+    {
+      "rank": 5000,
+      "domain": "ilrestodelcarlino.it"
+    },
+    {
+      "rank": 5000,
+      "domain": "in.gr"
+    },
+    {
+      "rank": 5000,
+      "domain": "independent.co.uk"
+    },
+    {
+      "rank": 5000,
+      "domain": "independent.ie"
+    },
+    {
+      "rank": 5000,
+      "domain": "krone.at"
+    },
+    {
+      "rank": 5000,
+      "domain": "lanouvellerepublique.fr"
+    },
+    {
+      "rank": 5000,
+      "domain": "larazon.es"
+    },
+    {
+      "rank": 5000,
+      "domain": "lastampa.it"
+    },
+    {
+      "rank": 5000,
+      "domain": "lavoixdunord.fr"
+    },
+    {
+      "rank": 5000,
+      "domain": "lavozdegalicia.es"
+    },
+    {
+      "rank": 5000,
+      "domain": "leggo.it"
+    },
+    {
+      "rank": 5000,
+      "domain": "leparisien.fr"
+    },
+    {
+      "rank": 5000,
+      "domain": "leprogres.fr"
+    },
+    {
+      "rank": 5000,
+      "domain": "letelegramme.fr"
+    },
+    {
+      "rank": 5000,
+      "domain": "libertatea.ro"
+    },
+    {
+      "rank": 5000,
+      "domain": "lindependant.fr"
+    },
+    {
+      "rank": 5000,
+      "domain": "meinbezirk.at"
+    },
+    {
+      "rank": 5000,
+      "domain": "mirror.co.uk"
+    },
+    {
+      "rank": 5000,
+      "domain": "naftemporiki.gr"
+    },
+    {
+      "rank": 5000,
+      "domain": "nettavisen.no"
+    },
+    {
+      "rank": 5000,
+      "domain": "newsnow.co.uk"
+    },
+    {
+      "rank": 5000,
+      "domain": "nieuwsblad.be"
+    },
+    {
+      "rank": 5000,
+      "domain": "nordkurier.de"
+    },
+    {
+      "rank": 5000,
+      "domain": "oxfordmail.co.uk"
+    },
+    {
+      "rank": 5000,
+      "domain": "portfolio.hu"
+    },
+    {
+      "rank": 5000,
+      "domain": "prosport.ro"
+    },
+    {
+      "rank": 5000,
+      "domain": "record.pt"
+    },
+    {
+      "rank": 5000,
+      "domain": "rte.ie"
+    },
+    {
+      "rank": 5000,
+      "domain": "rtl.de"
+    },
+    {
+      "rank": 5000,
+      "domain": "rtl.fr"
+    },
+    {
+      "rank": 5000,
+      "domain": "ruhr24.de"
+    },
+    {
+      "rank": 5000,
+      "domain": "schwaebische.de"
+    },
+    {
+      "rank": 5000,
+      "domain": "spiegel.de"
+    },
+    {
+      "rank": 5000,
+      "domain": "stern.de"
+    },
+    {
+      "rank": 5000,
+      "domain": "stiripesurse.ro"
+    },
+    {
+      "rank": 5000,
+      "domain": "sudinfo.be"
+    },
+    {
+      "rank": 5000,
+      "domain": "sudouest.fr"
+    },
+    {
+      "rank": 5000,
+      "domain": "sueddeutsche.de"
+    },
+    {
+      "rank": 5000,
+      "domain": "tagesschau.de"
+    },
+    {
+      "rank": 5000,
+      "domain": "tagesspiegel.de"
+    },
+    {
+      "rank": 5000,
+      "domain": "telegraaf.nl"
+    },
+    {
+      "rank": 5000,
+      "domain": "telegraph.co.uk"
+    },
+    {
+      "rank": 5000,
+      "domain": "tf1info.fr"
+    },
+    {
+      "rank": 5000,
+      "domain": "tgcom24.mediaset.it"
+    },
+    {
+      "rank": 5000,
+      "domain": "thesun.co.uk"
+    },
+    {
+      "rank": 5000,
+      "domain": "tv2.no"
+    },
+    {
+      "rank": 5000,
+      "domain": "zeit.de"
+    },
+    {
+      "rank": 5000,
+      "domain": "yle.fi"
+    },
+    {
+      "rank": 5000,
+      "domain": "elcomercio.pe"
+    },
+    {
+      "rank": 5000,
+      "domain": "hochi.news"
+    },
+    {
+      "rank": 5000,
+      "domain": "informer.rs"
+    },
+    {
+      "rank": 5000,
+      "domain": "lenta.ru"
+    },
+    {
+      "rank": 5000,
+      "domain": "mainichi.jp"
+    },
+    {
+      "rank": 5000,
+      "domain": "ndmais.com.br"
+    },
+    {
+      "rank": 5000,
+      "domain": "news.ltn.com.tw"
+    },
+    {
+      "rank": 5000,
+      "domain": "nv.ua"
+    },
+    {
+      "rank": 5000,
+      "domain": "oem.com.mx"
+    },
+    {
+      "rank": 5000,
+      "domain": "ria.ru"
+    },
+    {
+      "rank": 5000,
+      "domain": "slobodnadalmacija.hr"
+    },
+    {
+      "rank": 5000,
+      "domain": "t24.com.tr"
+    },
+    {
+      "rank": 5000,
+      "domain": "tuoitre.vn"
+    },
+    {
+      "rank": 5000,
+      "domain": "24sata.hr"
+    },
+    {
+      "rank": 5000,
+      "domain": "abc.net.au"
+    },
+    {
+      "rank": 5000,
+      "domain": "cbc.ca"
+    },
+    {
+      "rank": 5000,
+      "domain": "chunichi.co.jp"
+    },
+    {
+      "rank": 5000,
+      "domain": "correio24horas.com.br"
+    },
+    {
+      "rank": 5000,
+      "domain": "ctvnews.ca"
+    },
+    {
+      "rank": 5000,
+      "domain": "daily.co.jp"
+    },
+    {
+      "rank": 5000,
+      "domain": "danas.rs"
+    },
+    {
+      "rank": 5000,
+      "domain": "delfi.lt"
+    },
+    {
+      "rank": 5000,
+      "domain": "elnacional.cat"
+    },
+    {
+      "rank": 5000,
+      "domain": "estadao.com.br"
+    },
+    {
+      "rank": 5000,
+      "domain": "fotomac.com.tr"
+    },
+    {
+      "rank": 5000,
+      "domain": "hani.co.kr"
+    },
+    {
+      "rank": 5000,
+      "domain": "hurriyet.com.tr"
+    },
+    {
+      "rank": 5000,
+      "domain": "joongang.co.kr"
+    },
+    {
+      "rank": 5000,
+      "domain": "kurir.rs"
+    },
+    {
+      "rank": 5000,
+      "domain": "la.lv"
+    },
+    {
+      "rank": 5000,
+      "domain": "lapresse.ca"
+    },
+    {
+      "rank": 5000,
+      "domain": "losandes.com.ar"
+    },
+    {
+      "rank": 5000,
+      "domain": "mbl.is"
+    },
+    {
+      "rank": 5000,
+      "domain": "meteored.cl"
+    },
+    {
+      "rank": 5000,
+      "domain": "meteored.com.ar"
+    },
+    {
+      "rank": 5000,
+      "domain": "meteored.mx"
+    },
+    {
+      "rank": 5000,
+      "domain": "milliyet.com.tr"
+    },
+    {
+      "rank": 5000,
+      "domain": "news.com.au"
+    },
+    {
+      "rank": 5000,
+      "domain": "novosti.rs"
+    },
+    {
+      "rank": 5000,
+      "domain": "nzherald.co.nz"
+    },
+    {
+      "rank": 5000,
+      "domain": "ole.com.ar"
+    },
+    {
+      "rank": 5000,
+      "domain": "pagina12.com.ar"
+    },
+    {
+      "rank": 5000,
+      "domain": "playground.ru"
+    },
+    {
+      "rank": 5000,
+      "domain": "pravda.com.ua"
+    },
+    {
+      "rank": 5000,
+      "domain": "pravda.sk"
+    },
+    {
+      "rank": 5000,
+      "domain": "realestate.com.au"
+    },
+    {
+      "rank": 5000,
+      "domain": "sponichi.co.jp"
+    },
+    {
+      "rank": 5000,
+      "domain": "stuff.co.nz"
+    },
+    {
+      "rank": 5000,
+      "domain": "thairath.co.th"
+    },
+    {
+      "rank": 5000,
+      "domain": "thestar.com.my"
+    },
+    {
+      "rank": 5000,
+      "domain": "tokyo-sports.co.jp"
+    },
+    {
+      "rank": 5000,
+      "domain": "vecernji.hr"
+    },
+    {
+      "rank": 5000,
+      "domain": "yomiuri.co.jp"
+    },
+    {
+      "rank": 10000,
+      "domain": "abcnews.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "actualidad.rt.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "americansongwriter.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "arxiv.org"
+    },
+    {
+      "rank": 10000,
+      "domain": "deadline.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "eadaily.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "editorial.rottentomatoes.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "elintransigente.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "finans.mynet.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "fortune.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "glavred.net"
+    },
+    {
+      "rank": 10000,
+      "domain": "gordonua.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "gulfnews.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "indiankanoon.org"
+    },
+    {
+      "rank": 10000,
+      "domain": "keralakaumudi.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "le10sport.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "naslovi.net"
+    },
+    {
+      "rank": 10000,
+      "domain": "news.ycombinator.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "oilprice.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "pagesix.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "punchng.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "supabase.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "theconversation.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "thehill.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "theobjective.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "ua.korrespondent.net"
+    },
+    {
+      "rank": 10000,
+      "domain": "variety.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "vecer.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "aarp.org"
+    },
+    {
+      "rank": 10000,
+      "domain": "ambito.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "archdaily.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "bd-pratidin.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "billboard.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "birgun.net"
+    },
+    {
+      "rank": 10000,
+      "domain": "bloomberght.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "boredpanda.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "breitbart.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "business-standard.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "caranddriver.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "casino.org"
+    },
+    {
+      "rank": 10000,
+      "domain": "cdc.gov"
+    },
+    {
+      "rank": 10000,
+      "domain": "channelnewsasia.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "countryliving.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "covers.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "dailythanthi.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "dawn.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "diariovasco.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "digitalspy.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "eldestapeweb.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "eldia.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "elespectador.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "elperiodico.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "elwatannews.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "equibase.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "esakal.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "euronews.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "expansion.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "foot01.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "formula1.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "freemalaysiatoday.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "ft.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "gamesradar.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "gsmarena.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "handelsblatt.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "harpersbazaar.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "hespress.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "hollywoodreporter.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "ilsole24ore.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "jansatta.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "jugantor.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "khaleejtimes.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "kitco.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "laprovence.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "latercera.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "latimes.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "lavenir.net"
+    },
+    {
+      "rank": 10000,
+      "domain": "lesnumeriques.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "libertaddigital.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "livemint.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "llbean.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "loksatta.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "madhyamam.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "medicalnewstoday.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "motogp.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "munhwa.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "nature.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "newegg.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "newsweek.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "nikkan-gendai.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "noticiasdenavarra.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "politico.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "programme-television.org"
+    },
+    {
+      "rank": 10000,
+      "domain": "quill.org"
+    },
+    {
+      "rank": 10000,
+      "domain": "racingpost.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "radiotimes.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "rawstory.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "rotowire.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "si.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "sky.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "stheadline.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "straitstimes.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "techradar.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "telegraphindia.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "tempo.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "the-sun.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "theatlantic.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "thedailybeast.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "theglobeandmail.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "today.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "tomsguide.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "tomshardware.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "ufc.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "webmd.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "womenshealthmag.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "worldjournal.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "yenisafak.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "yourtango.com"
+    },
+    {
+      "rank": 10000,
+      "domain": "444.hu"
+    },
+    {
+      "rank": 10000,
+      "domain": "bold.dk"
+    },
+    {
+      "rank": 10000,
+      "domain": "businessinsider.com.pl"
+    },
+    {
+      "rank": 10000,
+      "domain": "cuisine.journaldesfemmes.fr"
+    },
+    {
+      "rank": 10000,
+      "domain": "dziennikzachodni.pl"
+    },
+    {
+      "rank": 10000,
+      "domain": "echodnia.eu"
+    },
+    {
+      "rank": 10000,
+      "domain": "ee.co.uk"
+    },
+    {
+      "rank": 10000,
+      "domain": "evz.ro"
+    },
+    {
+      "rank": 10000,
+      "domain": "expresso.pt"
+    },
+    {
+      "rank": 10000,
+      "domain": "femina.hu"
+    },
+    {
+      "rank": 10000,
+      "domain": "gazetawroclawska.pl"
+    },
+    {
+      "rank": 10000,
+      "domain": "kurier.at"
+    },
+    {
+      "rank": 10000,
+      "domain": "la1ere.franceinfo.fr"
+    },
+    {
+      "rank": 10000,
+      "domain": "metro.co.uk"
+    },
+    {
+      "rank": 10000,
+      "domain": "observador.pt"
+    },
+    {
+      "rank": 10000,
+      "domain": "politiken.dk"
+    },
+    {
+      "rank": 10000,
+      "domain": "rp-online.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "24chasa.bg"
+    },
+    {
+      "rank": 10000,
+      "domain": "5min.at"
+    },
+    {
+      "rank": 10000,
+      "domain": "abendblatt.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "aftenposten.no"
+    },
+    {
+      "rank": 10000,
+      "domain": "alphatv.gr"
+    },
+    {
+      "rank": 10000,
+      "domain": "aol.co.uk"
+    },
+    {
+      "rank": 10000,
+      "domain": "bankingnews.gr"
+    },
+    {
+      "rank": 10000,
+      "domain": "bd.nl"
+    },
+    {
+      "rank": 10000,
+      "domain": "berliner-zeitung.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "bndestem.nl"
+    },
+    {
+      "rank": 10000,
+      "domain": "bt.no"
+    },
+    {
+      "rank": 10000,
+      "domain": "charentelibre.fr"
+    },
+    {
+      "rank": 10000,
+      "domain": "demorgen.be"
+    },
+    {
+      "rank": 10000,
+      "domain": "derwesten.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "diariodenavarra.es"
+    },
+    {
+      "rank": 10000,
+      "domain": "documentonews.gr"
+    },
+    {
+      "rank": 10000,
+      "domain": "ed.nl"
+    },
+    {
+      "rank": 10000,
+      "domain": "eldiariomontanes.es"
+    },
+    {
+      "rank": 10000,
+      "domain": "estrepublicain.fr"
+    },
+    {
+      "rank": 10000,
+      "domain": "ethnos.gr"
+    },
+    {
+      "rank": 10000,
+      "domain": "europapress.es"
+    },
+    {
+      "rank": 10000,
+      "domain": "finansavisen.no"
+    },
+    {
+      "rank": 10000,
+      "domain": "hbvl.be"
+    },
+    {
+      "rank": 10000,
+      "domain": "heise.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "hna.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "hs.fi"
+    },
+    {
+      "rank": 10000,
+      "domain": "huffingtonpost.fr"
+    },
+    {
+      "rank": 10000,
+      "domain": "ilfoglio.it"
+    },
+    {
+      "rank": 10000,
+      "domain": "ilgiorno.it"
+    },
+    {
+      "rank": 10000,
+      "domain": "iltirreno.it"
+    },
+    {
+      "rank": 10000,
+      "domain": "journaldesfemmes.fr"
+    },
+    {
+      "rank": 10000,
+      "domain": "kreiszeitung.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "ksta.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "lalibre.be"
+    },
+    {
+      "rank": 10000,
+      "domain": "lamontagne.fr"
+    },
+    {
+      "rank": 10000,
+      "domain": "lanuovasardegna.it"
+    },
+    {
+      "rank": 10000,
+      "domain": "larepubliquedespyrenees.fr"
+    },
+    {
+      "rank": 10000,
+      "domain": "lasprovincias.es"
+    },
+    {
+      "rank": 10000,
+      "domain": "lesechos.fr"
+    },
+    {
+      "rank": 10000,
+      "domain": "lesoir.be"
+    },
+    {
+      "rank": 10000,
+      "domain": "liberation.fr"
+    },
+    {
+      "rank": 10000,
+      "domain": "lifo.gr"
+    },
+    {
+      "rank": 10000,
+      "domain": "liverpoolecho.co.uk"
+    },
+    {
+      "rank": 10000,
+      "domain": "lne.es"
+    },
+    {
+      "rank": 10000,
+      "domain": "manchestereveningnews.co.uk"
+    },
+    {
+      "rank": 10000,
+      "domain": "mediafax.ro"
+    },
+    {
+      "rank": 10000,
+      "domain": "milanotoday.it"
+    },
+    {
+      "rank": 10000,
+      "domain": "morgenpost.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "nemzetisport.hu"
+    },
+    {
+      "rank": 10000,
+      "domain": "nrc.nl"
+    },
+    {
+      "rank": 10000,
+      "domain": "nw.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "oe24.at"
+    },
+    {
+      "rank": 10000,
+      "domain": "origo.hu"
+    },
+    {
+      "rank": 10000,
+      "domain": "parool.nl"
+    },
+    {
+      "rank": 10000,
+      "domain": "penzcentrum.hu"
+    },
+    {
+      "rank": 10000,
+      "domain": "plovdiv24.bg"
+    },
+    {
+      "rank": 10000,
+      "domain": "pnp.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "presseportal.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "publico.es"
+    },
+    {
+      "rank": 10000,
+      "domain": "publico.pt"
+    },
+    {
+      "rank": 10000,
+      "domain": "radiofrance.fr"
+    },
+    {
+      "rank": 10000,
+      "domain": "rfi.fr"
+    },
+    {
+      "rank": 10000,
+      "domain": "rp.pl"
+    },
+    {
+      "rank": 10000,
+      "domain": "rtbf.be"
+    },
+    {
+      "rank": 10000,
+      "domain": "se.pl"
+    },
+    {
+      "rank": 10000,
+      "domain": "secoloditalia.it"
+    },
+    {
+      "rank": 10000,
+      "domain": "shz.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "standaard.be"
+    },
+    {
+      "rank": 10000,
+      "domain": "standard.co.uk"
+    },
+    {
+      "rank": 10000,
+      "domain": "stepstone.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "svd.se"
+    },
+    {
+      "rank": 10000,
+      "domain": "svt.se"
+    },
+    {
+      "rank": 10000,
+      "domain": "swp.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "tagesanzeiger.ch"
+    },
+    {
+      "rank": 10000,
+      "domain": "tempo.pt"
+    },
+    {
+      "rank": 10000,
+      "domain": "thejournal.ie"
+    },
+    {
+      "rank": 10000,
+      "domain": "tubantia.nl"
+    },
+    {
+      "rank": 10000,
+      "domain": "tz.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "ultimahora.es"
+    },
+    {
+      "rank": 10000,
+      "domain": "unionesarda.it"
+    },
+    {
+      "rank": 10000,
+      "domain": "vg.hu"
+    },
+    {
+      "rank": 10000,
+      "domain": "vol.at"
+    },
+    {
+      "rank": 10000,
+      "domain": "volkskrant.nl"
+    },
+    {
+      "rank": 10000,
+      "domain": "wa.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "walesonline.co.uk"
+    },
+    {
+      "rank": 10000,
+      "domain": "wallstreet-online.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "watson.ch"
+    },
+    {
+      "rank": 10000,
+      "domain": "waz.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "zdfheute.de"
+    },
+    {
+      "rank": 10000,
+      "domain": "wyborcza.pl"
+    },
+    {
+      "rank": 10000,
+      "domain": "24tv.ua"
+    },
+    {
+      "rank": 10000,
+      "domain": "avaz.ba"
+    },
+    {
+      "rank": 10000,
+      "domain": "businesstech.co.za"
+    },
+    {
+      "rank": 10000,
+      "domain": "dennikn.sk"
+    },
+    {
+      "rank": 10000,
+      "domain": "iol.co.za"
+    },
+    {
+      "rank": 10000,
+      "domain": "jang.com.pk"
+    },
+    {
+      "rank": 10000,
+      "domain": "laodong.vn"
+    },
+    {
+      "rank": 10000,
+      "domain": "news.ru"
+    },
+    {
+      "rank": 10000,
+      "domain": "nra.lv"
+    },
+    {
+      "rank": 10000,
+      "domain": "odia.ig.com.br"
+    },
+    {
+      "rank": 10000,
+      "domain": "sportal.blic.rs"
+    },
+    {
+      "rank": 10000,
+      "domain": "sud.ua"
+    },
+    {
+      "rank": 10000,
+      "domain": "suspilne.media"
+    },
+    {
+      "rank": 10000,
+      "domain": "svet24.si"
+    },
+    {
+      "rank": 10000,
+      "domain": "t-j.ru"
+    },
+    {
+      "rank": 10000,
+      "domain": "tengrinews.kz"
+    },
+    {
+      "rank": 10000,
+      "domain": "tienphong.vn"
+    },
+    {
+      "rank": 10000,
+      "domain": "3cat.cat"
+    },
+    {
+      "rank": 10000,
+      "domain": "afl.com.au"
+    },
+    {
+      "rank": 10000,
+      "domain": "aktuality.sk"
+    },
+    {
+      "rank": 10000,
+      "domain": "alo.rs"
+    },
+    {
+      "rank": 10000,
+      "domain": "bharian.com.my"
+    },
+    {
+      "rank": 10000,
+      "domain": "cartacapital.com.br"
+    },
+    {
+      "rank": 10000,
+      "domain": "citizen.co.za"
+    },
+    {
+      "rank": 10000,
+      "domain": "correiobraziliense.com.br"
+    },
+    {
+      "rank": 10000,
+      "domain": "ctee.com.tw"
+    },
+    {
+      "rank": 10000,
+      "domain": "cumhuriyet.com.tr"
+    },
+    {
+      "rank": 10000,
+      "domain": "dnevnik.si"
+    },
+    {
+      "rank": 10000,
+      "domain": "elfinanciero.com.mx"
+    },
+    {
+      "rank": 10000,
+      "domain": "elpais.com.uy"
+    },
+    {
+      "rank": 10000,
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "rank": 10000,
+      "domain": "entekhab.ir"
+    },
+    {
+      "rank": 10000,
+      "domain": "fontanka.ru"
+    },
+    {
+      "rank": 10000,
+      "domain": "gazetadopovo.com.br"
+    },
+    {
+      "rank": 10000,
+      "domain": "globes.co.il"
+    },
+    {
+      "rank": 10000,
+      "domain": "haaretz.co.il"
+    },
+    {
+      "rank": 10000,
+      "domain": "hamshahrionline.ir"
+    },
+    {
+      "rank": 10000,
+      "domain": "hmetro.com.my"
+    },
+    {
+      "rank": 10000,
+      "domain": "huffingtonpost.jp"
+    },
+    {
+      "rank": 10000,
+      "domain": "infomoney.com.br"
+    },
+    {
+      "rank": 10000,
+      "domain": "israelhayom.co.il"
+    },
+    {
+      "rank": 10000,
+      "domain": "ittefaq.com.bd"
+    },
+    {
+      "rank": 10000,
+      "domain": "jornada.com.mx"
+    },
+    {
+      "rank": 10000,
+      "domain": "khan.co.kr"
+    },
+    {
+      "rank": 10000,
+      "domain": "kosmo.com.my"
+    },
+    {
+      "rank": 10000,
+      "domain": "kp.ru"
+    },
+    {
+      "rank": 10000,
+      "domain": "kyoto-np.co.jp"
+    },
+    {
+      "rank": 10000,
+      "domain": "lavoz.com.ar"
+    },
+    {
+      "rank": 10000,
+      "domain": "lrt.lt"
+    },
+    {
+      "rank": 10000,
+      "domain": "lrytas.lt"
+    },
+    {
+      "rank": 10000,
+      "domain": "maariv.co.il"
+    },
+    {
+      "rank": 10000,
+      "domain": "mk.ru"
+    },
+    {
+      "rank": 10000,
+      "domain": "montevideo.com.uy"
+    },
+    {
+      "rank": 10000,
+      "domain": "oslobodjenje.ba"
+    },
+    {
+      "rank": 10000,
+      "domain": "otempo.com.br"
+    },
+    {
+      "rank": 10000,
+      "domain": "poder360.com.br"
+    },
+    {
+      "rank": 10000,
+      "domain": "politika.rs"
+    },
+    {
+      "rank": 10000,
+      "domain": "pravda.ru"
+    },
+    {
+      "rank": 10000,
+      "domain": "rbc.ru"
+    },
+    {
+      "rank": 10000,
+      "domain": "rnz.co.nz"
+    },
+    {
+      "rank": 10000,
+      "domain": "sb.by"
+    },
+    {
+      "rank": 10000,
+      "domain": "sinarharian.com.my"
+    },
+    {
+      "rank": 10000,
+      "domain": "slobodna-bosna.ba"
+    },
+    {
+      "rank": 10000,
+      "domain": "sme.sk"
+    },
+    {
+      "rank": 10000,
+      "domain": "smh.com.au"
+    },
+    {
+      "rank": 10000,
+      "domain": "sport-express.ru"
+    },
+    {
+      "rank": 10000,
+      "domain": "theage.com.au"
+    },
+    {
+      "rank": 10000,
+      "domain": "vedomosti.ru"
+    },
+    {
+      "rank": 10000,
+      "domain": "vijesti.me"
+    },
+    {
+      "rank": 10000,
+      "domain": "vilaweb.cat"
+    },
+    {
+      "rank": 10000,
+      "domain": "visir.is"
+    },
+    {
+      "rank": 10000,
+      "domain": "zakon.kz"
+    },
+    {
+      "rank": 50000,
+      "domain": "2.boredpanda.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "2001online.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "247wallst.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "373news.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "6abc.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "9to5mac.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "aawsat.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "abc7.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "abc7chicago.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "abc7ny.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "advance.lexis.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "al-ain.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "aristeguinoticias.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "arsenaldirect.arsenal.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "arstechnica.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "au.news.yahoo.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "aviationa2z.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "bartamanpatrika.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "bbs.wenxuecity.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "blabbermouth.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "bleacherreport.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "bleedingcool.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "bombaysamachar.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "books.google.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "boxingnewsonline.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "br.ign.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ca.news.yahoo.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "carbuzz.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "carnewschina.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "cbs12.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "chicago.suntimes.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "classifieds.ksl.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "comicbook.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "comicbookmovie.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "crhoy.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "dailyhive.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "dailyinqilab.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "decider.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "depor.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "developer.apple.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "developers.cloudflare.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "e.vnexpress.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "earthquake.usgs.gov"
+    },
+    {
+      "rank": 50000,
+      "domain": "economictimes.indiatimes.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "eisamay.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ekantipur.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "epaper.deshonnati.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "es.ign.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "euromaidanpress.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "freerepublic.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "futurism.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "gizmodo.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "hackaday.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "highlandradio.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "hotair.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "idrw.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "infoweb.newsbank.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "issuu.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "japantoday.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "katu.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "komonews.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "koraplus.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "korrespondent.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "kotaku.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "kutv.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "kyivindependent.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "laopinion.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "listindiario.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "local12.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "maharashtratimes.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "mashable.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "mediaindonesia.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "medyabar.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "meridiano.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "mgronline.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "militarnyi.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "misionesonline.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "money.udn.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "musavat.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "nashaniva.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "nationalpost.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "newrepublic.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "news.mongabay.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "news.nextapple.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "nymag.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "patch.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "paultan.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "petapixel.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "pitchfork.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "playbill.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "podcasts.apple.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "redstate.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "rotter.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "sabq.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "saharareporters.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "samakal.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "sandesh.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "sanjevani.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "science.nasa.gov"
+    },
+    {
+      "rank": 50000,
+      "domain": "seekingalpha.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "siliconcanals.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "slate.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "spectator.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "swimswam.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "tech.yahoo.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "techcrunch.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "telanganatoday.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "telegrafi.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "thenationonlineng.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "theonion.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "thethaiger.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "time.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "timesofmalta.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "torontosun.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "townhall.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "triblive.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "turnto10.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "twitchy.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ubuntu.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "udayavani.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "uk.news.yahoo.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ultimateclassicrock.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "vijaykarnataka.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "vocm.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "wccftech.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "wlos.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "wordpress.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "worldathletics.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "wwd.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "123telugu.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "abcbourse.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "adn.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "afr.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "al.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "alchourouk.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "alternet.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "ammonnews.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "androidpolice.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "annahar.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "asiaone.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "astroawani.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "autocarindia.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "avclub.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "awwwards.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "azcentral.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "azfamily.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "bangkokpost.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "banglanews24.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "banglatribune.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "bankrate.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "barandbench.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "barcablaugranes.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "barrons.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "basketusa.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "bgr.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "biblestudytools.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "bienpublic.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "bigblueview.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "bizjournals.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "bollywoodhungama.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "boston.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "bostonglobe.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "bravotv.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "bt.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "bu.edu"
+    },
+    {
+      "rank": 50000,
+      "domain": "businessdailyafrica.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "cagesideseats.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "calameo.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "cambridge.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "carscoops.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "cartrade.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "channel4.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "cheapflights.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "chicagotribune.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "cincinnati.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "cleveland.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "clickondetroit.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "clubic.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "cnet.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "coindesk.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "commonsensemedia.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "complex.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "consumerreports.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "corsematin.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "courrierinternational.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "coventrytelegraph.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "cp24.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "crash.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "ctinsider.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "dailyamardesh.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "dailykos.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "dallascowboys.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "dallasnews.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "daswetter.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "daytondailynews.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "deccanchronicle.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "deloitte.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "deseret.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "deshabhimani.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "detroitnews.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "dezeen.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "dhakapost.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "diaridetarragona.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "diariocordoba.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "diarionorte.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "diepresse.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "dinamani.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "dunya.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ebsco.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "echoroukonline.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "eghtesadonline.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "elcolombiano.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "elcomercio.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "elheraldo.co"
+    },
+    {
+      "rank": 50000,
+      "domain": "elimparcial.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "elindependiente.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "elkhabar.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "elledecor.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ellitoral.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "elnacional.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "elnorte.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "elnuevodia.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "elperiodicodearagon.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "elperiodicomediterraneo.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "elsalvador.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "eltelegrafo.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "eluniversal.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "eluniverso.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "elvocero.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "enca.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "engadget.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ennaharonline.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "eonline.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "epochtimes.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "eremnews.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ettoday.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "eurogamer.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "expressandstar.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ey.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "famitsu.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "fao.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "fcbarcelona.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "fda.gov"
+    },
+    {
+      "rank": 50000,
+      "domain": "filmibeat.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "firstpost.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "fool.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "foxbusiness.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "france24.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "frandroid.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "freep.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "gazetaexpress.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "gazetatema.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "gazetevatan.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "geo.tv"
+    },
+    {
+      "rank": 50000,
+      "domain": "githubstatus.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "glassrpske.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "gq.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "granadahoy.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "guitarplayer.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "guitarworld.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "gujaratsamachar.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "gulte.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "hankookilbo.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "hawaiinewsnow.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "hellomagazine.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "heraldscotland.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "history.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "housebeautiful.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "howtogeek.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "i24news.tv"
+    },
+    {
+      "rank": 50000,
+      "domain": "ibm.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ilgiornaledellarte.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ilmeteo.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "indystar.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "inewsgr.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "inquirer.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "inquirer.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "irishexaminer.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "irishnews.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "islands.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "jagonews24.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "jagranjosh.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "jalopnik.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "jamaicaobserver.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "journaldequebec.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "journaldunet.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "jpost.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "jsonline.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "jstor.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "jtv.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "kalbela.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "kalerkantho.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "kannadaprabha.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "karar.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "kcci.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "kcra.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "kcrg.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "kickoff.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "komchadluek.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "koreadaily.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ksl.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ky3.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "kyeonggi.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "kyivpost.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "la-croix.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "lacapitalmdp.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "lanueva.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "lapoliticaonline.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "laprensagrafica.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "larepublica.co"
+    },
+    {
+      "rank": 50000,
+      "domain": "larioja.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "lasillavacia.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ledevoir.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "lejsl.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "leonoticias.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "levante-emv.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "liberty.edu"
+    },
+    {
+      "rank": 50000,
+      "domain": "littleleague.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "liverpoolfc.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "livescience.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "loc.gov"
+    },
+    {
+      "rank": 50000,
+      "domain": "lun.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "maalaimalar.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "makeuseof.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "malaymail.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "manilatimes.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "manoramanews.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "marianne.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "marieclaire.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "masslive.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "mdzol.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "mediaite.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "mediotiempo.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "medscape.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "medyayenigun.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "mentalfloss.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "milenio.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "military.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "militarytimes.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "mlbtraderumors.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "mlive.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "mmafighting.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "morningstar.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "motor1.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "motortrend.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "mouser.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "myjoyonline.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "mysanantonio.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "mzamin.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "nacion.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "naidunia.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "nasa.gov"
+    },
+    {
+      "rank": 50000,
+      "domain": "nationalgeographic.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "nbc.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "nerdwallet.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "netlify.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "newindianexpress.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "news-medical.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "news4jax.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "newscientist.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "newsday.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "newser.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "newyorker.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "nintendolife.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "nj.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "nme.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "nouvelobs.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "nrl.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "numerama.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "oliberal.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "oregonlive.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "outlookindia.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "packers.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "patrika.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "pbs.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "pcmag.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "penguinrandomhouse.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "pennlive.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "perfil.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "philstar.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "pistonheads.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "planetf1.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "pocket-lint.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "pocketgamer.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "polygon.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "popsci.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "popularmechanics.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "postandcourier.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "prabhatkhabar.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "premiumtimesng.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "prensalibre.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "prevention.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "primerahora.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "prnewswire.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "proquest.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "pulzo.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "pushsquare.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "quotidiano.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "radiosvoboda.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "rappler.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "rediff.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "reforma.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "rockpapershotgun.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "rollingstone.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "romaniatv.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "routard.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "runnersworld.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "saamana.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "sarayanews.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "sciencealert.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "scientificamerican.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "scmp.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "scotsman.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "seattletimes.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "segabg.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "segre.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "seikyoonline.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "seneweb.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "sfchronicle.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "sfgate.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "sharghdaily.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "shropshirestar.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "siasat.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "sigmalive.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "skiddle.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "slashfilm.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "slashgear.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "smithsonianmag.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "soompi.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "soy502.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "space.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "spc.noaa.gov"
+    },
+    {
+      "rank": 50000,
+      "domain": "sportschosun.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "spotrac.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "standartnews.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "starnewskorea.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "startribune.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "stripes.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "suara.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "sudoku-online.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "sunderlandecho.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "svoboda.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "syracuse.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "t3.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "tasteofhome.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "tatler.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "tbsnews.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "teamtalk.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "techspot.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "terra.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "tes.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "tgrthaber.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "thaipost.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "thansettakij.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "the-independent.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "theblaze.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "thedailymeal.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "thedailystar.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "theepochtimes.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "thehindubusinessline.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "themarker.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "thenationalnews.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "theregister.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "thesouthafrican.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "thestar.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "theverge.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "thewrap.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "theyeshivaworld.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "timeout.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "timesofisrael.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "topspeed.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "torquenews.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "townandcountrymag.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "tribuneindia.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "tt.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "tvguide.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "tvline.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "twz.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ultimahora.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "un.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "unicef.org"
+    },
+    {
+      "rank": 50000,
+      "domain": "usmagazine.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "valeursactuelles.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "vanguardia.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "vanguardngr.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "vanityfair.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "vetogate.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "vg247.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "vice.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "vikatan.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "vogue.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "volcanodiscovery.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "vulture.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "warc.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "waterkant.net"
+    },
+    {
+      "rank": 50000,
+      "domain": "wcvb.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "wenxuecity.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "wfmz.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "wgal.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "whathifi.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "wired.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "wlwt.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "wmur.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "womanandhome.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "wral.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "wrestlinginc.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "wsbtv.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "wtae.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "wwe.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "wyff4.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "yardbarker.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ycombinator.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ynetnews.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "youm7.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "zdnet.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "zerohedge.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "zerotackle.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "zigwheels.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "ziare.com"
+    },
+    {
+      "rank": 50000,
+      "domain": "agerpres.ro"
+    },
+    {
+      "rank": 50000,
+      "domain": "aostasera.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "bnn.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "borsen.dagbladet.no"
+    },
+    {
+      "rank": 50000,
+      "domain": "borsen.dk"
+    },
+    {
+      "rank": 50000,
+      "domain": "budejcka.drbna.cz"
+    },
+    {
+      "rank": 50000,
+      "domain": "corrieredelveneto.corriere.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "denikn.cz"
+    },
+    {
+      "rank": 50000,
+      "domain": "dialnet.unirioja.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "dziennikbaltycki.pl"
+    },
+    {
+      "rank": 50000,
+      "domain": "dzienniklodzki.pl"
+    },
+    {
+      "rank": 50000,
+      "domain": "dziennikpolski24.pl"
+    },
+    {
+      "rank": 50000,
+      "domain": "ec.europa.eu"
+    },
+    {
+      "rank": 50000,
+      "domain": "eco.sapo.pt"
+    },
+    {
+      "rank": 50000,
+      "domain": "elfarodeceuta.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "fd.nl"
+    },
+    {
+      "rank": 50000,
+      "domain": "gallica.bnf.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "gds.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "gp24.pl"
+    },
+    {
+      "rank": 50000,
+      "domain": "ilmanifesto.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "inews.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "infostart.hu"
+    },
+    {
+      "rank": 50000,
+      "domain": "investir.lesechos.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "isport.blesk.cz"
+    },
+    {
+      "rank": 50000,
+      "domain": "jhm.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "jv.dk"
+    },
+    {
+      "rank": 50000,
+      "domain": "jyllands-posten.dk"
+    },
+    {
+      "rank": 50000,
+      "domain": "kw.be"
+    },
+    {
+      "rank": 50000,
+      "domain": "magyarnemzet.hu"
+    },
+    {
+      "rank": 50000,
+      "domain": "mandiner.hu"
+    },
+    {
+      "rank": 50000,
+      "domain": "maszol.ro"
+    },
+    {
+      "rank": 50000,
+      "domain": "nepszava.hu"
+    },
+    {
+      "rank": 50000,
+      "domain": "newsweek.ro"
+    },
+    {
+      "rank": 50000,
+      "domain": "nltimes.nl"
+    },
+    {
+      "rank": 50000,
+      "domain": "nordjyske.dk"
+    },
+    {
+      "rank": 50000,
+      "domain": "ominho.pt"
+    },
+    {
+      "rank": 50000,
+      "domain": "pelop.gr"
+    },
+    {
+      "rank": 50000,
+      "domain": "polskiobserwator.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "prohardver.hu"
+    },
+    {
+      "rank": 50000,
+      "domain": "taz.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "totalcar.hu"
+    },
+    {
+      "rank": 50000,
+      "domain": "trud.bg"
+    },
+    {
+      "rank": 50000,
+      "domain": "tysol.pl"
+    },
+    {
+      "rank": 50000,
+      "domain": "24heures.ch"
+    },
+    {
+      "rank": 50000,
+      "domain": "4p.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "aachener-zeitung.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "aamulehti.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "abcnyheter.no"
+    },
+    {
+      "rank": 50000,
+      "domain": "abendzeitung-muenchen.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "affaritaliani.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "ahaonline.cz"
+    },
+    {
+      "rank": 50000,
+      "domain": "aktualne.cz"
+    },
+    {
+      "rank": 50000,
+      "domain": "alquds.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "altoadige.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "athensvoice.gr"
+    },
+    {
+      "rank": 50000,
+      "domain": "athinorama.gr"
+    },
+    {
+      "rank": 50000,
+      "domain": "autoexpress.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "avvenire.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "ba.no"
+    },
+    {
+      "rank": 50000,
+      "domain": "badische-zeitung.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "barometern.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "belfastlive.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "belfasttelegraph.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "berliner-kurier.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "berlingske.dk"
+    },
+    {
+      "rank": 50000,
+      "domain": "bernerzeitung.ch"
+    },
+    {
+      "rank": 50000,
+      "domain": "birminghammail.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "blick.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "blt.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "boerse-online.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "bournemouthecho.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "braunschweiger-zeitung.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "breakingnews.ie"
+    },
+    {
+      "rank": 50000,
+      "domain": "bristolpost.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "bt.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "bursa.ro"
+    },
+    {
+      "rank": 50000,
+      "domain": "bzi.ro"
+    },
+    {
+      "rank": 50000,
+      "domain": "canarias7.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "cancan.ro"
+    },
+    {
+      "rank": 50000,
+      "domain": "capital.bg"
+    },
+    {
+      "rank": 50000,
+      "domain": "capital.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "cash.ch"
+    },
+    {
+      "rank": 50000,
+      "domain": "cdt.ch"
+    },
+    {
+      "rank": 50000,
+      "domain": "centrepresseaveyron.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "challenges.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "chroniclelive.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "como.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "connachttribune.ie"
+    },
+    {
+      "rank": 50000,
+      "domain": "corren.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "corriereadriatico.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "corriereromagna.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "cotidianul.ro"
+    },
+    {
+      "rank": 50000,
+      "domain": "countypress.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "courrier-picard.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "dailyecho.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "dailypost.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "dailyrecord.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "dailystar.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "denik.cz"
+    },
+    {
+      "rank": 50000,
+      "domain": "deraktionaer.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "derbyshiretimes.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "derstandard.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "diariodeburgos.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "diariodeibiza.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "diariodelaltoaragon.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "diariodeleon.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "diariodemallorca.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "diariodesevilla.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "diariosur.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "die-glocke.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "dn.pt"
+    },
+    {
+      "rank": 50000,
+      "domain": "dna.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "dnevnik.bg"
+    },
+    {
+      "rank": 50000,
+      "domain": "dnoticias.pt"
+    },
+    {
+      "rank": 50000,
+      "domain": "dorsetecho.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "dt.no"
+    },
+    {
+      "rank": 50000,
+      "domain": "dvhn.nl"
+    },
+    {
+      "rank": 50000,
+      "domain": "e15.cz"
+    },
+    {
+      "rank": 50000,
+      "domain": "eadt.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "ecb.europa.eu"
+    },
+    {
+      "rank": 50000,
+      "domain": "echo-news.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "echo24.cz"
+    },
+    {
+      "rank": 50000,
+      "domain": "echolive.ie"
+    },
+    {
+      "rank": 50000,
+      "domain": "ecodibergamo.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "economx.hu"
+    },
+    {
+      "rank": 50000,
+      "domain": "editorialedomani.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "edp24.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "elcomercio.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "elcorreogallego.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "elcorreoweb.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "eldia.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "elle.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "elmira.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "elnortedecastilla.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "elprogreso.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "esaimaa.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "ess.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "everyeye.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "farodevigo.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "femmeactuelle.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "finanznachrichten.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "forbes.hu"
+    },
+    {
+      "rank": 50000,
+      "domain": "fraenkischertag.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "freiepresse.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "friatider.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "fuldaerzeitung.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "futurezone.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "gandul.ro"
+    },
+    {
+      "rank": 50000,
+      "domain": "gazettelive.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "gd.no"
+    },
+    {
+      "rank": 50000,
+      "domain": "giornaledibrescia.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "gooieneemlander.nl"
+    },
+    {
+      "rank": 50000,
+      "domain": "gp.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "greenme.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "gva.be"
+    },
+    {
+      "rank": 50000,
+      "domain": "h-a.no"
+    },
+    {
+      "rank": 50000,
+      "domain": "h-avis.no"
+    },
+    {
+      "rank": 50000,
+      "domain": "helsinginuutiset.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "hoy.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "huffingtonpost.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "huffingtonpost.gr"
+    },
+    {
+      "rank": 50000,
+      "domain": "huffingtonpost.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "hulldailymail.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "humanite.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "hwupgrade.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "ideal.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "ilcentro.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "ilgiornaledivicenza.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "ilkkapohjalainen.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "ilnapolista.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "ilpescara.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "ilpiccolo.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "ilsecoloxix.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "iltempo.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "iltquotidiano.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "irishmirror.ie"
+    },
+    {
+      "rank": 50000,
+      "domain": "irozhlas.cz"
+    },
+    {
+      "rank": 50000,
+      "domain": "jornaldenegocios.pt"
+    },
+    {
+      "rank": 50000,
+      "domain": "ka-news.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "kaleva.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "karjalainen.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "kauppalehti.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "kentonline.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "kisalfold.hu"
+    },
+    {
+      "rank": 50000,
+      "domain": "kleinezeitung.at"
+    },
+    {
+      "rank": 50000,
+      "domain": "koutipandoras.gr"
+    },
+    {
+      "rank": 50000,
+      "domain": "kouvolansanomat.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "kristianstadsbladet.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "ksml.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "ladige.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "lagazzettadelmezzogiorno.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "lalsace.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "lamanchelibre.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "lancashiretelegraph.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "laopinioncoruna.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "laopiniondemalaga.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "laopiniondemurcia.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "lapinkansa.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "laprovincia.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "laprovinciacr.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "laregion.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "larena.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "larep.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "largus.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "latribune.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "laverdad.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "lavozdeasturias.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "lbc.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "lc.nl"
+    },
+    {
+      "rank": 50000,
+      "domain": "leak.pt"
+    },
+    {
+      "rank": 50000,
+      "domain": "leberry.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "lecho.be"
+    },
+    {
+      "rank": 50000,
+      "domain": "lejdc.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "lejdd.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "lemessager.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "lepoint.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "lepopulaire.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "letemps.ch"
+    },
+    {
+      "rank": 50000,
+      "domain": "leveil.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "lexpress.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "liberoquotidiano.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "liberta.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "lidovky.cz"
+    },
+    {
+      "rank": 50000,
+      "domain": "limburger.nl"
+    },
+    {
+      "rank": 50000,
+      "domain": "limerickleader.ie"
+    },
+    {
+      "rank": 50000,
+      "domain": "linkiesta.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "lr-online.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "lto.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "lvz.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "maaseuduntulevaisuus.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "malagahoy.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "maz-online.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "mediapart.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "messaggeroveneto.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "metronieuws.nl"
+    },
+    {
+      "rank": 50000,
+      "domain": "midwestradio.ie"
+    },
+    {
+      "rank": 50000,
+      "domain": "milanofinanza.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "mittelbayerische.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "mitti.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "moviezine.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "mt.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "mz.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "na.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "napolitoday.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "nau.ch"
+    },
+    {
+      "rank": 50000,
+      "domain": "neakriti.gr"
+    },
+    {
+      "rank": 50000,
+      "domain": "newsandstar.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "newsweek.pl"
+    },
+    {
+      "rank": 50000,
+      "domain": "nn.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "noordhollandsdagblad.nl"
+    },
+    {
+      "rank": 50000,
+      "domain": "nordbayern.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "nordlittoral.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "nordlys.no"
+    },
+    {
+      "rank": 50000,
+      "domain": "noz.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "nrz.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "nsd.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "nwt.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "nzz.ch"
+    },
+    {
+      "rank": 50000,
+      "domain": "ojogo.pt"
+    },
+    {
+      "rank": 50000,
+      "domain": "onvista.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "op.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "ottopagine.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "otz.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "padovaoggi.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "parapolitika.gr"
+    },
+    {
+      "rank": 50000,
+      "domain": "pb.pl"
+    },
+    {
+      "rank": 50000,
+      "domain": "pcgames.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "petitbleu.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "pointdevue.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "politico.eu"
+    },
+    {
+      "rank": 50000,
+      "domain": "portsmouth.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "prealpina.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "prima.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "pz-news.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "pzc.nl"
+    },
+    {
+      "rank": 50000,
+      "domain": "quotidianodipuglia.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "rb.no"
+    },
+    {
+      "rank": 50000,
+      "domain": "rd.nl"
+    },
+    {
+      "rank": 50000,
+      "domain": "real.gr"
+    },
+    {
+      "rank": 50000,
+      "domain": "republicain-lorrain.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "rhein-zeitung.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "rheinpfalz.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "ruhrnachrichten.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "saarbruecker-zeitung.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "saechsische.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "satakunnankansa.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "savonsanomat.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "schwarzwaelder-bote.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "slate.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "slbenfica.pt"
+    },
+    {
+      "rank": 50000,
+      "domain": "smp.no"
+    },
+    {
+      "rank": 50000,
+      "domain": "smp.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "sn.at"
+    },
+    {
+      "rank": 50000,
+      "domain": "southwalesargus.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "stimme.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "stokesentinel.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "stuttgarter-zeitung.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "suedkurier.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "superdeporte.es"
+    },
+    {
+      "rank": 50000,
+      "domain": "swindonadvertiser.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "swissinfo.ch"
+    },
+    {
+      "rank": 50000,
+      "domain": "sydsvenskan.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "t-a.no"
+    },
+    {
+      "rank": 50000,
+      "domain": "tageblatt.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "tanea.gr"
+    },
+    {
+      "rank": 50000,
+      "domain": "targatocn.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "taxydromos.gr"
+    },
+    {
+      "rank": 50000,
+      "domain": "tb.no"
+    },
+    {
+      "rank": 50000,
+      "domain": "tek.no"
+    },
+    {
+      "rank": 50000,
+      "domain": "telepolis.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "telerama.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "telestar.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "theargus.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "theboltonnews.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "thecourier.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "thenorthernecho.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "thescottishsun.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "thestar.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "thesun.ie"
+    },
+    {
+      "rank": 50000,
+      "domain": "thetelegraphandargus.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "thueringer-allgemeine.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "tichyseinblick.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "tijd.be"
+    },
+    {
+      "rank": 50000,
+      "domain": "tips.at"
+    },
+    {
+      "rank": 50000,
+      "domain": "tk.no"
+    },
+    {
+      "rank": 50000,
+      "domain": "today.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "trouw.nl"
+    },
+    {
+      "rank": 50000,
+      "domain": "ts.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "tuttobiciweb.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "tv2east.dk"
+    },
+    {
+      "rank": 50000,
+      "domain": "tv2nord.dk"
+    },
+    {
+      "rank": 50000,
+      "domain": "tv2ostjylland.dk"
+    },
+    {
+      "rank": 50000,
+      "domain": "tvguide.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "tvmidtvest.dk"
+    },
+    {
+      "rank": 50000,
+      "domain": "tvsyd.dk"
+    },
+    {
+      "rank": 50000,
+      "domain": "twtd.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "unt.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "uusisuomi.fi"
+    },
+    {
+      "rank": 50000,
+      "domain": "vaol.hu"
+    },
+    {
+      "rank": 50000,
+      "domain": "varesenews.it"
+    },
+    {
+      "rank": 50000,
+      "domain": "vk.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "voetbalnieuws.be"
+    },
+    {
+      "rank": 50000,
+      "domain": "vogue.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "volksfreund.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "voria.gr"
+    },
+    {
+      "rank": 50000,
+      "domain": "vosgesmatin.fr"
+    },
+    {
+      "rank": 50000,
+      "domain": "watson.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "weser-kurier.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "which.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "wiwo.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "wn.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "worcesternews.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "wp.de"
+    },
+    {
+      "rank": 50000,
+      "domain": "yorkpress.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "yorkshireeveningpost.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "yorkshirepost.co.uk"
+    },
+    {
+      "rank": 50000,
+      "domain": "ystadsallehanda.se"
+    },
+    {
+      "rank": 50000,
+      "domain": "ziaruldeiasi.ro"
+    },
+    {
+      "rank": 50000,
+      "domain": "66.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "altapress.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "atarde.com.br"
+    },
+    {
+      "rank": 50000,
+      "domain": "baochinhphu.vn"
+    },
+    {
+      "rank": 50000,
+      "domain": "bb.lv"
+    },
+    {
+      "rank": 50000,
+      "domain": "blog.google"
+    },
+    {
+      "rank": 50000,
+      "domain": "cuoi.tuoitre.vn"
+    },
+    {
+      "rank": 50000,
+      "domain": "dailypakistan.com.pk"
+    },
+    {
+      "rank": 50000,
+      "domain": "dailypost.ng"
+    },
+    {
+      "rank": 50000,
+      "domain": "defimedia.info"
+    },
+    {
+      "rank": 50000,
+      "domain": "diario.mx"
+    },
+    {
+      "rank": 50000,
+      "domain": "dtf.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "ekipa.svet24.si"
+    },
+    {
+      "rank": 50000,
+      "domain": "eldesconcierto.cl"
+    },
+    {
+      "rank": 50000,
+      "domain": "elmon.cat"
+    },
+    {
+      "rank": 50000,
+      "domain": "fakty.ua"
+    },
+    {
+      "rank": 50000,
+      "domain": "gestion.pe"
+    },
+    {
+      "rank": 50000,
+      "domain": "glavred.info"
+    },
+    {
+      "rank": 50000,
+      "domain": "globalnews.ca"
+    },
+    {
+      "rank": 50000,
+      "domain": "gorod48.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "guardian.ng"
+    },
+    {
+      "rank": 50000,
+      "domain": "haqqin.az"
+    },
+    {
+      "rank": 50000,
+      "domain": "heraldodemexico.com.mx"
+    },
+    {
+      "rank": 50000,
+      "domain": "inkazan.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "iview.abc.net.au"
+    },
+    {
+      "rank": 50000,
+      "domain": "iz.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "jauns.lv"
+    },
+    {
+      "rank": 50000,
+      "domain": "jornal.usp.br"
+    },
+    {
+      "rank": 50000,
+      "domain": "kahoku.news"
+    },
+    {
+      "rank": 50000,
+      "domain": "klops.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "korzar.sme.sk"
+    },
+    {
+      "rank": 50000,
+      "domain": "kubnews.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "larepublica.pe"
+    },
+    {
+      "rank": 50000,
+      "domain": "lematin.ma"
+    },
+    {
+      "rank": 50000,
+      "domain": "lgz.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "maaleht.delfi.ee"
+    },
+    {
+      "rank": 50000,
+      "domain": "mailchi.mp"
+    },
+    {
+      "rank": 50000,
+      "domain": "maroelamedia.co.za"
+    },
+    {
+      "rank": 50000,
+      "domain": "metaratings.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "minfin.com.ua"
+    },
+    {
+      "rank": 50000,
+      "domain": "mlyn.by"
+    },
+    {
+      "rank": 50000,
+      "domain": "moe-online.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "nation.africa"
+    },
+    {
+      "rank": 50000,
+      "domain": "nation.cymru"
+    },
+    {
+      "rank": 50000,
+      "domain": "news.telegraf.com.ua"
+    },
+    {
+      "rank": 50000,
+      "domain": "news.walla.co.il"
+    },
+    {
+      "rank": 50000,
+      "domain": "nuevodiarioweb.com.ar"
+    },
+    {
+      "rank": 50000,
+      "domain": "orientaldaily.on.cc"
+    },
+    {
+      "rank": 50000,
+      "domain": "peru21.pe"
+    },
+    {
+      "rank": 50000,
+      "domain": "pmg.ua"
+    },
+    {
+      "rank": 50000,
+      "domain": "pravda.rs"
+    },
+    {
+      "rank": 50000,
+      "domain": "pressball.by"
+    },
+    {
+      "rank": 50000,
+      "domain": "propakistani.pk"
+    },
+    {
+      "rank": 50000,
+      "domain": "pudhari.news"
+    },
+    {
+      "rank": 50000,
+      "domain": "qafqazinfo.az"
+    },
+    {
+      "rank": 50000,
+      "domain": "rus.postimees.ee"
+    },
+    {
+      "rank": 50000,
+      "domain": "sampi.net.br"
+    },
+    {
+      "rank": 50000,
+      "domain": "sevastopol.su"
+    },
+    {
+      "rank": 50000,
+      "domain": "standardbredcanada.ca"
+    },
+    {
+      "rank": 50000,
+      "domain": "svpressa.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "theprint.in"
+    },
+    {
+      "rank": 50000,
+      "domain": "tribune.com.pk"
+    },
+    {
+      "rank": 50000,
+      "domain": "ulysmedia.kz"
+    },
+    {
+      "rank": 50000,
+      "domain": "unn.ua"
+    },
+    {
+      "rank": 50000,
+      "domain": "uzmanpara.milliyet.com.tr"
+    },
+    {
+      "rank": 50000,
+      "domain": "vanguardia.com.mx"
+    },
+    {
+      "rank": 50000,
+      "domain": "vc.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "vtcnews.vn"
+    },
+    {
+      "rank": 50000,
+      "domain": "vtv.vn"
+    },
+    {
+      "rank": 50000,
+      "domain": "vz.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "aa.com.tr"
+    },
+    {
+      "rank": 50000,
+      "domain": "abc.com.py"
+    },
+    {
+      "rank": 50000,
+      "domain": "agazeta.com.br"
+    },
+    {
+      "rank": 50000,
+      "domain": "albayan.ae"
+    },
+    {
+      "rank": 50000,
+      "domain": "alberta.ca"
+    },
+    {
+      "rank": 50000,
+      "domain": "aninews.in"
+    },
+    {
+      "rank": 50000,
+      "domain": "ara.cat"
+    },
+    {
+      "rank": 50000,
+      "domain": "aripaev.ee"
+    },
+    {
+      "rank": 50000,
+      "domain": "bhol.co.il"
+    },
+    {
+      "rank": 50000,
+      "domain": "bnnbloomberg.ca"
+    },
+    {
+      "rank": 50000,
+      "domain": "botasot.info"
+    },
+    {
+      "rank": 50000,
+      "domain": "brasildefato.com.br"
+    },
+    {
+      "rank": 50000,
+      "domain": "businesstimes.com.sg"
+    },
+    {
+      "rank": 50000,
+      "domain": "businesstoday.in"
+    },
+    {
+      "rank": 50000,
+      "domain": "calcalist.co.il"
+    },
+    {
+      "rank": 50000,
+      "domain": "chinapress.com.my"
+    },
+    {
+      "rank": 50000,
+      "domain": "chugoku-np.co.jp"
+    },
+    {
+      "rank": 50000,
+      "domain": "correiodopovo.com.br"
+    },
+    {
+      "rank": 50000,
+      "domain": "couriermail.com.au"
+    },
+    {
+      "rank": 50000,
+      "domain": "cronica.com.ar"
+    },
+    {
+      "rank": 50000,
+      "domain": "dailymaverick.co.za"
+    },
+    {
+      "rank": 50000,
+      "domain": "dailymirror.lk"
+    },
+    {
+      "rank": 50000,
+      "domain": "dailynews.co.th"
+    },
+    {
+      "rank": 50000,
+      "domain": "dailytelegraph.com.au"
+    },
+    {
+      "rank": 50000,
+      "domain": "dan.co.me"
+    },
+    {
+      "rank": 50000,
+      "domain": "delo.si"
+    },
+    {
+      "rank": 50000,
+      "domain": "df.cl"
+    },
+    {
+      "rank": 50000,
+      "domain": "diaridegirona.cat"
+    },
+    {
+      "rank": 50000,
+      "domain": "diariodecuyo.com.ar"
+    },
+    {
+      "rank": 50000,
+      "domain": "digit.in"
+    },
+    {
+      "rank": 50000,
+      "domain": "diken.com.tr"
+    },
+    {
+      "rank": 50000,
+      "domain": "divyabhaskar.co.in"
+    },
+    {
+      "rank": 50000,
+      "domain": "dv.is"
+    },
+    {
+      "rank": 50000,
+      "domain": "eleconomista.com.mx"
+    },
+    {
+      "rank": 50000,
+      "domain": "elliberal.com.ar"
+    },
+    {
+      "rank": 50000,
+      "domain": "elmostrador.cl"
+    },
+    {
+      "rank": 50000,
+      "domain": "elobservador.com.uy"
+    },
+    {
+      "rank": 50000,
+      "domain": "elpais.com.co"
+    },
+    {
+      "rank": 50000,
+      "domain": "elpuntavui.cat"
+    },
+    {
+      "rank": 50000,
+      "domain": "elsiglodetorreon.com.mx"
+    },
+    {
+      "rank": 50000,
+      "domain": "eluniversal.com.co"
+    },
+    {
+      "rank": 50000,
+      "domain": "em.com.br"
+    },
+    {
+      "rank": 50000,
+      "domain": "enanyang.my"
+    },
+    {
+      "rank": 50000,
+      "domain": "euro-football.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "eurointegration.com.ua"
+    },
+    {
+      "rank": 50000,
+      "domain": "ewn.co.za"
+    },
+    {
+      "rank": 50000,
+      "domain": "excelsior.com.mx"
+    },
+    {
+      "rank": 50000,
+      "domain": "expreso.com.pe"
+    },
+    {
+      "rank": 50000,
+      "domain": "express.com.pk"
+    },
+    {
+      "rank": 50000,
+      "domain": "folha.uol.com.br"
+    },
+    {
+      "rank": 50000,
+      "domain": "folhabv.com.br"
+    },
+    {
+      "rank": 50000,
+      "domain": "folhavitoria.com.br"
+    },
+    {
+      "rank": 50000,
+      "domain": "gazeta.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "gazetametro.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "glasistre.hr"
+    },
+    {
+      "rank": 50000,
+      "domain": "globaltimes.cn"
+    },
+    {
+      "rank": 50000,
+      "domain": "goud.ma"
+    },
+    {
+      "rank": 50000,
+      "domain": "gov.za"
+    },
+    {
+      "rank": 50000,
+      "domain": "guardian.co.tt"
+    },
+    {
+      "rank": 50000,
+      "domain": "heraldsun.com.au"
+    },
+    {
+      "rank": 50000,
+      "domain": "hokkaido-np.co.jp"
+    },
+    {
+      "rank": 50000,
+      "domain": "informador.mx"
+    },
+    {
+      "rank": 50000,
+      "domain": "inn.co.il"
+    },
+    {
+      "rank": 50000,
+      "domain": "iwate-np.co.jp"
+    },
+    {
+      "rank": 50000,
+      "domain": "jdn.co.il"
+    },
+    {
+      "rank": 50000,
+      "domain": "jomo-news.co.jp"
+    },
+    {
+      "rank": 50000,
+      "domain": "kaipkada.lt"
+    },
+    {
+      "rank": 50000,
+      "domain": "khaosod.co.th"
+    },
+    {
+      "rank": 50000,
+      "domain": "kikar.co.il"
+    },
+    {
+      "rank": 50000,
+      "domain": "kobe-np.co.jp"
+    },
+    {
+      "rank": 50000,
+      "domain": "kommersant.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "kompas.id"
+    },
+    {
+      "rank": 50000,
+      "domain": "koreatimes.co.kr"
+    },
+    {
+      "rank": 50000,
+      "domain": "korkusuz.com.tr"
+    },
+    {
+      "rank": 50000,
+      "domain": "lacapital.com.ar"
+    },
+    {
+      "rank": 50000,
+      "domain": "lagaceta.com.ar"
+    },
+    {
+      "rank": 50000,
+      "domain": "lankadeepa.lk"
+    },
+    {
+      "rank": 50000,
+      "domain": "laprensa.hn"
+    },
+    {
+      "rank": 50000,
+      "domain": "lapresse.tn"
+    },
+    {
+      "rank": 50000,
+      "domain": "laverita.info"
+    },
+    {
+      "rank": 50000,
+      "domain": "lessentiel.lu"
+    },
+    {
+      "rank": 50000,
+      "domain": "livelaw.in"
+    },
+    {
+      "rank": 50000,
+      "domain": "ltn.com.tw"
+    },
+    {
+      "rank": 50000,
+      "domain": "massey.ac.nz"
+    },
+    {
+      "rank": 50000,
+      "domain": "matichon.co.th"
+    },
+    {
+      "rank": 50000,
+      "domain": "midianews.com.br"
+    },
+    {
+      "rank": 50000,
+      "domain": "migalhas.com.br"
+    },
+    {
+      "rank": 50000,
+      "domain": "minpo.jp"
+    },
+    {
+      "rank": 50000,
+      "domain": "monitor.co.ug"
+    },
+    {
+      "rank": 50000,
+      "domain": "mstar.com.my"
+    },
+    {
+      "rank": 50000,
+      "domain": "mt.co.kr"
+    },
+    {
+      "rank": 50000,
+      "domain": "naiz.eus"
+    },
+    {
+      "rank": 50000,
+      "domain": "newsru.co.il"
+    },
+    {
+      "rank": 50000,
+      "domain": "niigata-nippo.co.jp"
+    },
+    {
+      "rank": 50000,
+      "domain": "nishinippon.co.jp"
+    },
+    {
+      "rank": 50000,
+      "domain": "noticiasdealava.eus"
+    },
+    {
+      "rank": 50000,
+      "domain": "novilist.hr"
+    },
+    {
+      "rank": 50000,
+      "domain": "nst.com.my"
+    },
+    {
+      "rank": 50000,
+      "domain": "odt.co.nz"
+    },
+    {
+      "rank": 50000,
+      "domain": "ohtuleht.ee"
+    },
+    {
+      "rank": 50000,
+      "domain": "okaz.com.sa"
+    },
+    {
+      "rank": 50000,
+      "domain": "open.online"
+    },
+    {
+      "rank": 50000,
+      "domain": "orientaldaily.com.my"
+    },
+    {
+      "rank": 50000,
+      "domain": "panorama.com.al"
+    },
+    {
+      "rank": 50000,
+      "domain": "perthnow.com.au"
+    },
+    {
+      "rank": 50000,
+      "domain": "politis.com.cy"
+    },
+    {
+      "rank": 50000,
+      "domain": "poslovni.hr"
+    },
+    {
+      "rank": 50000,
+      "domain": "posta.com.tr"
+    },
+    {
+      "rank": 50000,
+      "domain": "postimees.ee"
+    },
+    {
+      "rank": 50000,
+      "domain": "postoj.sk"
+    },
+    {
+      "rank": 50000,
+      "domain": "primicias.ec"
+    },
+    {
+      "rank": 50000,
+      "domain": "realcommercial.com.au"
+    },
+    {
+      "rank": 50000,
+      "domain": "regio7.cat"
+    },
+    {
+      "rank": 50000,
+      "domain": "republika.rs"
+    },
+    {
+      "rank": 50000,
+      "domain": "resmigazete.gov.tr"
+    },
+    {
+      "rank": 50000,
+      "domain": "respublika.lt"
+    },
+    {
+      "rank": 50000,
+      "domain": "rionegro.com.ar"
+    },
+    {
+      "rank": 50000,
+      "domain": "rosbalt.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "sabah.com.tr"
+    },
+    {
+      "rank": 50000,
+      "domain": "sakigake.jp"
+    },
+    {
+      "rank": 50000,
+      "domain": "sangbadpratidin.in"
+    },
+    {
+      "rank": 50000,
+      "domain": "sanyonews.jp"
+    },
+    {
+      "rank": 50000,
+      "domain": "sbs.com.au"
+    },
+    {
+      "rank": 50000,
+      "domain": "scielo.br"
+    },
+    {
+      "rank": 50000,
+      "domain": "shimotsuke.co.jp"
+    },
+    {
+      "rank": 50000,
+      "domain": "shinmai.co.jp"
+    },
+    {
+      "rank": 50000,
+      "domain": "siamsport.co.th"
+    },
+    {
+      "rank": 50000,
+      "domain": "sinchew.com.my"
+    },
+    {
+      "rank": 50000,
+      "domain": "singtao.ca"
+    },
+    {
+      "rank": 50000,
+      "domain": "slobodenpecat.mk"
+    },
+    {
+      "rank": 50000,
+      "domain": "sowetan.co.za"
+    },
+    {
+      "rank": 50000,
+      "domain": "srugim.co.il"
+    },
+    {
+      "rank": 50000,
+      "domain": "st.nu"
+    },
+    {
+      "rank": 50000,
+      "domain": "standardmedia.co.ke"
+    },
+    {
+      "rank": 50000,
+      "domain": "super.kg"
+    },
+    {
+      "rank": 50000,
+      "domain": "takvim.com.tr"
+    },
+    {
+      "rank": 50000,
+      "domain": "tamilmurasu.com.sg"
+    },
+    {
+      "rank": 50000,
+      "domain": "telegram.hr"
+    },
+    {
+      "rank": 50000,
+      "domain": "the-star.co.ke"
+    },
+    {
+      "rank": 50000,
+      "domain": "theaustralian.com.au"
+    },
+    {
+      "rank": 50000,
+      "domain": "thecable.ng"
+    },
+    {
+      "rank": 50000,
+      "domain": "theclinic.cl"
+    },
+    {
+      "rank": 50000,
+      "domain": "thenewdaily.com.au"
+    },
+    {
+      "rank": 50000,
+      "domain": "timeslive.co.za"
+    },
+    {
+      "rank": 50000,
+      "domain": "tokyo-np.co.jp"
+    },
+    {
+      "rank": 50000,
+      "domain": "toonippo.co.jp"
+    },
+    {
+      "rank": 50000,
+      "domain": "tsn.ca"
+    },
+    {
+      "rank": 50000,
+      "domain": "turkiyegazetesi.com.tr"
+    },
+    {
+      "rank": 50000,
+      "domain": "tv.nu"
+    },
+    {
+      "rank": 50000,
+      "domain": "ufrgs.br"
+    },
+    {
+      "rank": 50000,
+      "domain": "ukrinform.ua"
+    },
+    {
+      "rank": 50000,
+      "domain": "utusan.com.my"
+    },
+    {
+      "rank": 50000,
+      "domain": "varthabharati.in"
+    },
+    {
+      "rank": 50000,
+      "domain": "vesty.co.il"
+    },
+    {
+      "rank": 50000,
+      "domain": "vogue.in"
+    },
+    {
+      "rank": 50000,
+      "domain": "vz.lt"
+    },
+    {
+      "rank": 50000,
+      "domain": "who.int"
+    },
+    {
+      "rank": 50000,
+      "domain": "yeniasir.com.tr"
+    },
+    {
+      "rank": 50000,
+      "domain": "zakzak.co.jp"
+    },
+    {
+      "rank": 50000,
+      "domain": "zaobao.com.sg"
+    },
+    {
+      "rank": 50000,
+      "domain": "zdg.md"
+    },
+    {
+      "rank": 50000,
+      "domain": "www1.pluska.sk"
+    },
+    {
+      "rank": 50000,
+      "domain": "ysia.ru"
+    },
+    {
+      "rank": 50000,
+      "domain": "zdnet.co.kr"
+    },
+    {
+      "rank": 50000,
+      "domain": "zn.ua"
+    },
+    {
+      "rank": 100000,
+      "domain": "koreatimes.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "13wham.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "abc11.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "abc13.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "abc3340.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "abc6onyourside.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "abc7news.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "abcnews4.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "adt.arcanum.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "armtimes.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "asia.nikkei.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "awfulannouncing.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "bamsmackpow.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "beyondtheflag.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "bianet.org"
+    },
+    {
+      "rank": 100000,
+      "domain": "birja.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "blog.playstation.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "blog.udn.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "brobible.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "buffalonews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "calgaryherald.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "capital.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "cnycentral.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "confilegal.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "cowboystatedaily.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "cyprus-mail.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "dailycaller.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "dailygalaxy.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "dailytrust.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "dailyvoice.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "der-farang.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "developers.openai.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "dhakamail.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "divyamarathi.bhaskar.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "edmontonjournal.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "eladelantado.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "english.elpais.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "enovosty.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "epaper.prabhatkhabar.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "fandomwire.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "financialpost.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "fox11online.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "fox17.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "foxbaltimore.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "greekreporter.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "hardcoregamer.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "healthcare.utah.edu"
+    },
+    {
+      "rank": 100000,
+      "domain": "hindi.economictimes.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "igihe.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "insideevs.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "insider-gaming.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "iopscience.iop.org"
+    },
+    {
+      "rank": 100000,
+      "domain": "jamaica-gleaner.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "jateng.tribunnews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "journals.plos.org"
+    },
+    {
+      "rank": 100000,
+      "domain": "justthenews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "kaieteurnewsonline.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "kfoxtv.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "lancasteronline.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "lefaso.net"
+    },
+    {
+      "rank": 100000,
+      "domain": "lfpress.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "lifehacker.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "lostcoastoutpost.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "loudwire.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "maritime-executive.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "med.stanford.edu"
+    },
+    {
+      "rank": 100000,
+      "domain": "montrealgazette.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "muse.jhu.edu"
+    },
+    {
+      "rank": 100000,
+      "domain": "nesn.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "news-eleven.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "news3lv.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "newschannel9.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "ninernoise.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "nintendoeverything.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "ostdeutscheallgemeine.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "panow.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "pjmedia.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "plato.stanford.edu"
+    },
+    {
+      "rank": 100000,
+      "domain": "politicalwire.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "prabhanews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "prajasakti.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "projects.propublica.org"
+    },
+    {
+      "rank": 100000,
+      "domain": "punemirror.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "remiremontvallees.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "riggosrag.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "robbreport.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "salinapost.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "sdgs.un.org"
+    },
+    {
+      "rank": 100000,
+      "domain": "sellout.woot.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "shop.scholastic.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "slippedisc.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "spaceplace.nasa.gov"
+    },
+    {
+      "rank": 100000,
+      "domain": "speedcafe.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "stylecaster.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "sundayguardianlive.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "thelandryhat.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "thepeoplesperson.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "thepointsguy.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "thestandard.co"
+    },
+    {
+      "rank": 100000,
+      "domain": "thetab.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "theweek.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "thewhiskeywash.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "vancouversun.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "vostokmedia.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wcyb.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "weartv.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wgme.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "winteriscoming.net"
+    },
+    {
+      "rank": 100000,
+      "domain": "wjla.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wpde.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wsbt.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wset.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wtop.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wwmt.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "1011now.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "13abc.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "14news.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "2news.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "49ers.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "aafp.org"
+    },
+    {
+      "rank": 100000,
+      "domain": "abc15.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "adorama.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "afaqs.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "africaguinee.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "ajc.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "ajkerpatrika.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "allure.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "altaveu.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "alyaum.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "americanthinker.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "androidcentral.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "app.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "arabnews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "arabtimesonline.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "architecturaldigest.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "arrowheadpride.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "atlantico.net"
+    },
+    {
+      "rank": 100000,
+      "domain": "automationdirect.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "baenegocios.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "baltimoreravens.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "baltimoresun.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "bangordailynews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "beaconjournal.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "behindthesteelcurtain.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "bikeradar.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "bleedinggreennation.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "bloggingtheboys.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "bloodhorse.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "boerse-express.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "bonappetit.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "bostonherald.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "brecorder.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "broadway.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "buffalobills.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "bullionvault.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "bundesliga.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "business-humanrights.org"
+    },
+    {
+      "rank": 100000,
+      "domain": "cancer.org"
+    },
+    {
+      "rank": 100000,
+      "domain": "cantonrep.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "caughtoffside.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "celebdirtylaundry.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "celebheights.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "chattanoogan.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "chiefs.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "christies.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "chronicleonline.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "citinewsroom.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "cityam.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "cleveland19.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "click2houston.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "clickorlando.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "cntraveler.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "colorado.edu"
+    },
+    {
+      "rank": 100000,
+      "domain": "comingsoon.net"
+    },
+    {
+      "rank": 100000,
+      "domain": "commercialappeal.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "cornwalllive.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "courant.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "creativebloq.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "crimeworld.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "dailyexcelsior.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "dailygazette.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "dailyherald.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "dailywire.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "darkhorizons.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "delawareonline.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "democratandchronicle.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "denofgeek.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "denverpost.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "designboom.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "desmoinesregister.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "detroitlions.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "dhakatimes24.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "diarimes.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "dinakaran.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "dnaindia.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "dostor.org"
+    },
+    {
+      "rank": 100000,
+      "domain": "drf.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "dualshockers.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "eastidahonews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "elciudadano.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "eldiadevalladolid.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "elgrafico.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "elidealgallego.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "empireonline.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "ettelaat.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "everydayhealth.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "evrensel.net"
+    },
+    {
+      "rank": 100000,
+      "domain": "expressnews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "fangraphs.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "federalregister.gov"
+    },
+    {
+      "rank": 100000,
+      "domain": "fijivillage.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "firstalert4.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "flightglobal.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "floridatoday.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "fonearena.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "fourfourtwo.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "fox10phoenix.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "fox13news.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "fox13now.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "fox19.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "fox2detroit.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "fox4news.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "fox5atlanta.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "fox6now.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "fox9.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "foxcarolina.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "gasteizhoy.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "gfcnieuws.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "ghanaweb.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "glamour.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "goldderby.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "greaterkashmir.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "gulfcoastnewsnow.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "haaretz.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "herefordtimes.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "highsnobiety.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "hitc.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "hogshaven.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "houstonchronicle.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "hrw.org"
+    },
+    {
+      "rank": 100000,
+      "domain": "idomin.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "indiewire.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "inforum.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "insidehalton.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "investors.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "israelnationalnews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "istemersin.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "justarsenal.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "kctv5.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "ketv.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "kibrispostasi.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "kiplinger.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "klove.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "kmbc.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "knoxnews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "koat.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "koco.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "koha.net"
+    },
+    {
+      "rank": 100000,
+      "domain": "kold.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "kptv.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "ksat.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "kwch.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "laineygossip.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "lakemchenryscanner.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "laprensani.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "lavozdelanzarote.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "legnanonews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "lehighvalleylive.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "lesoleil.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "live5news.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "lorientlejour.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "magzter.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "maliweb.net"
+    },
+    {
+      "rank": 100000,
+      "domain": "managingmadrid.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "manxradio.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "mercurynews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "metrovaartha.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "metv.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "mid-day.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "milehighreport.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "mmamania.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "modernghana.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "motorcyclenews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "mprnews.org"
+    },
+    {
+      "rank": 100000,
+      "domain": "mta.maryland.gov"
+    },
+    {
+      "rank": 100000,
+      "domain": "myswitzerland.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "navabharat.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "nbcchicago.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "nbcmiami.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "nbcphiladelphia.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "ncaa.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "ncronline.org"
+    },
+    {
+      "rank": 100000,
+      "domain": "newson6.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "newzimbabwe.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "ninersnation.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "nola.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "northjersey.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "nottinghampost.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "nyasatimes.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "nydailynews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "nytco.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "ocregister.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "oed.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "oklahoman.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "oneindia.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "orlandosentinel.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "outdoorlife.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "palmbeachpost.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "paris-turf.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "patriots.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "pcgamesn.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "phoronix.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "pianetabasket.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "pinkvilla.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "pirelli.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "pokernews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "post-gazette.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "prensa.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "pressherald.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "qatarliving.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "raialyoum.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "raiders.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "raspberrypi.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "rd.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "realitatea.net"
+    },
+    {
+      "rank": 100000,
+      "domain": "reviewjournal.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "rgj.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "riazor.org"
+    },
+    {
+      "rank": 100000,
+      "domain": "roadandtrack.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "rushlane.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "salon.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "saltwire.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "sandiegouniontribune.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "sciencefocus.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "sdpnoticias.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "seahawks.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "shawlocal.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "sheknows.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "silive.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "sirajlive.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "skymetweather.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "sltrib.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "soapoperadigest.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "spokesman.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "staradvertiser.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "state.gov"
+    },
+    {
+      "rank": 100000,
+      "domain": "statesman.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "steelers.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "sun-sentinel.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "surga11.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "tallahassee.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "tampabay.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "tcm.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "tcpalm.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "telegram.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "telugutimes.net"
+    },
+    {
+      "rank": 100000,
+      "domain": "tennessean.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "theborneopost.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "thedrive.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "themirror.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "themoscowtimes.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "theportugalnews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "therakyatpost.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "thespec.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "thisdaylive.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "timescolonist.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "timeshighereducation.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "timesunion.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "toffeeweb.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "tunisienumerique.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "umass.edu"
+    },
+    {
+      "rank": 100000,
+      "domain": "valleynewslive.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "vikings.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "vox.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wafb.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wallpaper.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "washingtonexaminer.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wbaltv.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wbay.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wbrz.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wbtv.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wcax.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wcpo.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wdbj7.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wdsu.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "weau.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wenweipo.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wesh.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "westernjournal.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wfsb.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "whec.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "whio.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wibw.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "windowscentral.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "winknews.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wisn.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wistv.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "witn.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wkyt.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wlky.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wmtw.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wndu.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "womansworld.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "worldbank.org"
+    },
+    {
+      "rank": 100000,
+      "domain": "wowt.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wptv.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wpxi.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wrestlezone.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wsaz.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wsfa.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wsmv.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wxii12.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "wxyz.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "yenialanya.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "zmescience.com"
+    },
+    {
+      "rank": 100000,
+      "domain": "ausnews.de"
+    },
+    {
+      "rank": 100000,
+      "domain": "brnensky.denik.cz"
+    },
+    {
+      "rank": 100000,
+      "domain": "drimble.nl"
+    },
+    {
+      "rank": 100000,
+      "domain": "fyens.dk"
+    },
+    {
+      "rank": 100000,
+      "domain": "gazzettadelsud.it"
+    },
+    {
+      "rank": 100000,
+      "domain": "inyheter.no"
+    },
+    {
+      "rank": 100000,
+      "domain": "itavisen.no"
+    },
+    {
+      "rank": 100000,
+      "domain": "keskustelu.kauppalehti.fi"
+    },
+    {
+      "rank": 100000,
+      "domain": "neviditelnypes.lidovky.cz"
+    },
+    {
+      "rank": 100000,
+      "domain": "nius.de"
+    },
+    {
+      "rank": 100000,
+      "domain": "novayagazeta.eu"
+    },
+    {
+      "rank": 100000,
+      "domain": "olomoucky.denik.cz"
+    },
+    {
+      "rank": 100000,
+      "domain": "spynews.ro"
+    },
+    {
+      "rank": 100000,
+      "domain": "svobodnoslovo.eu"
+    },
+    {
+      "rank": 100000,
+      "domain": "videnskab.dk"
+    },
+    {
+      "rank": 100000,
+      "domain": "weltwoche.ch"
+    },
+    {
+      "rank": 100000,
+      "domain": "abruzzoweb.it"
+    },
+    {
+      "rank": 100000,
+      "domain": "aisnenouvelle.fr"
+    },
+    {
+      "rank": 100000,
+      "domain": "allehanda.se"
+    },
+    {
+      "rank": 100000,
+      "domain": "allgemeine-zeitung.de"
+    },
+    {
+      "rank": 100000,
+      "domain": "androidplanet.nl"
+    },
+    {
+      "rank": 100000,
+      "domain": "ao.no"
+    },
+    {
+      "rank": 100000,
+      "domain": "articulo14.es"
+    },
+    {
+      "rank": 100000,
+      "domain": "balls.ie"
+    },
+    {
+      "rank": 100000,
+      "domain": "bazonline.ch"
+    },
+    {
+      "rank": 100000,
+      "domain": "beol.hu"
+    },
+    {
+      "rank": 100000,
+      "domain": "bfi.org.uk"
+    },
+    {
+      "rank": 100000,
+      "domain": "blackpoolgazette.co.uk"
+    },
+    {
+      "rank": 100000,
+      "domain": "bladet.no"
+    },
+    {
+      "rank": 100000,
+      "domain": "bohuslaningen.se"
+    },
+    {
+      "rank": 100000,
+      "domain": "bote.ch"
+    },
+    {
+      "rank": 100000,
+      "domain": "bresciaoggi.it"
+    },
+    {
+      "rank": 100000,
+      "domain": "bruzz.be"
+    },
+    {
+      "rank": 100000,
+      "domain": "bz-berlin.de"
+    },
+    {
+      "rank": 100000,
+      "domain": "cambridge-news.co.uk"
+    },
+    {
+      "rank": 100000,
+      "domain": "ciociariaoggi.it"
+    },
+    {
+      "rank": 100000,
+      "domain": "citynow.it"
+    },
+    {
+      "rank": 100000,
+      "domain": "corrieredisiena.it"
+    },
+    {
+      "rank": 100000,
+      "domain": "countrylife.co.uk"
+    },
+    {
+      "rank": 100000,
+      "domain": "dagelijksestandaard.nl"
+    },
+    {
+      "rank": 100000,
+      "domain": "dagsavisen.no"
+    },
+    {
+      "rank": 100000,
+      "domain": "168.am"
+    },
+    {
+      "rank": 100000,
+      "domain": "aftabnews.ir"
+    },
+    {
+      "rank": 100000,
+      "domain": "andina.pe"
+    },
+    {
+      "rank": 100000,
+      "domain": "artificialanalysis.ai"
+    },
+    {
+      "rank": 100000,
+      "domain": "bookmaker-ratings.ru"
+    },
+    {
+      "rank": 100000,
+      "domain": "bornholm.nu"
+    },
+    {
+      "rank": 100000,
+      "domain": "businessday.ng"
+    },
+    {
+      "rank": 100000,
+      "domain": "cheknews.ca"
+    },
+    {
+      "rank": 100000,
+      "domain": "chelny-izvest.ru"
+    },
+    {
+      "rank": 100000,
+      "domain": "diariocorreo.pe"
+    },
+    {
+      "rank": 100000,
+      "domain": "e.walla.co.il"
+    },
+    {
+      "rank": 100000,
+      "domain": "ekspress.delfi.ee"
+    },
+    {
+      "rank": 100000,
+      "domain": "eldia.com.do"
+    },
+    {
+      "rank": 100000,
+      "domain": "elperiodicodemonagas.com.ve"
+    },
+    {
+      "rank": 100000,
+      "domain": "esp.md"
+    },
+    {
+      "rank": 100000,
+      "domain": "evarazdin.hr"
+    },
+    {
+      "rank": 100000,
+      "domain": "gazeta-n1.ru"
+    },
+    {
+      "rank": 100000,
+      "domain": "gazeta.ua"
+    },
+    {
+      "rank": 100000,
+      "domain": "gorod55.ru"
+    },
+    {
+      "rank": 100000,
+      "domain": "grupoanimal.mx"
+    },
+    {
+      "rank": 100000,
+      "domain": "gubdaily.ru"
+    },
+    {
+      "rank": 100000,
+      "domain": "hoy.com.do"
+    },
+    {
+      "rank": 100000,
+      "domain": "jfranews.com.jo"
+    },
+    {
+      "rank": 100000,
+      "domain": "joburg.org.za"
+    },
+    {
+      "rank": 100000,
+      "domain": "kayhan.ir"
+    },
+    {
+      "rank": 100000,
+      "domain": "komkur.info"
+    },
+    {
+      "rank": 100000,
+      "domain": "lacalle.com.ve"
+    },
+    {
+      "rank": 100000,
+      "domain": "laopinionaustral.com.ar"
+    },
+    {
+      "rank": 100000,
+      "domain": "larazon.bo"
+    },
+    {
+      "rank": 100000,
+      "domain": "lexpress.mu"
+    },
+    {
+      "rank": 100000,
+      "domain": "mannlif.is"
+    },
+    {
+      "rank": 100000,
+      "domain": "mg.co.za"
+    },
+    {
+      "rank": 100000,
+      "domain": "muksun.fm"
+    },
+    {
+      "rank": 100000,
+      "domain": "naciodigital.cat"
+    },
+    {
+      "rank": 100000,
+      "domain": "nashgorod.ru"
+    },
+    {
+      "rank": 100000,
+      "domain": "newizv.ru"
+    },
+    {
+      "rank": 100000,
+      "domain": "newsnn.ru"
+    },
+    {
+      "rank": 100000,
+      "domain": "newstracker.ru"
+    },
+    {
+      "rank": 100000,
+      "domain": "novostivolgograda.ru"
+    },
+    {
+      "rank": 100000,
+      "domain": "opopular.com.br"
+    },
+    {
+      "rank": 100000,
+      "domain": "paperspast.natlib.govt.nz"
+    },
+    {
+      "rank": 100000,
+      "domain": "parnu.postimees.ee"
+    },
+    {
+      "rank": 100000,
+      "domain": "road.cc"
+    },
+    {
+      "rank": 100000,
+      "domain": "rostovgazeta.ru"
+    },
+    {
+      "rank": 100000,
+      "domain": "rusvesna.su"
+    },
+    {
+      "rank": 100000,
+      "domain": "saudigazette.com.sa"
+    },
+    {
+      "rank": 100000,
+      "domain": "sundayworld.co.za"
+    },
+    {
+      "rank": 100000,
+      "domain": "thewest.com.au"
+    },
+    {
+      "rank": 100000,
+      "domain": "tribunadonorte.com.br"
+    },
+    {
+      "rank": 100000,
+      "domain": "trove.nla.gov.au"
+    },
+    {
+      "rank": 100000,
+      "domain": "ukraina.ru"
+    },
+    {
+      "rank": 100000,
+      "domain": "ultimasnoticias.com.ve"
+    },
+    {
+      "rank": 100000,
+      "domain": "vecer.mk"
+    },
+    {
+      "rank": 100000,
+      "domain": "vijesti.hrt.hr"
+    },
+    {
+      "rank": 100000,
+      "domain": "vingt55.ca"
+    },
+    {
+      "rank": 100000,
+      "domain": "51.ca"
+    },
+    {
+      "rank": 100000,
+      "domain": "abs.gov.au"
+    },
+    {
+      "rank": 100000,
+      "domain": "alkhaleej.ae"
+    },
+    {
+      "rank": 100000,
+      "domain": "alwafd.news"
+    },
+    {
+      "rank": 100000,
+      "domain": "aps.dz"
+    },
+    {
+      "rank": 100000,
+      "domain": "berria.eus"
+    },
+    {
+      "rank": 100000,
+      "domain": "brisbanetimes.com.au"
+    },
+    {
+      "rank": 100000,
+      "domain": "businessday.co.za"
+    },
+    {
+      "rank": 100000,
+      "domain": "cagdaskocaeli.com.tr"
+    },
+    {
+      "rank": 100000,
+      "domain": "canberratimes.com.au"
+    },
+    {
+      "rank": 100000,
+      "domain": "centraldatoca.com.br"
+    },
+    {
+      "rank": 100000,
+      "domain": "choice.com.au"
+    },
+    {
+      "rank": 100000,
+      "domain": "contacto.lu"
+    },
+    {
+      "rank": 100000,
+      "domain": "cronica.com.mx"
+    },
+    {
+      "rank": 100000,
+      "domain": "cronicaglobal.cat"
+    },
+    {
+      "rank": 100000,
+      "domain": "dgabc.com.br"
+    },
+    {
+      "rank": 100000,
+      "domain": "diariandorra.ad"
+    },
+    {
+      "rank": 100000,
+      "domain": "diariodepernambuco.com.br"
+    },
+    {
+      "rank": 100000,
+      "domain": "diarioeldia.cl"
+    },
+    {
+      "rank": 100000,
+      "domain": "diariojornada.com.ar"
+    },
+    {
+      "rank": 100000,
+      "domain": "downtoearth.org.in"
+    },
+    {
+      "rank": 100000,
+      "domain": "dp.ru"
+    },
+    {
+      "rank": 100000,
+      "domain": "eg.ru"
+    },
+    {
+      "rank": 100000,
+      "domain": "ejecentral.com.mx"
+    },
+    {
+      "rank": 100000,
+      "domain": "elancasti.com.ar"
+    },
+    {
+      "rank": 100000,
+      "domain": "elchubut.com.ar"
+    },
+    {
+      "rank": 100000,
+      "domain": "eldiariodechihuahua.mx"
+    },
+    {
+      "rank": 100000,
+      "domain": "elterritorio.com.ar"
+    },
+    {
+      "rank": 100000,
+      "domain": "emporda.info"
+    },
+    {
+      "rank": 100000,
+      "domain": "esa.int"
+    },
+    {
+      "rank": 100000,
+      "domain": "finance.si"
+    },
+    {
+      "rank": 100000,
+      "domain": "folhape.com.br"
+    },
+    {
+      "rank": 100000,
+      "domain": "freepressjournal.in"
+    },
+    {
+      "rank": 100000,
+      "domain": "gazeteyenigun.com.tr"
+    },
+    {
+      "rank": 100000,
+      "domain": "grani.lv"
+    },
+    {
+      "rank": 100000,
+      "domain": "graphic.com.gh"
+    },
+    {
+      "rank": 100000,
+      "domain": "hokkoku.co.jp"
+    },
+    {
+      "rank": 100000,
+      "domain": "interpol.int"
+    },
+    {
+      "rank": 100000,
+      "domain": "japantimes.co.jp"
+    },
+    {
+      "rank": 100000,
+      "domain": "jcp.or.jp"
+    },
+    {
+      "rank": 100000,
+      "domain": "jornalopcao.com.br"
+    },
+    {
+      "rank": 100000,
+      "domain": "kmib.co.kr"
+    },
+    {
+      "rank": 100000,
+      "domain": "kuriren.nu"
+    },
+    {
+      "rank": 100000,
+      "domain": "kwongwah.com.my"
+    },
+    {
+      "rank": 100000,
+      "domain": "latribuna.hn"
+    },
+    {
+      "rank": 100000,
+      "domain": "lavozdelpueblo.com.ar"
+    },
+    {
+      "rank": 100000,
+      "domain": "macommune.info"
+    },
+    {
+      "rank": 100000,
+      "domain": "namibian.com.na"
+    },
+    {
+      "rank": 100000,
+      "domain": "nation.com.pk"
+    },
+    {
+      "rank": 100000,
+      "domain": "nawaiwaqt.com.pk"
+    },
+    {
+      "rank": 100000,
+      "domain": "newstalkzb.co.nz"
+    },
+    {
+      "rank": 100000,
+      "domain": "nn.ru"
+    },
+    {
+      "rank": 100000,
+      "domain": "nnn.co.jp"
+    },
+    {
+      "rank": 100000,
+      "domain": "police.gov.sg"
+    },
+    {
+      "rank": 100000,
+      "domain": "primeraedicion.com.ar"
+    },
+    {
+      "rank": 100000,
+      "domain": "razon.com.mx"
+    },
+    {
+      "rank": 100000,
+      "domain": "referansturk.com.tr"
+    },
+    {
+      "rank": 100000,
+      "domain": "rthk.hk"
+    },
+    {
+      "rank": 100000,
+      "domain": "rtl.lu"
+    },
+    {
+      "rank": 100000,
+      "domain": "sanin-chuo.co.jp"
+    },
+    {
+      "rank": 100000,
+      "domain": "sci.news"
+    },
+    {
+      "rank": 100000,
+      "domain": "sunlive.co.nz"
+    },
+    {
+      "rank": 100000,
+      "domain": "thecitizen.co.tz"
+    },
+    {
+      "rank": 100000,
+      "domain": "thenational.scot"
+    },
+    {
+      "rank": 100000,
+      "domain": "ticaretsicil.gov.tr"
+    },
+    {
+      "rank": 100000,
+      "domain": "timeout.jp"
+    },
+    {
+      "rank": 100000,
+      "domain": "vietnamplus.vn"
+    },
+    {
+      "rank": 100000,
+      "domain": "virgule.lu"
+    },
+    {
+      "rank": 100000,
+      "domain": "volyn.com.ua"
+    },
+    {
+      "rank": 100000,
+      "domain": "watoday.com.au"
+    },
+    {
+      "rank": 100000,
+      "domain": "wits.ac.za"
+    },
+    {
+      "rank": 100000,
+      "domain": "wort.lu"
+    },
+    {
+      "rank": 100000,
+      "domain": "yucatan.com.mx"
+    },
+    {
+      "rank": 100000,
+      "domain": "zman.co.il"
+    },
+    {
+      "rank": 500000,
+      "domain": "cridem.org"
+    },
+    {
+      "rank": 500000,
+      "domain": "thefutoncritic.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "24ora.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "7sobh.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "970universal.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "abbynews.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "abc17news.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "abc30.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "abc7amarillo.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "abovethelaw.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "abualiexpress.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "aclj.org"
+    },
+    {
+      "rank": 500000,
+      "domain": "acritica.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "actualidad-rt.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "addiyar.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "adhadhu.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "adventuregamers.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "airalamo.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "ajitjalandhar.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "akhbarelyom.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "akilanews.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "alaskapublic.org"
+    },
+    {
+      "rank": 500000,
+      "domain": "aleteia.org"
+    },
+    {
+      "rank": 500000,
+      "domain": "algerie-eco.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "alghad.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "allafrica.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "allhiphop.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "almalnews.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "alrai.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "analisadaily.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "annapurnapost.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "antiguanewsroom.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "archaeology.org"
+    },
+    {
+      "rank": 500000,
+      "domain": "archinect.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "arkansasrazorbacks.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "arrowheadaddict.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "arynews.tv"
+    },
+    {
+      "rank": 500000,
+      "domain": "ashdodnet.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "assamtribune.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "au.lifehacker.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "auburnpub.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "avherald.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "aviationweek.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "avn.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "azbigmedia.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "azdailysun.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "backpackinglight.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "bakersfieldnow.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "bamahammer.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "bangaloremirror.indiatimes.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "bangcoins.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "barlamane.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "bbs.clutchfans.net"
+    },
+    {
+      "rank": 500000,
+      "domain": "bdcrictime.com"
+    },
+    {
+      "rank": 500000,
+      "domain": "janwani.in"
+    },
+    {
+      "rank": 500000,
+      "domain": "nayapadkar.in"
+    },
+    {
+      "rank": 500000,
+      "domain": "rodong.rep.kp"
+    },
+    {
+      "rank": 500000,
+      "domain": "0404.co.il"
+    },
+    {
+      "rank": 500000,
+      "domain": "525.az"
+    },
+    {
+      "rank": 500000,
+      "domain": "53news.ru"
+    },
+    {
+      "rank": 500000,
+      "domain": "56orb.ru"
+    },
+    {
+      "rank": 500000,
+      "domain": "62info.ru"
+    },
+    {
+      "rank": 500000,
+      "domain": "7info.ru"
+    },
+    {
+      "rank": 500000,
+      "domain": "abcnoticias.mx"
+    },
+    {
+      "rank": 500000,
+      "domain": "acento.com.do"
+    },
+    {
+      "rank": 500000,
+      "domain": "ajel.sa"
+    },
+    {
+      "rank": 500000,
+      "domain": "alroya.om"
+    },
+    {
+      "rank": 500000,
+      "domain": "ampravda.ru"
+    },
+    {
+      "rank": 500000,
+      "domain": "apostrophe.ua"
+    },
+    {
+      "rank": 500000,
+      "domain": "asianews.network"
+    },
+    {
+      "rank": 500000,
+      "domain": "assabah.ma"
+    },
+    {
+      "rank": 500000,
+      "domain": "atas.info"
+    },
+    {
+      "rank": 500000,
+      "domain": "au.int"
+    },
+    {
+      "rank": 500000,
+      "domain": "auniao.pb.gov.br"
+    },
+    {
+      "rank": 500000,
+      "domain": "barbadostoday.bb"
+    },
+    {
+      "rank": 500000,
+      "domain": "barnaul.press"
+    },
+    {
+      "rank": 500000,
+      "domain": "bel.ru"
+    },
+    {
+      "rank": 500000,
+      "domain": "berezino.by"
+    },
+    {
+      "rank": 500000,
+      "domain": "betwhale.ag"
+    },
+    {
+      "rank": 500000,
+      "domain": "billboard.com.br"
+    },
+    {
+      "rank": 500000,
+      "domain": "bndigital.bn.gov.br"
+    },
+    {
+      "rank": 500000,
+      "domain": "borna.news"
+    },
+    {
+      "rank": 500000,
+      "domain": "bulletin.nu"
+    },
+    {
+      "rank": 500000,
+      "domain": "burunen.ru"
+    },
+    {
+      "rank": 500000,
+      "domain": "businessdesk.co.nz"
+    },
+    {
+      "rank": 500000,
+      "domain": "bzh.life"
+    },
+    {
+      "rank": 500000,
+      "domain": "calgary.citynews.ca"
+    },
+    {
+      "rank": 500000,
+      "domain": "caliber.az"
+    },
+    {
+      "rank": 500000,
+      "domain": "capeargus.co.za"
+    },
+    {
+      "rank": 500000,
+      "domain": "capitalfm.africa"
+    },
+    {
+      "rank": 500000,
+      "domain": "caravanmagazine.in"
+    },
+    {
+      "rank": 500000,
+      "domain": "ch10.co.il"
+    },
+    {
+      "rank": 500000,
+      "domain": "dailynews.co.tz"
+    },
+    {
+      "rank": 500000,
+      "domain": "db.lv"
+    },
+    {
+      "rank": 500000,
+      "domain": "dddkursk.ru"
+    },
+    {
+      "rank": 500000,
+      "domain": "dea.digar.ee"
+    },
+    {
+      "rank": 500000,
+      "domain": "defenceweb.co.za"
+    },
+    {
+      "rank": 500000,
+      "domain": "delfino.cr"
+    },
+    {
+      "rank": 500000,
+      "domain": "derechadiario.com.ar"
+    },
+    {
+      "rank": 500000,
+      "domain": "detector.media"
+    },
+    {
+      "rank": 500000,
+      "domain": "diariodopara.com.br"
+    },
+    {
+      "rank": 500000,
+      "domain": "diena.lv"
+    },
+    {
+      "rank": 500000,
+      "domain": "digital.izu-np.co.jp"
+    },
+    {
+      "rank": 500000,
+      "domain": "diplomatique.org.br"
+    },
+    {
+      "rank": 500000,
+      "domain": "dneprovec.by"
+    },
+    {
+      "rank": 500000,
+      "domain": "documents.gov.lk"
+    },
+    {
+      "rank": 500000,
+      "domain": "driving.ca"
+    },
+    {
+      "rank": 500000,
+      "domain": "e-noticies.cat"
+    },
+    {
+      "rank": 500000,
+      "domain": "eanews.ru"
+    },
+    {
+      "rank": 500000,
+      "domain": "egemen.kz"
+    },
+    {
+      "rank": 500000,
+      "domain": "eldiariodeguayana.com.ve"
+    },
+    {
+      "rank": 500000,
+      "domain": "eleconomista.com.ar"
+    },
+    {
+      "rank": 500000,
+      "domain": "elle.in"
+    },
+    {
+      "rank": 500000,
+      "domain": "ellibero.cl"
+    },
+    {
+      "rank": 500000,
+      "domain": "elmanana.com.mx"
+    },
+    {
+      "rank": 500000,
+      "domain": "elmercurio.com.ec"
+    },
+    {
+      "rank": 500000,
+      "domain": "elporvenir.mx"
+    },
+    {
+      "rank": 500000,
+      "domain": "en.dailypakistan.com.pk"
+    },
+    {
+      "rank": 500000,
+      "domain": "en.globes.co.il"
+    },
+    {
+      "rank": 500000,
+      "domain": "english.ahram.org.eg"
+    },
+    {
+      "rank": 500000,
+      "domain": "english.ckgsb.edu.cn"
+    },
+    {
+      "rank": 500000,
+      "domain": "english.news.cn"
+    },
+    {
+      "rank": 500000,
+      "domain": "english.nv.ua"
+    },
+    {
+      "rank": 500000,
+      "domain": "epaper.jagobangla.in"
+    },
+    {
+      "rank": 500000,
+      "domain": "epaper.manatelangana.news"
+    },
+    {
+      "rank": 500000,
+      "domain": "epaper.navodayatimes.in"
+    },
+    {
+      "rank": 500000,
+      "domain": "etemadnewspaper.ir"
+    },
+    {
+      "rank": 500000,
+      "domain": "exclaim.ca"
+    },
+    {
+      "rank": 500000,
+      "domain": "expressodasilhas.cv"
+    },
+    {
+      "rank": 500000,
+      "domain": "farrapo.com.br"
+    },
+    {
+      "rank": 500000,
+      "domain": "fijisun.com.fj"
+    },
+    {
+      "rank": 500000,
+      "domain": "finance.ua"
+    },
+    {
+      "rank": 500000,
+      "domain": "focustaiwan.tw"
+    },
+    {
+      "rank": 500000,
+      "domain": "github.blog"
+    },
+    {
+      "rank": 500000,
+      "domain": "gorkiv.by"
+    },
+    {
+      "rank": 500000,
+      "domain": "govoritmoskva.ru"
+    },
+    {
+      "rank": 500000,
+      "domain": "gp.by"
+    },
+    {
+      "rank": 500000,
+      "domain": "groundup.org.za"
+    },
+    {
+      "rank": 500000,
+      "domain": "heartfm.co.za"
+    },
+    {
+      "rank": 500000,
+      "domain": "heimildin.is"
+    },
+    {
+      "rank": 500000,
+      "domain": "hetq.am"
+    },
+    {
+      "rank": 500000,
+      "domain": "hnnoticias.com.br"
+    },
+    {
+      "rank": 500000,
+      "domain": "home.nzcity.co.nz"
+    },
+    {
+      "rank": 500000,
+      "domain": "ianslive.in"
+    },
+    {
+      "rank": 500000,
+      "domain": "independent.ng"
+    },
+    {
+      "rank": 500000,
+      "domain": "info24.ru"
+    },
+    {
+      "rank": 500000,
+      "domain": "infonet.com.br"
+    },
+    {
+      "rank": 500000,
+      "domain": "informpskov.ru"
+    },
+    {
+      "rank": 500000,
+      "domain": "inkaraganda.kz"
+    },
+    {
+      "rank": 500000,
+      "domain": "inn.ir"
+    },
+    {
+      "rank": 500000,
+      "domain": "interferencia.cl"
+    },
+    {
+      "rank": 500000,
+      "domain": "irannewspaper.ir"
+    },
+    {
+      "rank": 500000,
+      "domain": "island.lk"
+    },
+    {
+      "rank": 500000,
+      "domain": "isolezwe.co.za"
+    },
+    {
+      "rank": 500000,
+      "domain": "izvmor.ru"
+    },
+    {
+      "rank": 500000,
+      "domain": "jagbani.punjabkesari.in"
+    },
+    {
+      "rank": 500000,
+      "domain": "jakartaglobe.id"
+    },
+    {
+      "rank": 500000,
+      "domain": "jamejamonline.ir"
+    },
+    {
+      "rank": 500000,
+      "domain": "japan.hani.co.kr"
+    },
+    {
+      "rank": 500000,
+      "domain": "jarvateataja.postimees.ee"
+    },
+    {
+      "rank": 500000,
+      "domain": "jornaldaparaiba.com.br"
+    },
+    {
+      "rank": 500000,
+      "domain": "jornalnoticias.co.mz"
+    },
+    {
+      "rank": 500000,
+      "domain": "journallesoir.ca"
+    },
+    {
+      "rank": 500000,
+      "domain": "karelinform.ru"
+    },
+    {
+      "rank": 500000,
+      "domain": "kauno.diena.lt"
+    },
+    {
+      "rank": 500000,
+      "domain": "kazpravda.kz"
+    },
+    {
+      "rank": 500000,
+      "domain": "knr.gl"
+    },
+    {
+      "rank": 500000,
+      "domain": "kp.ua"
+    },
+    {
+      "rank": 500000,
+      "domain": "kstnews.kz"
+    },
+    {
+      "rank": 500000,
+      "domain": "kubanpress.ru"
+    },
+    {
+      "rank": 500000,
+      "domain": "kursdela.biz"
+    },
+    {
+      "rank": 500000,
+      "domain": "ladiscusion.cl"
+    },
+    {
+      "rank": 500000,
+      "domain": "lalupa.pe"
+    },
+    {
+      "rank": 500000,
+      "domain": "lamanyana.cat"
+    },
+    {
+      "rank": 500000,
+      "domain": "lanouvelletribune.info"
+    },
+    {
+      "rank": 500000,
+      "domain": "larazon.pe"
+    },
+    {
+      "rank": 500000,
+      "domain": "launion.com.ar"
+    },
+    {
+      "rank": 500000,
+      "domain": "lavozdemaipu.cl"
+    },
+    {
+      "rank": 500000,
+      "domain": "leadership.ng"
+    },
+    {
+      "rank": 500000,
+      "domain": "lematinal.bj"
+    },
+    {
+      "rank": 500000,
+      "domain": "lequotidien.lu"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+Δ: new(normal) - new(blocked), both arms included, median over rounds
+========================================================================
+sample {'sites_sampled': 2500, 'platform_domains': 35, 'sites_analysed': 2465, 'platform_domains_dropped': True, 'platform_domains_included': 0}
+records {'normal': 4927, 'blocked': 4921}; included visits {'normal': 4304, 'blocked': 4400}, axe error {'normal': 62, 'blocked': 64}
+normal-arm records by outcome: {'included': 4304, 'fewer than 10 Tab presses': 243, 'no HTTP status': 102, 'HTTP status >= 400': 121, 'bot or hard consent wall': 157, 'wall flag with HTTP status >= 400': 151}
+blocked-arm records by outcome: {'included': 4400, 'fewer than 10 Tab presses': 171, 'no HTTP status': 75, 'bot or hard consent wall': 161, 'wall flag with HTTP status >= 400': 155, 'HTTP status >= 400': 114}
+normal-arm DNS failures (ERR_NAME_NOT_RESOLVED) by visit: {1: 3, 3: 4}
+normal-arm inclusion rate by region (%): {'eu': 85.0, 'row': 88.3, 'us-en': 88.1}
+
+RQ1 any new: any visit [66.8, 64.8, 68.7, 2298]  majority of visits [57.1, 55.1, 59.1, 2298]
+RQ1 newly failing rule (did not fail at all at baseline): any visit [40.7, 38.7, 42.8, 2298]  majority [24.4, 22.7, 26.2, 2298]  WCAG-only [37.6, 35.6, 39.6, 2298]
+RQ1 newly failing rules, frames only: {"sites_new_rule": 936, "sites_frames_only": 486, "frames_only_pct": 51.9}
+RQ1 clean at load, failing after: {"wcag": {"visits_clean_at_load": 224, "of_which_fail_later": 32, "sites_fail_later": 24, "sites_fail_later_pct": 1.0}, "all": {"visits_clean_at_load": 29, "of_which_fail_later": 2, "sites_fail_later": 2, "sites_fail_later_pct": 0.1}}
+RQ1 baseline facts: {"visits": 4304, "visits_failing_at_load_pct": 99.3, "sites_failing_at_load_every_visit_pct": 99.2, "median_baseline_nodes": 61.0, "median_new_nodes": 3.0, "median_new_over_baseline_pct": 4.0}
+RQ1 selector ad: any visit [45.7, 43.7, 47.7, 2298]  majority [34.5, 32.6, 36.5, 2298]; ad or sponsored, any visit [46.1, 44.1, 48.2, 2298]
+new nodes (normal, included): {'total': 103416, 'non_wcag': 48920, 'region': 43513}
+
+paired visits 4113, sites 2254
+Δ>0 50.5% [50.5, 48.4, 52.5]   Δ<0 9.2%   Δ=0 40.3%
+Hodges-Lehmann +3.5 [3.0, 4.0]   mean +12.0 [10.48, 13.57]   median 0.5   d 0.31
+
+chance check (sites with 2 normal visits and a pair: 1980)
+  identical visits, earlier-later: >0 29.9  <0 22.9  disagree 52.8  net 7.1
+  first ads/blocked pair:          >0 45.2  <0 8.2  net 37.0 [34.2, 39.7]
+  pair net - identical net: 29.9 [26.2, 33.7]
+order check (blocked first = reverse): {"reverse_pairs": 1996, "reverse_gap_median_h": 35.3, "forward": {"sites": 2254, "pos": 50.5, "neg": 9.2, "net": 41.3, "hl": 3.5, "mean": 12.0}, "reverse": {"sites": 1996, "pos": 43.1, "neg": 10.3, "net": 32.8, "hl": 2.0, "mean": 9.0}, "forward_common": {"sites": 1994, "pos": 49.6, "neg": 9.7, "net": 40.0, "hl": 3.0, "mean": 10.47}, "reverse_common": {"sites": 1994, "pos": 43.1, "neg": 10.3, "net": 32.8, "hl": 2.0, "mean": 9.01}, "crossover": {"sites": 1994, "pos": 49.8, "neg": 11.2, "net": 38.6, "hl": 2.88, "mean": 9.74}, "reverse_failed_audits_dropped": {"sites": 1941, "pos": 44.3, "neg": 9.1, "net": 35.1, "hl": 2.5, "mean": 9.6}}
+order check, without re-rendered-looking nodes: {"reverse_pairs": 1996, "reverse_gap_median_h": 35.3, "forward": {"sites": 2254, "pos": 44.0, "neg": 8.9, "net": 35.1, "hl": 1.25, "mean": 6.51}, "reverse": {"sites": 1996, "pos": 36.4, "neg": 9.8, "net": 26.6, "hl": 1.0, "mean": 5.19}, "forward_common": {"sites": 1994, "pos": 43.8, "neg": 9.2, "net": 34.6, "hl": 1.25, "mean": 6.01}, "reverse_common": {"sites": 1994, "pos": 36.4, "neg": 9.8, "net": 26.6, "hl": 1.0, "mean": 5.19}, "crossover": {"sites": 1994, "pos": 44.2, "neg": 10.9, "net": 33.3, "hl": 1.12, "mean": 5.6}, "reverse_failed_audits_dropped": {"sites": 1941, "pos": 37.4, "neg": 8.9, "net": 28.5, "hl": 1.0, "mean": 5.45}}
+placebo and dose (Δ by listed vendors requested): {"0": {"n": 255, "pos": 10.2, "neg": 11.0, "zero": 78.8, "net": -0.8}, "1-2": {"n": 430, "pos": 24.4, "neg": 11.9, "zero": 63.7, "net": 12.5}, "3-5": {"n": 282, "pos": 30.5, "neg": 8.2, "zero": 61.3, "net": 22.3}, "6-10": {"n": 224, "pos": 51.3, "neg": 10.7, "zero": 37.9, "net": 40.6}, ">10": {"n": 1063, "pos": 75.8, "neg": 7.7, "zero": 16.5, "net": 68.1}}
+
+Table I over the 4113 paired normal visits: rule  selector-ad  ad-or-sponsored  counterfactual
+  role-img-alt          83.1   83.1   94.5  (new 615; normal 615, blocked 34)
+  frame-title           70.3   70.3   87.0  (new 6328; normal 6328, blocked 820)
+  aria-command-name     74.4   74.4   89.5  (new 2526; normal 2526, blocked 264)
+  image-alt             61.8   62.1   67.8  (new 13034; normal 13034, blocked 4191)
+  link-name             53.7   55.4   56.7  (new 10409; normal 10409, blocked 4511)
+  button-name           17.5   17.5   18.2  (new 1432; normal 1432, blocked 1172)
+  region                12.7   40.2   43.8  (new 40979; normal 40979, blocked 23042)
+  color-contrast         5.3   33.0   33.7  (new 12950; normal 12950, blocked 8586)
+  naming family 59.5 / 60.1 / 67.1
+  structure family 11.0 / 37.6 / 40.1
+  (selector shares over all 4304 included normal visits: structure 11.0 / 37.0, naming 58.7 / 59.4)
+Table I counterfactual by pairing (family shares with site-bootstrap CIs; layout = structure):
+  forward: {"pairs": 4113, "sites": 2254, "per_rule": {"role-img-alt": 94.5, "frame-title": 87.0, "aria-command-name": 89.5, "image-alt": 67.8, "link-name": 56.7, "button-name": 18.2, "region": 43.8, "color-contrast": 33.7}, "family": {"naming": 67.1, "layout": 40.1}, "layout_wcag": 32.7, "layout_wcag_rules": 6, "family_ci": {"naming": [62.1, 71.7], "layout": [33.3, 46.8]}, "layout_without_region": 30.0, "region_share_of_layout_new": 73.3}
+  reverse: {"pairs": 1996, "sites": 1996, "per_rule": {"role-img-alt": 92.9, "frame-title": 80.4, "aria-command-name": 86.1, "image-alt": 55.2, "link-name": 57.6, "button-name": 7.5, "region": 39.3, "color-contrast": 23.4}, "family": {"naming": 59.7, "layout": 34.3}, "layout_wcag": 22.2, "layout_wcag_rules": 6, "family_ci": {"naming": [53.9, 65.6], "layout": [26.3, 43.2]}, "layout_without_region": 20.5, "region_share_of_layout_new": 73.4}
+  identical_visits: {"pairs": 1980, "sites": 1980, "per_rule": {"role-img-alt": 0.0, "frame-title": 43.4, "aria-command-name": 6.9, "image-alt": 41.2, "link-name": 0.0, "button-name": 8.9, "region": 7.2, "color-contrast": 9.2}, "family": {"naming": 25.0, "layout": 7.4}, "layout_wcag": 9.3, "layout_wcag_rules": 6, "family_ci": {"naming": [19.2, 30.6], "layout": [1.0, 13.9]}, "layout_without_region": 8.1, "region_share_of_layout_new": 73.6}
+  selector shares on reverse-pair normal visits: {"naming": {"new": 14548, "ad": 53.4, "ad_or_sponsored": 54.2}, "layout": {"new": 25352, "ad": 11.1, "ad_or_sponsored": 34.4}}
+Table I concentration (forward pairs): {"layout": {"sites": 2254, "total_excess": 22410.0, "native_pct_all_sites": 7.8, "top1": {"sites": 23, "excess_share": 45.6, "share_without": 27.8, "native_pct": 95.7}, "top5": {"sites": 113, "excess_share": 91.7, "share_without": 6.9, "native_pct": 65.5}}, "naming": {"sites": 2254, "total_excess": 23517.0, "native_pct_all_sites": 7.8, "top1": {"sites": 23, "excess_share": 16.1, "share_without": 63.7, "native_pct": 17.4}, "top5": {"sites": 113, "excess_share": 44.3, "share_without": 55.4, "native_pct": 27.4}}}
+structure family, top 5% vs the rest: {"top5": {"sites": 113, "cf_normal_first": 70.8, "cf_blocked_first": 69.8, "selector_ad": 11.7, "selector_ad_or_sponsored": 59.2}, "rest": {"sites": 2141, "cf_normal_first": 6.9, "cf_blocked_first": 2.4, "selector_ad": 10.3, "selector_ad_or_sponsored": 14.2}}
+sponsored structure-family new nodes with native-ad markup: 97.0%
+blocked arm, button-name new nodes {'new': 1172, 'ad': 0.1, 'ad_or_sponsored': 0.1}
+
+by region: {"eu": {"sites": 583, "any_new": [45.8, 41.8, 49.9], "selector_ad": [26.1, 22.7, 29.8], "delta_sites": 570, "delta_pos": 34.2}, "eu_member_states": {"sites": 476, "any_new": [44.5, 40.1, 49.0], "selector_ad": [23.9, 20.3, 28.0], "delta_sites": 466, "delta_pos": 31.5}, "europe_non_eu": {"sites": 107, "any_new": [51.4, 42.0, 60.7], "selector_ad": [35.5, 27.1, 44.9], "delta_sites": 104, "delta_pos": 46.2}, "row": {"sites": 575, "any_new": [72.5, 68.7, 76.0], "selector_ad": [44.9, 40.9, 49.0], "delta_sites": 564, "delta_pos": 50.9}, "us-en": {"sites": 1140, "any_new": [74.6, 72.0, 77.0], "selector_ad": [56.1, 53.2, 59.0], "delta_sites": 1120, "delta_pos": 58.6}}
+
+normal->blocked start gap within a round: {'pairs': 4113, 'median_h': 15.3, 'p10_h': 11.8, 'p90_h': 16.8, 'over_12h_pct': 89.9, 'blocked_first': 3}
+identical-visit gap: {'sites': 1980, 'median_h': 50.5, 'under_24h_pct': 0.1}; crawl dates ['2026-10-08', '2026-10-11']
+time of day (PDT): {"normal": {"visits": 4304, "h00_06_pct": 60.5, "h12_24_pct": 31.2, "weekdays": {"Sat": 1692, "Thu": 1669, "Wed": 573, "Fri": 368, "Sun": 2}}, "blocked": {"visits": 4400, "h00_06_pct": 9.1, "h12_24_pct": 90.6, "weekdays": {"Thu": 2211, "Sat": 1774, "Sun": 399, "Fri": 16}}}
+hovers per included visit: {'normal': 6.9, 'blocked': 2.8}
+scroll check: {"pairs": 4113, "normal_more_pct": 15.2, "normal_fewer_pct": 4.1, "equal_pairs": 3317, "equal_scroll_delta": {"n": 1932, "pos": 45.2, "neg": 9.4, "zero": 45.4}}
+request log truncated at the 5,000-request cap: {'normal': 532, 'blocked': 37}
+Google ad frame in post inventory: {'normal': [58.7, 57.3, 60.2], 'blocked': [2.8, 2.3, 3.3]}; blocked-arm sites with one: 62
+tracker requests during Tab and hover, per site: {"sites": 2298, "mean": 12.54, "mean_ci": [10.64, 14.36], "median": 0.0}
+
+variants:
+  WCAG-tagged rules only: RQ1 [61.9, 59.9, 63.8, 2298]; Δ sites 2254 >0 49.6% <0 7.2% HL +2.75
+  net-count Δ (change in all violating nodes): sites 2254, Δ>0 45.7%, Δ<0 16.0%, mean +10.01 [7.99, 12.08]
+  pairs that scrolled the same distance: {"n": 1932, "pos": 45.2, "neg": 9.4, "zero": 45.4}
+  failed_audits_dropped: {"sites": 2239, "shares": {"n": 2239, "pos": 50.5, "neg": 8.8, "zero": 40.7}, "hl": 3.5, "mean": 12.26, "rq1_any_visit": [66.9, 64.9, 68.8, 2293]}
+  churn_filtered: {"sites": 2254, "shares": {"n": 2254, "pos": 44.0, "neg": 8.9, "zero": 47.1}, "hl": 1.25, "mean": 6.51, "rq1_any_visit": [59.8, 57.8, 61.8, 2298], "layout_counterfactual": 37.2, "naming_counterfactual": 66.4, "new_nodes_normal": 59226, "share_looking_rerendered": 42.7}
+  without_non_ad_ui_vendors: {"sites": 1267, "shares": {"n": 1267, "pos": 45.1, "neg": 9.8, "zero": 45.1}, "hl": 2.5, "mean": 8.86, "rq1_any_visit": [61.7, 59.0, 64.3, 1285], "sites_dropped": 1013, "paired_sites_with_them": 987, "delta_pos_on_sites_with_them": 57.3}
+  walls_dropped: {"sites": 2231, "shares": {"n": 2231, "pos": 51.0, "neg": 9.2, "zero": 39.8}, "hl": 3.5, "mean": 12.13, "rq1_any_visit": [67.3, 65.4, 69.2, 2275], "sites_all_visits_walls": ["ad.nl", "advance.lexis.com", "baijiahao.baidu.com", "bd.nl", "bndestem.nl", "demorgen.be", "derstandard.de", "destentor.nl", "ed.nl", "gelderlander.nl", "hln.be", "infoweb.newsbank.com", "iopscience.iop.org", "nu.nl", "parool.nl", "pzc.nl", "the-sun.com", "thescottishsun.co.uk", "thesun.co.uk", "thetimes.com", "trouw.nl", "tubantia.nl", "volkskrant.nl"], "dpg_media_gate_sites": 14}
+  failed audits dropped, chance check: identical net 5.5, pair net 37.2, difference 31.7 [28.2, 35.1]
+  without re-rendered-looking nodes, chance check: identical net 5.6, pair net 30.1 [27.2, 32.8], difference 24.5 [21.2, 28.2]
+  wall sites (any included normal visit): ['ad.nl', 'advance.lexis.com', 'baijiahao.baidu.com', 'bd.nl', 'bndestem.nl', 'demorgen.be', 'derstandard.de', 'destentor.nl', 'ed.nl', 'gelderlander.nl', 'hln.be', 'infoweb.newsbank.com', 'iopscience.iop.org', 'nu.nl', 'parool.nl', 'pzc.nl', 'the-sun.com', 'thescottishsun.co.uk', 'thesun.co.uk', 'thetimes.com', 'trouw.nl', 'tubantia.nl', 'volkskrant.nl']

@@ -1,0 +1,485 @@
+{
+  "rq1_rules": {
+    "sites": 2298,
+    "sites_with_new_rule": 936,
+    "rules": [
+      {
+        "rule": "frame-title",
+        "wcag": true,
+        "sites": 292,
+        "pct": 12.7,
+        "top_doc_sites": 102,
+        "frames_only_sites": 190,
+        "recur_both": 74,
+        "recur_either": 269,
+        "recur_pct": 27.5
+      },
+      {
+        "rule": "aria-command-name",
+        "wcag": true,
+        "sites": 281,
+        "pct": 12.2,
+        "top_doc_sites": 1,
+        "frames_only_sites": 280,
+        "recur_both": 64,
+        "recur_either": 260,
+        "recur_pct": 24.6
+      },
+      {
+        "rule": "image-alt",
+        "wcag": true,
+        "sites": 236,
+        "pct": 10.3,
+        "top_doc_sites": 47,
+        "frames_only_sites": 189,
+        "recur_both": 63,
+        "recur_either": 215,
+        "recur_pct": 29.3
+      },
+      {
+        "rule": "aria-hidden-focus",
+        "wcag": true,
+        "sites": 205,
+        "pct": 8.9,
+        "top_doc_sites": 28,
+        "frames_only_sites": 177,
+        "recur_both": 35,
+        "recur_either": 191,
+        "recur_pct": 18.3
+      },
+      {
+        "rule": "link-name",
+        "wcag": true,
+        "sites": 133,
+        "pct": 5.8,
+        "top_doc_sites": 20,
+        "frames_only_sites": 113,
+        "recur_both": 39,
+        "recur_either": 122,
+        "recur_pct": 32.0
+      },
+      {
+        "rule": "button-name",
+        "wcag": true,
+        "sites": 109,
+        "pct": 4.7,
+        "top_doc_sites": 52,
+        "frames_only_sites": 57,
+        "recur_both": 39,
+        "recur_either": 99,
+        "recur_pct": 39.4
+      },
+      {
+        "rule": "color-contrast",
+        "wcag": true,
+        "sites": 97,
+        "pct": 4.2,
+        "top_doc_sites": 42,
+        "frames_only_sites": 55,
+        "recur_both": 36,
+        "recur_either": 87,
+        "recur_pct": 41.4
+      },
+      {
+        "rule": "aria-allowed-role",
+        "wcag": false,
+        "sites": 53,
+        "pct": 2.3,
+        "top_doc_sites": 42,
+        "frames_only_sites": 11,
+        "recur_both": 19,
+        "recur_either": 43,
+        "recur_pct": 44.2
+      },
+      {
+        "rule": "aria-prohibited-attr",
+        "wcag": true,
+        "sites": 51,
+        "pct": 2.2,
+        "top_doc_sites": 6,
+        "frames_only_sites": 45,
+        "recur_both": 31,
+        "recur_either": 45,
+        "recur_pct": 68.9
+      },
+      {
+        "rule": "role-img-alt",
+        "wcag": true,
+        "sites": 50,
+        "pct": 2.2,
+        "top_doc_sites": 0,
+        "frames_only_sites": 50,
+        "recur_both": 4,
+        "recur_either": 45,
+        "recur_pct": 8.9
+      },
+      {
+        "rule": "label",
+        "wcag": true,
+        "sites": 46,
+        "pct": 2.0,
+        "top_doc_sites": 17,
+        "frames_only_sites": 29,
+        "recur_both": 10,
+        "recur_either": 41,
+        "recur_pct": 24.4
+      },
+      {
+        "rule": "aria-allowed-attr",
+        "wcag": true,
+        "sites": 38,
+        "pct": 1.7,
+        "top_doc_sites": 4,
+        "frames_only_sites": 34,
+        "recur_both": 26,
+        "recur_either": 35,
+        "recur_pct": 74.3
+      }
+    ],
+    "region": {
+      "rule": "region",
+      "wcag": false,
+      "sites": 35,
+      "pct": 1.5,
+      "top_doc_sites": 16,
+      "frames_only_sites": 19,
+      "recur_both": 11,
+      "recur_either": 33,
+      "recur_pct": 33.3
+    }
+  },
+  "delta_tails": {
+    "sites": 1980,
+    "thresholds": [
+      1,
+      5,
+      10,
+      25,
+      50,
+      100
+    ],
+    "ads_minus_blocked": [
+      {
+        "t": 1,
+        "up": {
+          "k": 895,
+          "n": 1980,
+          "pct": 45.2,
+          "lo": 43.0,
+          "hi": 47.4
+        },
+        "down": {
+          "k": 162,
+          "n": 1980,
+          "pct": 8.2,
+          "lo": 7.1,
+          "hi": 9.5
+        }
+      },
+      {
+        "t": 5,
+        "up": {
+          "k": 648,
+          "n": 1980,
+          "pct": 32.7,
+          "lo": 30.7,
+          "hi": 34.8
+        },
+        "down": {
+          "k": 59,
+          "n": 1980,
+          "pct": 3.0,
+          "lo": 2.3,
+          "hi": 3.8
+        }
+      },
+      {
+        "t": 10,
+        "up": {
+          "k": 476,
+          "n": 1980,
+          "pct": 24.0,
+          "lo": 22.2,
+          "hi": 26.0
+        },
+        "down": {
+          "k": 35,
+          "n": 1980,
+          "pct": 1.8,
+          "lo": 1.3,
+          "hi": 2.4
+        }
+      },
+      {
+        "t": 25,
+        "up": {
+          "k": 251,
+          "n": 1980,
+          "pct": 12.7,
+          "lo": 11.3,
+          "hi": 14.2
+        },
+        "down": {
+          "k": 14,
+          "n": 1980,
+          "pct": 0.7,
+          "lo": 0.4,
+          "hi": 1.2
+        }
+      },
+      {
+        "t": 50,
+        "up": {
+          "k": 131,
+          "n": 1980,
+          "pct": 6.6,
+          "lo": 5.6,
+          "hi": 7.8
+        },
+        "down": {
+          "k": 11,
+          "n": 1980,
+          "pct": 0.6,
+          "lo": 0.3,
+          "hi": 1.0
+        }
+      },
+      {
+        "t": 100,
+        "up": {
+          "k": 56,
+          "n": 1980,
+          "pct": 2.8,
+          "lo": 2.2,
+          "hi": 3.7
+        },
+        "down": {
+          "k": 5,
+          "n": 1980,
+          "pct": 0.3,
+          "lo": 0.1,
+          "hi": 0.6
+        }
+      }
+    ],
+    "identical_visits": [
+      {
+        "t": 1,
+        "up": {
+          "k": 593,
+          "n": 1980,
+          "pct": 29.9,
+          "lo": 28.0,
+          "hi": 32.0
+        },
+        "down": {
+          "k": 453,
+          "n": 1980,
+          "pct": 22.9,
+          "lo": 21.1,
+          "hi": 24.8
+        }
+      },
+      {
+        "t": 5,
+        "up": {
+          "k": 391,
+          "n": 1980,
+          "pct": 19.7,
+          "lo": 18.1,
+          "hi": 21.6
+        },
+        "down": {
+          "k": 252,
+          "n": 1980,
+          "pct": 12.7,
+          "lo": 11.3,
+          "hi": 14.3
+        }
+      },
+      {
+        "t": 10,
+        "up": {
+          "k": 284,
+          "n": 1980,
+          "pct": 14.3,
+          "lo": 12.9,
+          "hi": 16.0
+        },
+        "down": {
+          "k": 153,
+          "n": 1980,
+          "pct": 7.7,
+          "lo": 6.6,
+          "hi": 9.0
+        }
+      },
+      {
+        "t": 25,
+        "up": {
+          "k": 147,
+          "n": 1980,
+          "pct": 7.4,
+          "lo": 6.4,
+          "hi": 8.7
+        },
+        "down": {
+          "k": 51,
+          "n": 1980,
+          "pct": 2.6,
+          "lo": 2.0,
+          "hi": 3.4
+        }
+      },
+      {
+        "t": 50,
+        "up": {
+          "k": 71,
+          "n": 1980,
+          "pct": 3.6,
+          "lo": 2.9,
+          "hi": 4.5
+        },
+        "down": {
+          "k": 25,
+          "n": 1980,
+          "pct": 1.3,
+          "lo": 0.9,
+          "hi": 1.9
+        }
+      },
+      {
+        "t": 100,
+        "up": {
+          "k": 24,
+          "n": 1980,
+          "pct": 1.2,
+          "lo": 0.8,
+          "hi": 1.8
+        },
+        "down": {
+          "k": 10,
+          "n": 1980,
+          "pct": 0.5,
+          "lo": 0.3,
+          "hi": 0.9
+        }
+      }
+    ]
+  },
+  "frame_orgs": {
+    "sites": 2273,
+    "failing_sites": 818,
+    "min_reach": 30,
+    "orgs": [
+      {
+        "org": "Google GPT/DoubleClick",
+        "listed": true,
+        "reach": 492,
+        "failing": {
+          "k": 445,
+          "n": 492,
+          "pct": 90.4,
+          "lo": 87.5,
+          "hi": 92.7
+        }
+      },
+      {
+        "org": "youtube.com",
+        "listed": false,
+        "reach": 134,
+        "failing": {
+          "k": 126,
+          "n": 134,
+          "pct": 94.0,
+          "lo": 88.7,
+          "hi": 96.9
+        }
+      },
+      {
+        "org": "google.com",
+        "listed": false,
+        "reach": 113,
+        "failing": {
+          "k": 2,
+          "n": 113,
+          "pct": 1.8,
+          "lo": 0.5,
+          "hi": 6.2
+        }
+      },
+      {
+        "org": "Google IMA SDK (ads in video)",
+        "listed": true,
+        "reach": 112,
+        "failing": {
+          "k": 10,
+          "n": 112,
+          "pct": 8.9,
+          "lo": 4.9,
+          "hi": 15.7
+        }
+      },
+      {
+        "org": "Piano",
+        "listed": true,
+        "reach": 108,
+        "failing": {
+          "k": 31,
+          "n": 108,
+          "pct": 28.7,
+          "lo": 21.0,
+          "hi": 37.9
+        }
+      },
+      {
+        "org": "2mdn.net",
+        "listed": false,
+        "reach": 89,
+        "failing": {
+          "k": 67,
+          "n": 89,
+          "pct": 75.3,
+          "lo": 65.4,
+          "hi": 83.1
+        }
+      },
+      {
+        "org": "Criteo",
+        "listed": true,
+        "reach": 33,
+        "failing": {
+          "k": 33,
+          "n": 33,
+          "pct": 100.0,
+          "lo": 89.6,
+          "hi": 100.0
+        }
+      },
+      {
+        "org": "privacy-mgmt.com",
+        "listed": false,
+        "reach": 33,
+        "failing": {
+          "k": 12,
+          "n": 33,
+          "pct": 36.4,
+          "lo": 22.2,
+          "hi": 53.4
+        }
+      },
+      {
+        "org": "facebook.com",
+        "listed": false,
+        "reach": 30,
+        "failing": {
+          "k": 30,
+          "n": 30,
+          "pct": 100.0,
+          "lo": 88.6,
+          "hi": 100.0
+        }
+      }
+    ]
+  }
+}

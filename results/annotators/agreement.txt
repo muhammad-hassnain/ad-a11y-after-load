@@ -1,0 +1,22 @@
+News-publisher labels: agreement between the three automatic annotators
+========================================================================
+
+Rater A: domain rules (domain name, platform blocklist, GDELT and Wikidata corpora, lexical patterns).  N = 2465
+Rater B: an LLM.  N = 395
+Rater C: crawl-feature rules (publisher trackers, consent banner and article shape, vendor count, visible text).  N = 2500
+
+--- 3-category κ (news_publisher / not_news_publisher / ambiguous), sites all three labelled ---
+  κ(A, B) = +0.265   observed agreement = 0.565   N = 395
+  κ(A, C) = +0.047   observed agreement = 0.382   N = 395
+  κ(B, C) = +0.019   observed agreement = 0.451   N = 395
+  Fleiss κ(A, B, C) = +0.062   N = 395
+
+--- 2-category κ (news_publisher vs other), sites all three labelled ---
+  κ(A, B) = +0.336   observed agreement = 0.641   N = 395
+  κ(A, C) = +0.049   observed agreement = 0.524   N = 395
+  κ(B, C) = -0.027   observed agreement = 0.489   N = 395
+  Fleiss κ(A, B, C) = +0.090   N = 395
+
+--- κ(A, C) on all sites both labelled ---
+  κ(A, C) = +0.008   observed agreement = 0.366   N = 2465
+  κ(A, C) binary = +0.008   observed agreement = 0.496   N = 2465

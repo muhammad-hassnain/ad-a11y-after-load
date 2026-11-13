@@ -1,0 +1,8 @@
+# Python 3.10 or later. The analysis, annotator and check scripts use the
+# standard library plus these two packages:
+numpy==2.5.3                    # analysis/delta.py (bootstrap CIs, Hodges-Lehmann)
+matplotlib==3.11.2              # scripts/make_figures.py
+# Only sample/sample.py needs these (it queries the Chrome UX Report on
+# BigQuery to rebuild the sample; nothing else uses them):
+google-cloud-bigquery==3.46.1
+db-dtypes==1.7.2

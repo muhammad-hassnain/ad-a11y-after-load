@@ -1,0 +1,1582 @@
+{
+  "20min.ch": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "525.az": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "62info.ru": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "7info.ru": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "aachener-zeitung.de": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "aawsat.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "abc17news.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "abcnews.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "abendzeitung-muenchen.de": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "abualiexpress.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "acento.com.do": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "actualidad-rt.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "adn.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "afaqs.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "affaritaliani.it": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "afl.com.au": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "aftenposten.no": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "alfavita.gr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "alroya.om": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "altapress.ru": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "americanthinker.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ampravda.ru": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "androidpolice.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ansa.it": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "archaeology.org": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "archdaily.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "arsenaldirect.arsenal.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "arstechnica.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "arynews.tv": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "asianews.network": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "assabah.ma": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "astroawani.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "athensvoice.gr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "autoexpress.co.uk": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "avclub.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "aviationweek.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "azbigmedia.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "azfamily.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "baijiahao.baidu.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bamsmackpow.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "barandbench.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bienpublic.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bigblueview.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "birgun.net": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bizjournals.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "blesk.cz": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "blic.rs": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "blog.google": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "blog.playstation.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bloomberght.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bndigital.bn.gov.br": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bollywoodhungama.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bombaysamachar.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bookmaker-ratings.ru": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "br.ign.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bravotv.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "breitbart.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bristolpost.co.uk": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bt.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bt.no": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "budejcka.drbna.cz": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bulletin.nu": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bullionvault.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "businessday.ng": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "businessinsider.com.pl": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "buzzfeed.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bzh.life": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "bzi.ro": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "calcalist.co.il": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "caliber.az": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "capital.bg": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "caravanmagazine.in": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "carscoops.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "cbc.ca": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "celebheights.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ch10.co.il": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "challenges.fr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "channel4.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "chicagotribune.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "chosun.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "collider.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "contextotucuman.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "corren.se": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "cosmopolitan.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "countrylife.co.uk": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "courrier-picard.fr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "coventrytelegraph.net": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "crhoy.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "cronista.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ctvnews.ca": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "dailyexcelsior.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "dailyherald.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "dailypakistan.com.pk": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "dailyvoice.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "daswetter.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "dddkursk.ru": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "decider.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "defenceweb.co.za": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "der-farang.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "deshabhimani.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "designboom.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "dezeen.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "dhakamail.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "diariocordoba.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "diariocorreo.pe": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "diariodeibiza.es": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "diariovasco.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "documents.gov.lk": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "donya-e-eqtesad.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "downtoearth.org.in": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "dr.dk": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "drf.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "dt.no": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "dv.is": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "echo-news.co.uk": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ed.nl": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "eghtesadonline.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "elancasti.com.ar": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "elchubut.com.ar": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "elciudadano.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "elcorreogallego.es": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "eldia.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "eldia.es": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "elidealgallego.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "elimparcial.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "elmundo.es": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "elnacional.cat": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "elperiodico.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "eluniversal.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "em.com.br": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "empireonline.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "en.dailypakistan.com.pk": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "enanyang.my": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "english.ahram.org.eg": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "english.news.cn": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "enovosty.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "eonline.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "epaper.deshonnati.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "es.ign.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "esp.md": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "estadao.com.br": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ettoday.net": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "evrensel.net": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "excelsior.com.mx": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "exclaim.ca": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "expressandstar.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "expressen.se": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "farodevigo.es": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "faz.net": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "femina.hu": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "fijisun.com.fj": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "fijivillage.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "fontanka.ru": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "formula1.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "fox11online.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "fox6now.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "fr.de": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "freemalaysiatoday.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "friatider.se": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ft.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "gaana.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "gasteizhoy.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "gd.no": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "giornaledibrescia.it": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "glamour.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "glassrpske.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "glavred.net": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "gooieneemlander.nl": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "grupoanimal.mx": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "guitarplayer.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "gulfnews.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "gulte.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "haqqin.az": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "hardcoregamer.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "heraldscotland.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "heraldsun.com.au": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "highlandradio.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "hk01.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "hna.de": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "hnnoticias.com.br": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "hogshaven.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "hollywoodreporter.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "hrw.org": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "humanite.fr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "idomin.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "igihe.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ilpescara.it": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ilrestodelcarlino.it": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ilsecoloxix.it": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ilsole24ore.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "iltirreno.it": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "in.gr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "indiankanoon.org": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "info24.ru": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "infomoney.com.br": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "inn.ir": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "irozhlas.cz": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "israelhayom.co.il": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "jagranjosh.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "jalopnik.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "jamaicaobserver.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "janwani.in": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "japantimes.co.jp": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "joburg.org.za": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "jornada.com.mx": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "jtv.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "kahoku.news": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "kaieteurnewsonline.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "kalbela.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "karjalainen.fi": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "kauno.diena.lt": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "kayhan.ir": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "kcra.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "kcrg.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "koha.net": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "komonews.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "kristianstadsbladet.se": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ksl.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ksta.de": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "kyoto-np.co.jp": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "la.lv": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "lacapital.com.ar": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "lamontagne.fr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "laopinionaustral.com.ar": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "laopinioncoruna.es": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "laopiniondemalaga.es": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "lapinkansa.fi": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "laprovence.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "larepublica.pe": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "lasprovincias.es": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "lastampa.it": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "lepoint.fr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "lesnumeriques.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "lesoleil.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "letemps.ch": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "liberation.fr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "libertatea.ro": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "liverpoolfc.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "lr-online.de": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "lrytas.lt": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "maalaimalar.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "maaleht.delfi.ee": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "makeuseof.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "malagahoy.es": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "marianne.net": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "mashable.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "masslive.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "mathrubhumi.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "maz-online.de": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "medicalnewstoday.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "meinbezirk.at": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "mentalfloss.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "messaggeroveneto.it": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "meteored.cl": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "mgronline.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "milanofinanza.it": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "milehighreport.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "mitti.se": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "modernghana.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "montrealgazette.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "motorcyclenews.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "mt.co.kr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "muksun.fm": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "munhwa.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "muse.jhu.edu": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "na.se": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "nation.com.pk": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "nau.ch": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "nbcmiami.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ncaa.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "neakriti.gr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "nerdwallet.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "nesn.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "nettavisen.no": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "newegg.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "news.mongabay.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "news.telegraf.com.ua": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "newser.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "newsru.co.il": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "newsweek.pl": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "nme.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "nn.ru": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "nordjyske.dk": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "novinky.cz": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "nv.ua": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "nw.de": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "nzherald.co.nz": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "nzz.ch": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "oed.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "oem.com.mx": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "oliberal.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ominho.pt": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "orientaldaily.on.cc": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "origo.hu": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "otempo.com.br": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ouest-france.fr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "panow.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "paperspast.natlib.govt.nz": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "parapolitika.gr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "pcmag.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "pelop.gr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "pianetabasket.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "plovdiv24.bg": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "politico.eu": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "prabhatkhabar.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "prensa.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "prensalibre.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "prevention.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "prima.co.uk": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "punemirror.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "pz-news.de": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "qatarliving.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "riazor.org": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "road.cc": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "rodong.rep.kp": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "routard.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "rtbf.be": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "rte.ie": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "saechsische.de": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "sakigake.jp": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "sb.by": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "sciencealert.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "scientificamerican.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "sdpnoticias.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "seekingalpha.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "segre.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "si.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "silive.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "skymetweather.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "slate.fr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "sozcu.com.tr": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "space.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "startribune.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "statesman.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "stepstone.de": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "stuff.co.nz": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "sundayguardianlive.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "sundayworld.co.za": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "super.kg": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "svobodnoslovo.eu": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "svt.se": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "sydsvenskan.se": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "tagesanzeiger.ch": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "tbsnews.net": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "tek.no": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "telegram.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "tengrinews.kz": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "terra.com.br": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "tes.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "the-independent.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "theaustralian.com.au": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "theconversation.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "thedailymeal.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "thefutoncritic.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "theguardian.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "thelandryhat.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "themarker.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "thenational.scot": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "thenationalnews.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "thescottishsun.co.uk": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "theweek.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "tijd.be": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "timesofisrael.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "timesofmalta.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "tmz.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "torontosun.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "triblive.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "udayavani.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ukrinform.ua": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ultimahora.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ultimahora.es": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "unn.ua": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "valeursactuelles.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "vedomosti.ru": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "vietnamplus.vn": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "vijesti.me": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "vikings.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "vtv.vn": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "vz.ru": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "wgme.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "whathifi.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "wisn.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "wiwo.de": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "wndu.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "womanandhome.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "womenshealthmag.com": {
+    "label": "ambiguous",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "wpde.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "wpxi.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "wsfa.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "wwd.com": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "yardbarker.com": {
+    "label": "not_news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "yorkshirepost.co.uk": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "ystadsallehanda.se": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "yucatan.com.mx": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  },
+  "zaobao.com.sg": {
+    "label": "news_publisher",
+    "labeled_at": "2026-10-11T09:50:03Z"
+  }
+}

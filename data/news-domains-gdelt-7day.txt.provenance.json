@@ -1,0 +1,63 @@
+{
+  "generatedAt": "2026-10-08T04:18:17Z",
+  "mergeOf": [
+    {
+      "path": "data/news-domains-gdelt-20260930.txt",
+      "sha256": "106a0807600a54ca83d7fe051df35650db228b62d8839384c0e1fd86dd8fe3d6",
+      "domains": 7277,
+      "upstream": "GDELT Project GKG v2.0",
+      "date": null,
+      "gdeltFiles": []
+    },
+    {
+      "path": "data/news-domains-gdelt-20261001.txt",
+      "sha256": "248871dbd0ae841f8e347986652bec1f6c9bd1684c9548a093701d7fca4dc6fb",
+      "domains": 7373,
+      "upstream": "GDELT Project GKG v2.0",
+      "date": null,
+      "gdeltFiles": []
+    },
+    {
+      "path": "data/news-domains-gdelt-20261002.txt",
+      "sha256": "65bc88b045693cd7df5e61b7c95fb8366e1fcfca1d5ca52d119656db8681a7af",
+      "domains": 7092,
+      "upstream": "GDELT Project GKG v2.0",
+      "date": null,
+      "gdeltFiles": []
+    },
+    {
+      "path": "data/news-domains-gdelt-20261003.txt",
+      "sha256": "3f3eab5e089fb2dd79d743ae731211465d5edf0e6bbc1d64c049978a00a0752c",
+      "domains": 5267,
+      "upstream": "GDELT Project GKG v2.0",
+      "date": null,
+      "gdeltFiles": []
+    },
+    {
+      "path": "data/news-domains-gdelt-20261004.txt",
+      "sha256": "8167d91726c5ce9e4604d57ff832d0d168685f263358526fc4f1f59b9e17f837",
+      "domains": 4501,
+      "upstream": "GDELT Project GKG v2.0",
+      "date": null,
+      "gdeltFiles": []
+    },
+    {
+      "path": "data/news-domains-gdelt-20261005.txt",
+      "sha256": "3af5bfc489f0a2d2eedb005e1ad8506db868af6bd50942af080091fab1b8421e",
+      "domains": 7093,
+      "upstream": "GDELT Project GKG v2.0",
+      "date": null,
+      "gdeltFiles": []
+    },
+    {
+      "path": "data/news-domains-gdelt-20261006.txt",
+      "sha256": "b609e36f506fdf4a780cb66b6c16d4bdaebed76ccc25dde272d70f7fc17c6bbe",
+      "domains": 7197,
+      "upstream": "GDELT Project GKG v2.0",
+      "date": null,
+      "gdeltFiles": []
+    }
+  ],
+  "mergedDomainCount": 9523,
+  "outputSha256": "0960c82fbfa6cfd1ef988847076348cec350c081160a60b23b97fcf5d66ea8a5"
+}

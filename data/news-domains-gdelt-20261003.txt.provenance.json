@@ -1,0 +1,492 @@
+{
+  "generatedAt": "2026-10-08T04:17:53Z",
+  "source": "GDELT Project GKG v2.0",
+  "dateFilter": "20261003",
+  "nFilesRequested": 96,
+  "nFilesFetched": 96,
+  "minMentionsFilter": 1,
+  "nUniqueDomains": 5267,
+  "outputSha256": "aa1780c04715cec4926e4c58979ca9df1e10ab3b783f19cf4a527153452eb96c",
+  "sourceFiles": [
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003000000.gkg.csv.zip",
+      "sha256": "91f5ace0012756610628c8d818b99af9eb611c86739ba748d0244f2fe054a915",
+      "bytes": 5020580
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003001500.gkg.csv.zip",
+      "sha256": "4acab04a9d5853ad15343312451f9db465a1e39ad271345c6a94679efc1e5644",
+      "bytes": 3503547
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003003000.gkg.csv.zip",
+      "sha256": "9c0d2249d744d8abb1c22377cc08da2b4a8cd905731cfb78705ec37e80c73983",
+      "bytes": 4222541
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003004500.gkg.csv.zip",
+      "sha256": "0b17c3f55d79b518f52352f3a1e93aa1f719a301d82b76be9bfb8ed2207d01e5",
+      "bytes": 3665580
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003010000.gkg.csv.zip",
+      "sha256": "5b746969e3898c1f501a669057776b3602a73c68a8ccd392f1326940eee9c5bc",
+      "bytes": 3440490
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003011500.gkg.csv.zip",
+      "sha256": "ad1e5f92a14ac16f508fcd5b484a79310870f9960936ef0778141652f0e6131b",
+      "bytes": 3677114
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003013000.gkg.csv.zip",
+      "sha256": "89a9f02db0f29646948f75a7a4379fd41595ae11cd227f3581fd2ae7504559b3",
+      "bytes": 3314647
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003014500.gkg.csv.zip",
+      "sha256": "fdb1b97c2c6e3db92e8f23e5f876df56ca40928fcf142f92a6bb0b149ef5a3bc",
+      "bytes": 2422506
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003020000.gkg.csv.zip",
+      "sha256": "8243e031608d05927ef2c0c962d96e4be10c00016371fc7ba21eb642b01b3163",
+      "bytes": 2601377
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003021500.gkg.csv.zip",
+      "sha256": "847bc17d2165a0f70faf2ba6c1eb597227af4eac12e360b7f4c3735a1c1b8a4a",
+      "bytes": 3160824
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003023000.gkg.csv.zip",
+      "sha256": "3896e0fb2dd2f3fa9fcbb1e5a8b87265387cc508d44ae6bfb26af72055f248d8",
+      "bytes": 2747754
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003024500.gkg.csv.zip",
+      "sha256": "02a62f3868dc24660e2d51dfc5844f43520653ca9f6f55bf0f1a993eb944015b",
+      "bytes": 2847691
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003030000.gkg.csv.zip",
+      "sha256": "cfa4716372e1e97123a03ede2a4e1dbd86423f449ca3c5a3e713f2edc7e35074",
+      "bytes": 2225062
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003031500.gkg.csv.zip",
+      "sha256": "8cc658a31eeac5a8a19315a40b9c8e280fb1465e49b07e258582252b0a7adcc1",
+      "bytes": 2236789
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003033000.gkg.csv.zip",
+      "sha256": "bdc964cd9614153c6a4b7ca65259356462c326eaf875991f34e1042bc5e27bc8",
+      "bytes": 2217756
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003034500.gkg.csv.zip",
+      "sha256": "5d6c371056a87f44e1a20d9cdc8983d7483a431320008e2f63ac71f144f14b5a",
+      "bytes": 2693003
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003040000.gkg.csv.zip",
+      "sha256": "be47741e6741eaa9f0c0ed3408a8a6677b8d02704b59dd88d8cbd0d25151bcd1",
+      "bytes": 1580314
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003041500.gkg.csv.zip",
+      "sha256": "0f6c720621640ed5015a5a2f971cb982ba7bf0b67273e01319c63a734adc67a1",
+      "bytes": 2105679
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003043000.gkg.csv.zip",
+      "sha256": "a374c662c7f037bcf421473e86f6f3f76dcd48121468ab967b0e7b77be7f8fc0",
+      "bytes": 2474568
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003044500.gkg.csv.zip",
+      "sha256": "b3475fd88ca7ce1599351b2b0a25024fa93790493f0234bd1f1ef967b5454799",
+      "bytes": 2591774
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003050000.gkg.csv.zip",
+      "sha256": "04c28fb5062f855a48df3273d2cab436d996f4ea0dc3d5037fb7eae9abc9a3d6",
+      "bytes": 2903990
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003051500.gkg.csv.zip",
+      "sha256": "67f0f7564af347a0d3120cb6d6fe74fece39491ca1adb593aa2108589d772019",
+      "bytes": 1801029
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003053000.gkg.csv.zip",
+      "sha256": "1e473b4eaa62662908716eb5b70ba2d589b39e895888c31ed2090e8c4bed1510",
+      "bytes": 2886668
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003054500.gkg.csv.zip",
+      "sha256": "f78f7808d0bb8019b10540a1beb3d392568cea656f8b1adc05cb3f012168ca26",
+      "bytes": 2234028
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003060000.gkg.csv.zip",
+      "sha256": "85d822922eeabb3b8c3849c89f6afab1a976799cfdc78295b8f1e33ed4148289",
+      "bytes": 2644350
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003061500.gkg.csv.zip",
+      "sha256": "311d56faf64b104c36b92fc76203a5e32c44144d7fdda7193dcad3b1f7d15c94",
+      "bytes": 1956870
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003063000.gkg.csv.zip",
+      "sha256": "52e4ff5a8737f51f6fcae91ec68c754cb2b1e4ba074d73d45d9c7b3d97d9a3fb",
+      "bytes": 2409906
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003064500.gkg.csv.zip",
+      "sha256": "875b0f5e6ee8e486157d6630799b22fac1fb3850cb4430e533a04f29e7b97977",
+      "bytes": 2158782
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003070000.gkg.csv.zip",
+      "sha256": "b801ebee01da725f63a8173032f1b406ef5efc8093f55d2438d387ef31da4c72",
+      "bytes": 2616951
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003071500.gkg.csv.zip",
+      "sha256": "ebd6bd5d9da44defd44f69481c3caf7dfabe4dd7411da7ea564244db40f9cb86",
+      "bytes": 2474888
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003073000.gkg.csv.zip",
+      "sha256": "238d9c71d9a63cdcf9c37d4a9cafadbcc03fc9402523dd09daa4425a57d56d7a",
+      "bytes": 2203939
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003074500.gkg.csv.zip",
+      "sha256": "b6be79d9c57698c6bb9c64ff277b696479f1d277ed9009959d503f4e2ced623a",
+      "bytes": 2261947
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003080000.gkg.csv.zip",
+      "sha256": "1b8480263ed273483b6af420994f0b20bb3009a6abeaff50678febe37cd3cd14",
+      "bytes": 2360784
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003081500.gkg.csv.zip",
+      "sha256": "a13826df4778a98a84bb7878cd5041521e64742e75e0b29b1afe40693729ca2e",
+      "bytes": 2508768
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003083000.gkg.csv.zip",
+      "sha256": "03344714e1fc01bcd3c82a32075c9bf4fedc0f4436c4d73c2e5b3f9bebee78b9",
+      "bytes": 2634961
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003084500.gkg.csv.zip",
+      "sha256": "b83e77316f28762cde58c73dcd3a6218b43b21f82248d3c360d99bf56eaeeb7c",
+      "bytes": 2890110
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003090000.gkg.csv.zip",
+      "sha256": "c00f35ecca52443a46aaeb495d0aa9ac44bbb0ba95670b2b99ab013af48581e4",
+      "bytes": 2727966
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003091500.gkg.csv.zip",
+      "sha256": "590ffeac3f7b0d5ea02c9cf995010b0365997e2c5309be94653ce80ad1eda381",
+      "bytes": 2976208
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003093000.gkg.csv.zip",
+      "sha256": "e78101c07a3e843f801ee7374f7032a4a4c4434fefbbef5f9a214227b355e0b0",
+      "bytes": 2485364
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003094500.gkg.csv.zip",
+      "sha256": "3328fa93d8123387f4d7a3933d341b5e07ae60dda11d9c4c1835a1ec3f2f7f2a",
+      "bytes": 2822391
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003100000.gkg.csv.zip",
+      "sha256": "2a687e693a82098bf05b0a9297eb89770eefa0f2169095769a0c95976e980d09",
+      "bytes": 2658643
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003101500.gkg.csv.zip",
+      "sha256": "5f2cccdeeee36268d138ee1f367ba18b86313be55621fe7ce142b6aafee99b5a",
+      "bytes": 2857713
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003103000.gkg.csv.zip",
+      "sha256": "23f3f17a53df1c811a0cd9db706690502911433e639fdaa175838c587d32e923",
+      "bytes": 2876105
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003104500.gkg.csv.zip",
+      "sha256": "5ef6d6a44434da4d51e533b58d2023caa45c6f15b491918640ecd706b0ccecb9",
+      "bytes": 2492993
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003110000.gkg.csv.zip",
+      "sha256": "e769bc0aed86dfd1c7dad6dd4ee98c85fbad5d19c4e4cbb2c6bda7845efb9608",
+      "bytes": 3191718
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003111500.gkg.csv.zip",
+      "sha256": "b28ce19dc6bfc4ea3b5c72ff42e95b152d5b0f22cf4ca2ad38d60911b0cbe118",
+      "bytes": 2255785
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003113000.gkg.csv.zip",
+      "sha256": "78297ea44aa0bf3ef38c68af7114da4f1d42350705ad7cc7ec69f5249dacae47",
+      "bytes": 2871290
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003114500.gkg.csv.zip",
+      "sha256": "10233eb05c25c473bd897f05efd6a009d5c987b6bb6d7b8f961908038ec97112",
+      "bytes": 2756695
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003120000.gkg.csv.zip",
+      "sha256": "c31afdec6df565e8dea280072bd7106d87c9f508e5ec8c3ec0eb121f7fd26b54",
+      "bytes": 2811200
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003121500.gkg.csv.zip",
+      "sha256": "3ac4d6db1f0139590bf92e8dcb66320a0e9b62f2f358cfcf74eb49452b8d248a",
+      "bytes": 2631695
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003123000.gkg.csv.zip",
+      "sha256": "5ab545b6a0c1e87b82ecef780728fafd420914cf48bab45e0d322bd653333857",
+      "bytes": 2961532
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003124500.gkg.csv.zip",
+      "sha256": "9d5be9754a11b4f4fa23095120c16253fc86f0ac34a849893ae15b0aa78f3b43",
+      "bytes": 2894380
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003130000.gkg.csv.zip",
+      "sha256": "d21f3925d8759de8d286da702a0d9e9db7aecb39d1044628daa0eae3f6582e99",
+      "bytes": 3449055
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003131500.gkg.csv.zip",
+      "sha256": "61a3dba0608272d9941dc58f38b6805b51e8f81a615ad4e247804eab095f51d6",
+      "bytes": 3010130
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003133000.gkg.csv.zip",
+      "sha256": "b8e08905a3c0a0112f3a9ecd764bb41c2d96653f7dea3b2343ebeb84a47401dd",
+      "bytes": 3448011
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003134500.gkg.csv.zip",
+      "sha256": "bcea64fe64edcea9e76a5c2ca140e04894e3663a3bf4262101d0af26fe904995",
+      "bytes": 3900421
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003140000.gkg.csv.zip",
+      "sha256": "79accb13c0b905d02c6d339f8d6ff785f28999d2da9a687aa02af550b1bff88c",
+      "bytes": 3102593
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003141500.gkg.csv.zip",
+      "sha256": "ec4984247a7c09056f8ac7e6bb0e84ee163e9ce99983304604d2ee23db45eeaa",
+      "bytes": 2828426
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003143000.gkg.csv.zip",
+      "sha256": "5bb19595a81c40e39319d9e78cce450998dc3061000da96efe330c1d0a3f8a54",
+      "bytes": 2546919
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003144500.gkg.csv.zip",
+      "sha256": "b8ec1ce2c5fa0d0b122009ad6dc230901998211a60f77f46877af77afb60c7ab",
+      "bytes": 2829087
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003150000.gkg.csv.zip",
+      "sha256": "1e75da98c0f3eb8a40f8928351ee90280980277d0a23196e2384a28dd61764a1",
+      "bytes": 3298483
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003151500.gkg.csv.zip",
+      "sha256": "a122f649a86625eb4562b849b64364ef33b355e3eb7ea49c15acb6b217f72f6e",
+      "bytes": 2912849
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003153000.gkg.csv.zip",
+      "sha256": "d2b3856a691c21a936848610ac6d48b1da9b0b8c28614362e2ba5d28e9967a5a",
+      "bytes": 3409395
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003154500.gkg.csv.zip",
+      "sha256": "3049a2776fa160e9aae2bfee4bc6d304367c420115d9d2fcab9cfcaec830f118",
+      "bytes": 3231263
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003160000.gkg.csv.zip",
+      "sha256": "a30c029276327916104c92ced2247b7536ce5ba7929499c7f7585bf62f7bdff5",
+      "bytes": 2627008
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003161500.gkg.csv.zip",
+      "sha256": "76ab528f299d917ae59b60945d4b284c8d26673d438577380dc2d3c28fa4b04c",
+      "bytes": 2721450
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003163000.gkg.csv.zip",
+      "sha256": "15ebd4b8028edee56922c6a9b2cd388cc9000ffdbe0583d5e978b85b4a0807c4",
+      "bytes": 3152107
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003164500.gkg.csv.zip",
+      "sha256": "b908a30ce3cf112129985c7b2884f87bcef86f279158453fc54d923192063a46",
+      "bytes": 3108047
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003170000.gkg.csv.zip",
+      "sha256": "04450f4209cafb2fa8d4c8c4d25a1e6c86462d429d16c86271cc7f1d0861124a",
+      "bytes": 2495707
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003171500.gkg.csv.zip",
+      "sha256": "7e1b3755188d2c91a008fd3a94ef8d61732628a75b1bb617a9cdb4708132efa7",
+      "bytes": 3039223
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003173000.gkg.csv.zip",
+      "sha256": "6628ec101f37d096716dd616e91fd778bd094304ca2653d319dc8e9a74bd2c95",
+      "bytes": 2748067
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003174500.gkg.csv.zip",
+      "sha256": "12ec612f53e3a90c0a3d45f88dc1b5c363eea71ce12f34ac83f842e3e3b7d533",
+      "bytes": 2862904
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003180000.gkg.csv.zip",
+      "sha256": "079309817301aa28569641492f2e531ed9946e48f1e8a9ddf575811a77d05c6d",
+      "bytes": 2956608
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003181500.gkg.csv.zip",
+      "sha256": "611eed54f38e356dc73871710156b00b633de788e984bcc0f6d81445d6533fd7",
+      "bytes": 3144978
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003183000.gkg.csv.zip",
+      "sha256": "a4f8a73770b28221639cce9a2ac46b0ccf9cb0f4f88c3807474761d1ffe267c9",
+      "bytes": 2713840
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003184500.gkg.csv.zip",
+      "sha256": "b4af7cb552d2ecc6749846bb3158254c3c0d96c871e517d7fefe55679ef3f36e",
+      "bytes": 2784221
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003190000.gkg.csv.zip",
+      "sha256": "10e6b74a4e54ec51bcfb7f064064858183c1cd6bb4e59ebc0d41e2d5e1babbf4",
+      "bytes": 2500651
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003191500.gkg.csv.zip",
+      "sha256": "cc9ced720b34573befa60bd3cd74f5922981ceb27dcbb4341ccef79c6addeada",
+      "bytes": 2927584
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003193000.gkg.csv.zip",
+      "sha256": "75bb0cb4cae9dda55c8e3820f6cf4f9bb7f3637141ff039f71638cb022c3b2c8",
+      "bytes": 2691482
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003194500.gkg.csv.zip",
+      "sha256": "d76c54a69bcc8d1a53b1da3a1259946c672a103ecf52c213b9d2e0baad51ea8f",
+      "bytes": 2611900
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003200000.gkg.csv.zip",
+      "sha256": "1a4c51ccfb3d464a9ebc4c2f203890c4df7356185c42bc98ba73067141ae3805",
+      "bytes": 2439251
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003201500.gkg.csv.zip",
+      "sha256": "e4e264c442edd1461b47d42bd80bf784f4b62437ee75e7f7204314f97a901747",
+      "bytes": 2194953
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003203000.gkg.csv.zip",
+      "sha256": "e18720ea2f9356d643cbf47e201ef3765b47bd043767ed9f777a9bba44a5e997",
+      "bytes": 2429417
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003204500.gkg.csv.zip",
+      "sha256": "20f630855fdfcc5533fe7605b8190cf4bad176827428eb9a3fd134236ef4b10f",
+      "bytes": 2826539
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003210000.gkg.csv.zip",
+      "sha256": "c6a61d22ae457bd6eff8d6ebef6847b9e3b8401b03b0035d630fda1d6405f6ed",
+      "bytes": 2802630
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003211500.gkg.csv.zip",
+      "sha256": "6b062f2924fceb9a70dad0b4f9c8769b7d6183f74dcf3ded01890aa9281197b1",
+      "bytes": 2493983
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003213000.gkg.csv.zip",
+      "sha256": "bda76d05dea51bdf9c6377b0f7fc3d9079a7106b82dc75ef3e150a217f68412d",
+      "bytes": 1638419
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003214500.gkg.csv.zip",
+      "sha256": "7a7f49edd0f5cd4765f93b73f39c0a38b7fab78b6a245c23a5def64f040da0bb",
+      "bytes": 2669019
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003220000.gkg.csv.zip",
+      "sha256": "4b7ca9968c36bf8ca4d33e128bfe611885cf95f1b6913c369c8f77610916cad1",
+      "bytes": 2280335
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003221500.gkg.csv.zip",
+      "sha256": "a0cde906e03b34f422ee621c51eacdc684b851eb8b18156582d6150231eecd88",
+      "bytes": 1800282
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003223000.gkg.csv.zip",
+      "sha256": "d7bb2f4a4fe24f99575c8d273af8208dfa84a76f3d53d6cc2750caca8c419e78",
+      "bytes": 2532559
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003224500.gkg.csv.zip",
+      "sha256": "e786e36104e7672962b28d430ce040f7d9307ec7df66ffde3cace1ac4310bdd9",
+      "bytes": 2405788
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003230000.gkg.csv.zip",
+      "sha256": "d2ab5375e248d49c86771703c0edb52a3633d9ed94a22f5c12a38554f9723412",
+      "bytes": 2007499
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003231500.gkg.csv.zip",
+      "sha256": "6b4554a217bc04432215ae0563be517a5987a7795f1ab475f3082d4341189c88",
+      "bytes": 1374495
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003233000.gkg.csv.zip",
+      "sha256": "ffbcc3b93ce3661b4cc841f698e0f55d8762bff0e03c1c8a129d740518685c32",
+      "bytes": 2314839
+    },
+    {
+      "url": "http://data.gdeltproject.org/gdeltv2/20261003234500.gkg.csv.zip",
+      "sha256": "114af913c9a2e3d0a6617ce78ebe7646a5d544e2036e964eab5a46ab9f671cf6",
+      "bytes": 2407328
+    }
+  ]
+}
