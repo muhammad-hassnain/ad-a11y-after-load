@@ -276,5 +276,20 @@ CI 69.2–90.2) are news publishers.
   (HTML snippets, request URLs) belongs to the respective site owners and is
   not covered by this license.
 
+## Citation
+
 If you use this artifact, please cite the paper *What Load-Time
-Accessibility Checks Miss on Ad-Supported News Sites*.
+Accessibility Checks Miss on Ad-Supported News Sites*
+([PDF](https://muhammad-hassnain.github.io/assets/pdf/Ads-Accessibility.pdf)).
+GitHub's "Cite this repository" button gives the same reference from
+[`CITATION.cff`](CITATION.cff).
+
+```bibtex
+@misc{Hassnain2026AdsAccessibility,
+  author = {Hassnain, Muhammad},
+  title  = {What Load-Time Accessibility Checks Miss on Ad-Supported News Sites},
+  year   = {2026},
+  note   = {Preprint},
+  url    = {https://muhammad-hassnain.github.io/assets/pdf/Ads-Accessibility.pdf}
+}
+```

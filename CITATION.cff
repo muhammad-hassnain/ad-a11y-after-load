@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite the paper below."
+title: "ad-a11y-after-load: artifact for What Load-Time Accessibility Checks Miss on Ad-Supported News Sites"
+type: software
+authors:
+  - family-names: Hassnain
+    given-names: Muhammad
+    affiliation: "University of California, Davis"
+repository-code: "https://github.com/muhammad-hassnain/ad-a11y-after-load"
+url: "https://muhammad-hassnain.github.io/projects/Ads_Accessibility/"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - web accessibility
+  - WCAG
+  - online advertising
+  - automated accessibility testing
+preferred-citation:
+  type: unpublished
+  title: "What Load-Time Accessibility Checks Miss on Ad-Supported News Sites"
+  authors:
+    - family-names: Hassnain
+      given-names: Muhammad
+      affiliation: "University of California, Davis"
+  year: 2026
+  notes: "Preprint"
+  url: "https://muhammad-hassnain.github.io/assets/pdf/Ads-Accessibility.pdf"
